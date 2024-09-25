@@ -1,0 +1,2530 @@
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\add.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\aptoAdd.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\aptoDel.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\del.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\dividirCartas.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\dividirPenas.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\help.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\iniciarEnquete.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\jogadores.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\justificarfalta.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\listarPenas.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\listarpresenca.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\mvpmini.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\newiniciarEnquete.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\opniao.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\presenca.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\prioridadeAdd.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\prioridadeDel.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\processarEnquete.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\resetarPenas.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\resetarPresenca.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\rolemvpmini.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\syncpresenca.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\todosAptos.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:33:58] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\todosNaoAptos.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-20 09:34:00] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-20 09:34:00] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-20 09:34:00] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-20 09:46:14] [INFO] Comando carregado: add
+[2024-09-20 09:46:14] [INFO] Comando carregado: del
+[2024-09-20 09:46:15] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-20 09:46:15] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-20 09:46:15] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-20 09:46:46] [INFO] Comando carregado: add
+[2024-09-20 09:46:46] [INFO] Comando carregado: del
+[2024-09-20 09:46:47] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-20 09:46:47] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-20 09:46:48] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-20 09:47:18] [INFO] [20/09/2024, 09:47:18] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-20 09:52:57] [INFO] [20/09/2024, 09:52:57] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:36:22] [INFO] Comando carregado: add
+[2024-09-22 19:36:22] [INFO] Comando carregado: del
+[2024-09-22 19:36:23] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 19:36:23] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 19:36:23] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 19:38:20] [INFO] [22/09/2024, 19:38:20] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:40:38] [INFO] Comando carregado: add
+[2024-09-22 19:40:38] [INFO] Comando carregado: del
+[2024-09-22 19:40:38] [INFO] Comando carregado: listarjogadores
+[2024-09-22 19:40:40] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 19:40:40] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 19:40:40] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 19:41:00] [INFO] [22/09/2024, 19:41:00] Comando executado: /listarjogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:43:57] [INFO] Comando carregado: add
+[2024-09-22 19:43:57] [INFO] Comando carregado: del
+[2024-09-22 19:43:57] [INFO] Comando carregado: listarjogadores
+[2024-09-22 19:43:58] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 19:43:58] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 19:43:58] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 19:43:59] [INFO] [22/09/2024, 19:43:59] Comando executado: /listarjogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:44:20] [INFO] [22/09/2024, 19:44:20] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:44:41] [INFO] [22/09/2024, 19:44:41] Comando executado: /listarjogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:47:39] [INFO] Comando carregado: add
+[2024-09-22 19:47:39] [INFO] Comando carregado: apto
+[2024-09-22 19:47:39] [INFO] Comando carregado: del
+[2024-09-22 19:47:39] [INFO] Comando carregado: listarjogadores
+[2024-09-22 19:47:40] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 19:47:40] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 19:47:40] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 19:47:54] [INFO] [22/09/2024, 19:47:54] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:48:29] [INFO] [22/09/2024, 19:48:29] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:50:52] [INFO] Comando carregado: add
+[2024-09-22 19:50:52] [INFO] Comando carregado: apto
+[2024-09-22 19:50:52] [INFO] Comando carregado: del
+[2024-09-22 19:50:52] [INFO] Comando carregado: listarjogadores
+[2024-09-22 19:50:52] [INFO] Comando carregado: resetarpenas
+[2024-09-22 19:50:53] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 19:50:53] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 19:50:53] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 19:51:50] [INFO] Comando carregado: add
+[2024-09-22 19:51:50] [INFO] Comando carregado: apto
+[2024-09-22 19:51:50] [INFO] Comando carregado: del
+[2024-09-22 19:51:50] [INFO] Comando carregado: listarjogadores
+[2024-09-22 19:51:50] [INFO] Comando carregado: resetarpenas
+[2024-09-22 19:51:51] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 19:51:51] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 19:51:51] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 19:51:53] [INFO] [22/09/2024, 19:51:53] Comando executado: /resetarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:52:06] [INFO] [22/09/2024, 19:52:06] Comando executado: /resetarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:54:25] [INFO] Comando carregado: add
+[2024-09-22 19:54:25] [INFO] Comando carregado: apto
+[2024-09-22 19:54:25] [INFO] Comando carregado: aptos
+[2024-09-22 19:54:25] [INFO] Comando carregado: del
+[2024-09-22 19:54:25] [INFO] Comando carregado: listarjogadores
+[2024-09-22 19:54:25] [INFO] Comando carregado: resetarpenas
+[2024-09-22 19:54:26] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 19:54:26] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 19:54:26] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 19:54:36] [INFO] [22/09/2024, 19:54:36] Comando executado: /aptos, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:54:43] [INFO] [22/09/2024, 19:54:43] Comando executado: /listarjogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:55:00] [INFO] [22/09/2024, 19:55:00] Comando executado: /aptos, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 19:55:05] [INFO] [22/09/2024, 19:55:05] Comando executado: /listarjogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:00:14] [INFO] Comando carregado: add
+[2024-09-22 20:00:14] [INFO] Comando carregado: apto
+[2024-09-22 20:00:14] [INFO] Comando carregado: aptos
+[2024-09-22 20:00:14] [INFO] Comando carregado: del
+[2024-09-22 20:00:14] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:00:14] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:00:14] [INFO] Comando carregado: prioridade
+[2024-09-22 20:00:14] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:00:15] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:00:15] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:00:16] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:00:28] [INFO] [22/09/2024, 20:00:28] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:00:38] [INFO] [22/09/2024, 20:00:38] Comando executado: /aptos, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:00:42] [INFO] [22/09/2024, 20:00:42] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:00:55] [INFO] [22/09/2024, 20:00:55] Comando executado: /prioridade, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:01:01] [INFO] [22/09/2024, 20:01:01] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:09:18] [INFO] Comando carregado: add
+[2024-09-22 20:09:18] [INFO] Comando carregado: apto
+[2024-09-22 20:09:18] [INFO] Comando carregado: aptos
+[2024-09-22 20:09:18] [INFO] Comando carregado: del
+[2024-09-22 20:09:18] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:09:18] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:09:18] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:09:18] [INFO] Comando carregado: prioridade
+[2024-09-22 20:09:18] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:09:19] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:09:19] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:09:19] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:09:39] [INFO] Comando carregado: add
+[2024-09-22 20:09:39] [INFO] Comando carregado: apto
+[2024-09-22 20:09:39] [INFO] Comando carregado: aptos
+[2024-09-22 20:09:39] [INFO] Comando carregado: del
+[2024-09-22 20:09:39] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:09:39] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:09:39] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:09:39] [INFO] Comando carregado: prioridade
+[2024-09-22 20:09:39] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:09:40] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:09:40] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:09:41] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:09:48] [INFO] [22/09/2024, 20:09:48] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:09:56] [INFO] [22/09/2024, 20:09:56] Comando executado: /aptos, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:10:03] [INFO] [22/09/2024, 20:10:03] Comando executado: /prioridade, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:10:07] [INFO] [22/09/2024, 20:10:07] Comando executado: /listarjogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:10:12] [INFO] [22/09/2024, 20:10:12] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:10:18] [INFO] [22/09/2024, 20:10:18] Comando executado: /iniciarenquete, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:10:21] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:10:27] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:10:29] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:10:30] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:10:41] [INFO] [22/09/2024, 20:10:41] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:12:54] [INFO] Comando carregado: add
+[2024-09-22 20:12:54] [INFO] Comando carregado: apto
+[2024-09-22 20:12:54] [INFO] Comando carregado: aptos
+[2024-09-22 20:12:54] [INFO] Comando carregado: del
+[2024-09-22 20:12:54] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:12:54] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:12:54] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:12:54] [INFO] Comando carregado: prioridade
+[2024-09-22 20:12:54] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:12:55] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:12:55] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:12:55] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:13:00] [INFO] [22/09/2024, 20:12:59] Comando executado: /iniciarenquete, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:13:01] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:13:13] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:13:23] [INFO] [22/09/2024, 20:13:23] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:15:56] [INFO] Comando carregado: add
+[2024-09-22 20:15:56] [INFO] Comando carregado: apto
+[2024-09-22 20:15:56] [INFO] Comando carregado: aptos
+[2024-09-22 20:15:56] [INFO] Comando carregado: del
+[2024-09-22 20:15:56] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:15:56] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:15:56] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:15:56] [INFO] Comando carregado: prioridade
+[2024-09-22 20:15:56] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:15:57] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:15:57] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:15:57] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:16:00] [INFO] [22/09/2024, 20:16:00] Comando executado: /iniciarenquete, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:16:03] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:16:06] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:16:08] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:16:15] [INFO] [22/09/2024, 20:16:15] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:16:18] [INFO] [22/09/2024, 20:16:18] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:16:24] [INFO] [22/09/2024, 20:16:24] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:16:25] [INFO] [22/09/2024, 20:16:25] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:16:35] [INFO] [22/09/2024, 20:16:35] Comando executado: /iniciarenquete, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:16:38] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-22 20:16:57] [INFO] [22/09/2024, 20:16:57] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:17:31] [INFO] Comando carregado: add
+[2024-09-22 20:17:31] [INFO] Comando carregado: apto
+[2024-09-22 20:17:31] [INFO] Comando carregado: aptos
+[2024-09-22 20:17:31] [INFO] Comando carregado: del
+[2024-09-22 20:17:31] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:17:31] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:17:31] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:17:31] [INFO] Comando carregado: prioridade
+[2024-09-22 20:17:31] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:17:32] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:17:32] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:17:32] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:33:53] [INFO] Comando carregado: add
+[2024-09-22 20:33:53] [INFO] Comando carregado: apto
+[2024-09-22 20:33:53] [INFO] Comando carregado: aptos
+[2024-09-22 20:33:54] [INFO] Comando carregado: del
+[2024-09-22 20:33:54] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:33:54] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:33:54] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:33:54] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\mvpmini.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-22 20:33:54] [INFO] Comando carregado: prioridade
+[2024-09-22 20:33:54] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:33:54] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:33:54] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:33:55] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:34:28] [INFO] Comando carregado: add
+[2024-09-22 20:34:28] [INFO] Comando carregado: apto
+[2024-09-22 20:34:29] [INFO] Comando carregado: aptos
+[2024-09-22 20:34:29] [INFO] Comando carregado: del
+[2024-09-22 20:34:29] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:34:29] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:34:29] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:34:29] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\mvpmini.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-22 20:34:29] [INFO] Comando carregado: prioridade
+[2024-09-22 20:34:29] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:34:29] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:34:29] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:34:30] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:34:37] [INFO] Comando carregado: add
+[2024-09-22 20:34:37] [INFO] Comando carregado: apto
+[2024-09-22 20:34:37] [INFO] Comando carregado: aptos
+[2024-09-22 20:34:37] [INFO] Comando carregado: del
+[2024-09-22 20:34:37] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:34:37] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:34:37] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:34:37] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\mvpmini.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-22 20:34:37] [INFO] Comando carregado: prioridade
+[2024-09-22 20:34:37] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:34:38] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:34:38] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:34:38] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:36:07] [INFO] Comando carregado: add
+[2024-09-22 20:36:07] [INFO] Comando carregado: apto
+[2024-09-22 20:36:07] [INFO] Comando carregado: aptos
+[2024-09-22 20:36:07] [INFO] Comando carregado: del
+[2024-09-22 20:36:07] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:36:07] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:36:07] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:36:07] [INFO] Comando carregado: mvpmini
+[2024-09-22 20:36:07] [INFO] Comando carregado: prioridade
+[2024-09-22 20:36:07] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:36:07] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:36:07] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:36:08] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:36:25] [INFO] Comando carregado: add
+[2024-09-22 20:36:25] [INFO] Comando carregado: apto
+[2024-09-22 20:36:25] [INFO] Comando carregado: aptos
+[2024-09-22 20:36:25] [INFO] Comando carregado: del
+[2024-09-22 20:36:25] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:36:25] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:36:25] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:36:25] [INFO] Comando carregado: mvpmini
+[2024-09-22 20:36:25] [INFO] Comando carregado: prioridade
+[2024-09-22 20:36:25] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:36:26] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:36:26] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:36:26] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:36:30] [INFO] [22/09/2024, 20:36:30] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:39:25] [INFO] Comando carregado: add
+[2024-09-22 20:39:25] [INFO] Comando carregado: apto
+[2024-09-22 20:39:25] [INFO] Comando carregado: aptos
+[2024-09-22 20:39:25] [INFO] Comando carregado: del
+[2024-09-22 20:39:25] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:39:25] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:39:25] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:39:25] [INFO] Comando carregado: mvpmini
+[2024-09-22 20:39:25] [INFO] Comando carregado: prioridade
+[2024-09-22 20:39:25] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:39:26] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:39:26] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:39:26] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:39:30] [INFO] [22/09/2024, 20:39:30] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 20:40:13] [INFO] Comando carregado: add
+[2024-09-22 20:40:13] [INFO] Comando carregado: apto
+[2024-09-22 20:40:13] [INFO] Comando carregado: aptos
+[2024-09-22 20:40:13] [INFO] Comando carregado: del
+[2024-09-22 20:40:13] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 20:40:13] [INFO] Comando carregado: listarjogadores
+[2024-09-22 20:40:13] [INFO] Comando carregado: listarpenas
+[2024-09-22 20:40:13] [INFO] Comando carregado: mvpmini
+[2024-09-22 20:40:13] [INFO] Comando carregado: prioridade
+[2024-09-22 20:40:13] [INFO] Comando carregado: resetarpenas
+[2024-09-22 20:40:14] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 20:40:14] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 20:40:15] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 20:40:17] [INFO] [22/09/2024, 20:40:17] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:08:46] [INFO] Comando carregado: add
+[2024-09-22 22:08:46] [INFO] Comando carregado: apto
+[2024-09-22 22:08:46] [INFO] Comando carregado: aptos
+[2024-09-22 22:08:46] [INFO] Comando carregado: del
+[2024-09-22 22:08:46] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:08:46] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:08:46] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:08:46] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:08:46] [INFO] Comando carregado: prioridade
+[2024-09-22 22:08:46] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:08:47] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:08:47] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:08:47] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:08:58] [INFO] [22/09/2024, 22:08:58] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:12:17] [INFO] Comando carregado: add
+[2024-09-22 22:12:17] [INFO] Comando carregado: apto
+[2024-09-22 22:12:17] [INFO] Comando carregado: aptos
+[2024-09-22 22:12:17] [INFO] Comando carregado: del
+[2024-09-22 22:12:17] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:12:17] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:12:17] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:12:17] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:12:17] [INFO] Comando carregado: prioridade
+[2024-09-22 22:12:17] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:12:18] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:12:18] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:12:18] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:12:23] [INFO] [22/09/2024, 22:12:23] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:13:30] [INFO] Comando carregado: add
+[2024-09-22 22:13:30] [INFO] Comando carregado: apto
+[2024-09-22 22:13:30] [INFO] Comando carregado: aptos
+[2024-09-22 22:13:30] [INFO] Comando carregado: del
+[2024-09-22 22:13:30] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:13:30] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:13:30] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:13:30] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:13:30] [INFO] Comando carregado: prioridade
+[2024-09-22 22:13:30] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:13:31] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:13:31] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:13:31] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:13:33] [INFO] [22/09/2024, 22:13:33] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:15:21] [INFO] Comando carregado: add
+[2024-09-22 22:15:21] [INFO] Comando carregado: apto
+[2024-09-22 22:15:21] [INFO] Comando carregado: aptos
+[2024-09-22 22:15:21] [INFO] Comando carregado: del
+[2024-09-22 22:15:21] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:15:21] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:15:21] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:15:21] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:15:21] [INFO] Comando carregado: prioridade
+[2024-09-22 22:15:21] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:15:22] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:15:22] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:15:22] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:15:24] [INFO] [22/09/2024, 22:15:24] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:16:34] [INFO] Comando carregado: add
+[2024-09-22 22:16:34] [INFO] Comando carregado: apto
+[2024-09-22 22:16:34] [INFO] Comando carregado: aptos
+[2024-09-22 22:16:34] [INFO] Comando carregado: del
+[2024-09-22 22:16:34] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:16:34] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:16:34] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:16:34] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:16:34] [INFO] Comando carregado: prioridade
+[2024-09-22 22:16:34] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:16:35] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:16:35] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:16:35] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:16:36] [INFO] [22/09/2024, 22:16:36] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:17:14] [INFO] Comando carregado: add
+[2024-09-22 22:17:14] [INFO] Comando carregado: apto
+[2024-09-22 22:17:14] [INFO] Comando carregado: aptos
+[2024-09-22 22:17:14] [INFO] Comando carregado: del
+[2024-09-22 22:17:14] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:17:14] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:17:14] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:17:14] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:17:14] [INFO] Comando carregado: prioridade
+[2024-09-22 22:17:14] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:17:15] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:17:15] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:17:15] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:17:18] [INFO] [22/09/2024, 22:17:18] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:17:56] [INFO] Comando carregado: add
+[2024-09-22 22:17:56] [INFO] Comando carregado: apto
+[2024-09-22 22:17:56] [INFO] Comando carregado: aptos
+[2024-09-22 22:17:56] [INFO] Comando carregado: del
+[2024-09-22 22:17:56] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:17:56] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:17:56] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:17:56] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:17:56] [INFO] Comando carregado: prioridade
+[2024-09-22 22:17:56] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:17:57] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:17:57] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:17:57] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:17:58] [INFO] [22/09/2024, 22:17:58] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:25:43] [INFO] Comando carregado: add
+[2024-09-22 22:25:43] [INFO] Comando carregado: apto
+[2024-09-22 22:25:43] [INFO] Comando carregado: aptos
+[2024-09-22 22:25:43] [INFO] Comando carregado: del
+[2024-09-22 22:25:43] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:25:43] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:25:43] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:25:43] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:25:43] [INFO] Comando carregado: prioridade
+[2024-09-22 22:25:43] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:25:44] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:25:44] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:25:44] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:25:44] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:25:44] [ERROR] Erro ao registrar comandos: Unexpected end of JSON input
+[2024-09-22 22:26:00] [INFO] [22/09/2024, 22:26:00] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:26:00] [ERROR] Erro ao executar o comando mvpmini: Unexpected end of JSON input
+[2024-09-22 22:26:08] [INFO] [22/09/2024, 22:26:08] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:26:08] [ERROR] Erro ao executar o comando mvpmini: Unexpected end of JSON input
+[2024-09-22 22:26:18] [INFO] Comando carregado: add
+[2024-09-22 22:26:18] [INFO] Comando carregado: apto
+[2024-09-22 22:26:18] [INFO] Comando carregado: aptos
+[2024-09-22 22:26:18] [INFO] Comando carregado: del
+[2024-09-22 22:26:18] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:26:18] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:26:18] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:26:18] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:26:18] [INFO] Comando carregado: prioridade
+[2024-09-22 22:26:18] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:26:19] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:26:19] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:26:19] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:26:19] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:26:19] [ERROR] Erro ao registrar comandos: Cannot read properties of undefined (reading 'messages')
+[2024-09-22 22:26:22] [INFO] [22/09/2024, 22:26:22] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:29:44] [INFO] Comando carregado: add
+[2024-09-22 22:29:44] [INFO] Comando carregado: apto
+[2024-09-22 22:29:44] [INFO] Comando carregado: aptos
+[2024-09-22 22:29:44] [INFO] Comando carregado: del
+[2024-09-22 22:29:44] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:29:44] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:29:44] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:29:44] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\mvpmini.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-22 22:29:44] [INFO] Comando carregado: prioridade
+[2024-09-22 22:29:44] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:29:45] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:29:45] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:29:45] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:29:56] [INFO] Comando carregado: add
+[2024-09-22 22:29:56] [INFO] Comando carregado: apto
+[2024-09-22 22:29:56] [INFO] Comando carregado: aptos
+[2024-09-22 22:29:56] [INFO] Comando carregado: del
+[2024-09-22 22:29:56] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:29:56] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:29:56] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:29:56] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:29:56] [INFO] Comando carregado: prioridade
+[2024-09-22 22:29:56] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:29:57] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:29:57] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:29:57] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:29:57] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:29:57] [ERROR] Erro ao registrar comandos: Unexpected end of JSON input
+[2024-09-22 22:30:05] [INFO] [22/09/2024, 22:30:05] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:30:05] [ERROR] Erro ao executar o comando mvpmini: Unexpected end of JSON input
+[2024-09-22 22:30:23] [INFO] Comando carregado: add
+[2024-09-22 22:30:23] [INFO] Comando carregado: apto
+[2024-09-22 22:30:23] [INFO] Comando carregado: aptos
+[2024-09-22 22:30:23] [INFO] Comando carregado: del
+[2024-09-22 22:30:23] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:30:23] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:30:23] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:30:23] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:30:23] [INFO] Comando carregado: prioridade
+[2024-09-22 22:30:23] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:30:24] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:30:24] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:30:24] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:30:24] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:30:24] [ERROR] Erro ao registrar comandos: Unexpected end of JSON input
+[2024-09-22 22:30:31] [INFO] [22/09/2024, 22:30:31] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:30:31] [ERROR] Erro ao executar o comando mvpmini: Unexpected end of JSON input
+[2024-09-22 22:32:27] [INFO] Comando carregado: add
+[2024-09-22 22:32:27] [INFO] Comando carregado: apto
+[2024-09-22 22:32:27] [INFO] Comando carregado: aptos
+[2024-09-22 22:32:27] [INFO] Comando carregado: del
+[2024-09-22 22:32:27] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:32:27] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:32:27] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:32:27] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:32:27] [INFO] Comando carregado: prioridade
+[2024-09-22 22:32:27] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:32:28] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:32:28] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:32:28] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:32:28] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:32:38] [INFO] [22/09/2024, 22:32:38] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:33:12] [INFO] Comando carregado: add
+[2024-09-22 22:33:12] [INFO] Comando carregado: apto
+[2024-09-22 22:33:12] [INFO] Comando carregado: aptos
+[2024-09-22 22:33:12] [INFO] Comando carregado: del
+[2024-09-22 22:33:12] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:33:12] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:33:12] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:33:12] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:33:12] [INFO] Comando carregado: prioridade
+[2024-09-22 22:33:12] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:33:13] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:33:13] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:33:13] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:33:13] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:33:13] [ERROR] Erro ao registrar comandos: Cannot read properties of undefined (reading 'messages')
+[2024-09-22 22:33:14] [INFO] [22/09/2024, 22:33:14] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:35:31] [INFO] Comando carregado: add
+[2024-09-22 22:35:31] [INFO] Comando carregado: apto
+[2024-09-22 22:35:31] [INFO] Comando carregado: aptos
+[2024-09-22 22:35:31] [INFO] Comando carregado: del
+[2024-09-22 22:35:31] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:35:31] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:35:31] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:35:31] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:35:31] [INFO] Comando carregado: prioridade
+[2024-09-22 22:35:31] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:35:32] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:35:32] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:35:32] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:35:32] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:35:32] [ERROR] Erro ao registrar comandos: Cannot read properties of undefined (reading 'messages')
+[2024-09-22 22:35:34] [INFO] [22/09/2024, 22:35:34] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:35:51] [INFO] Comando carregado: add
+[2024-09-22 22:35:51] [INFO] Comando carregado: apto
+[2024-09-22 22:35:51] [INFO] Comando carregado: aptos
+[2024-09-22 22:35:51] [INFO] Comando carregado: del
+[2024-09-22 22:35:51] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:35:51] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:35:51] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:35:51] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:35:51] [INFO] Comando carregado: prioridade
+[2024-09-22 22:35:51] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:35:52] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:35:52] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:35:52] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:35:52] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:35:52] [ERROR] Erro ao registrar comandos: Cannot read properties of undefined (reading 'messages')
+[2024-09-22 22:36:35] [INFO] Comando carregado: add
+[2024-09-22 22:36:35] [INFO] Comando carregado: apto
+[2024-09-22 22:36:35] [INFO] Comando carregado: aptos
+[2024-09-22 22:36:35] [INFO] Comando carregado: del
+[2024-09-22 22:36:35] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:36:35] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:36:35] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:36:35] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:36:35] [INFO] Comando carregado: prioridade
+[2024-09-22 22:36:35] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:36:36] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:36:36] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:36:36] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:36:36] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:36:36] [ERROR] Erro ao registrar comandos: Cannot read properties of undefined (reading 'messages')
+[2024-09-22 22:41:10] [INFO] Comando carregado: add
+[2024-09-22 22:41:10] [INFO] Comando carregado: apto
+[2024-09-22 22:41:10] [INFO] Comando carregado: aptos
+[2024-09-22 22:41:10] [INFO] Comando carregado: del
+[2024-09-22 22:41:10] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:41:10] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:41:10] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:41:10] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:41:10] [INFO] Comando carregado: prioridade
+[2024-09-22 22:41:10] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:41:11] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:41:11] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:41:11] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:41:11] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:41:27] [INFO] [22/09/2024, 22:41:27] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:41:50] [INFO] Comando carregado: add
+[2024-09-22 22:41:50] [INFO] Comando carregado: apto
+[2024-09-22 22:41:50] [INFO] Comando carregado: aptos
+[2024-09-22 22:41:50] [INFO] Comando carregado: del
+[2024-09-22 22:41:50] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:41:50] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:41:50] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:41:50] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:41:50] [INFO] Comando carregado: prioridade
+[2024-09-22 22:41:50] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:41:51] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:41:51] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:41:51] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:41:51] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:41:56] [INFO] [22/09/2024, 22:41:56] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:41:56] [ERROR] Erro ao executar o comando mvpmini: Received one or more errors
+[2024-09-22 22:42:01] [INFO] [22/09/2024, 22:42:01] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:42:01] [ERROR] Erro ao executar o comando mvpmini: Received one or more errors
+[2024-09-22 22:42:07] [INFO] Comando carregado: add
+[2024-09-22 22:42:07] [INFO] Comando carregado: apto
+[2024-09-22 22:42:07] [INFO] Comando carregado: aptos
+[2024-09-22 22:42:07] [INFO] Comando carregado: del
+[2024-09-22 22:42:07] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:42:07] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:42:07] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:42:07] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:42:07] [INFO] Comando carregado: prioridade
+[2024-09-22 22:42:07] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:42:08] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:42:08] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:42:08] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:42:08] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:42:10] [INFO] [22/09/2024, 22:42:10] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:42:45] [INFO] Comando carregado: add
+[2024-09-22 22:42:45] [INFO] Comando carregado: apto
+[2024-09-22 22:42:45] [INFO] Comando carregado: aptos
+[2024-09-22 22:42:45] [INFO] Comando carregado: del
+[2024-09-22 22:42:45] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:42:45] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:42:45] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:42:45] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:42:45] [INFO] Comando carregado: prioridade
+[2024-09-22 22:42:45] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:42:46] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:42:46] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:42:46] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:42:46] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:42:48] [INFO] [22/09/2024, 22:42:48] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:43:45] [INFO] Comando carregado: add
+[2024-09-22 22:43:45] [INFO] Comando carregado: apto
+[2024-09-22 22:43:45] [INFO] Comando carregado: aptos
+[2024-09-22 22:43:45] [INFO] Comando carregado: del
+[2024-09-22 22:43:45] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:43:45] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:43:45] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:43:45] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:43:45] [INFO] Comando carregado: prioridade
+[2024-09-22 22:43:45] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:43:45] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:43:45] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:43:46] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:43:46] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:46:57] [INFO] Comando carregado: add
+[2024-09-22 22:46:57] [INFO] Comando carregado: apto
+[2024-09-22 22:46:57] [INFO] Comando carregado: aptos
+[2024-09-22 22:46:57] [INFO] Comando carregado: del
+[2024-09-22 22:46:57] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:46:57] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:46:57] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:46:57] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:46:57] [INFO] Comando carregado: prioridade
+[2024-09-22 22:46:57] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:46:58] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:46:58] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:46:58] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:46:58] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:47:11] [INFO] [22/09/2024, 22:47:11] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:47:35] [INFO] Comando carregado: add
+[2024-09-22 22:47:35] [INFO] Comando carregado: apto
+[2024-09-22 22:47:35] [INFO] Comando carregado: aptos
+[2024-09-22 22:47:35] [INFO] Comando carregado: del
+[2024-09-22 22:47:35] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:47:35] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:47:35] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:47:35] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:47:35] [INFO] Comando carregado: prioridade
+[2024-09-22 22:47:35] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:47:36] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:47:36] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:47:36] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:47:36] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:47:39] [INFO] Comando carregado: add
+[2024-09-22 22:47:39] [INFO] Comando carregado: apto
+[2024-09-22 22:47:39] [INFO] Comando carregado: aptos
+[2024-09-22 22:47:39] [INFO] Comando carregado: del
+[2024-09-22 22:47:39] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:47:39] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:47:39] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:47:39] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:47:39] [INFO] Comando carregado: prioridade
+[2024-09-22 22:47:39] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:47:40] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:47:40] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:47:40] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:47:40] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:47:43] [INFO] [22/09/2024, 22:47:43] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:52:37] [INFO] Comando carregado: add
+[2024-09-22 22:52:37] [INFO] Comando carregado: apto
+[2024-09-22 22:52:37] [INFO] Comando carregado: aptos
+[2024-09-22 22:52:37] [INFO] Comando carregado: del
+[2024-09-22 22:52:37] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:52:37] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:52:37] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:52:37] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:52:37] [INFO] Comando carregado: prioridade
+[2024-09-22 22:52:37] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:52:38] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:52:38] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:52:38] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:52:38] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:52:43] [INFO] [22/09/2024, 22:52:43] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 22:53:11] [INFO] Comando carregado: add
+[2024-09-22 22:53:11] [INFO] Comando carregado: apto
+[2024-09-22 22:53:11] [INFO] Comando carregado: aptos
+[2024-09-22 22:53:11] [INFO] Comando carregado: del
+[2024-09-22 22:53:11] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:53:11] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:53:11] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:53:11] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:53:11] [INFO] Comando carregado: prioridade
+[2024-09-22 22:53:11] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:53:11] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:53:11] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:53:12] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:53:12] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:53:35] [INFO] Comando carregado: add
+[2024-09-22 22:53:35] [INFO] Comando carregado: apto
+[2024-09-22 22:53:35] [INFO] Comando carregado: aptos
+[2024-09-22 22:53:35] [INFO] Comando carregado: del
+[2024-09-22 22:53:35] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:53:35] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:53:35] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:53:35] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:53:35] [INFO] Comando carregado: prioridade
+[2024-09-22 22:53:35] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:53:36] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:53:36] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:53:36] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:53:36] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:53:43] [INFO] Comando carregado: add
+[2024-09-22 22:53:43] [INFO] Comando carregado: apto
+[2024-09-22 22:53:43] [INFO] Comando carregado: aptos
+[2024-09-22 22:53:43] [INFO] Comando carregado: del
+[2024-09-22 22:53:43] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:53:43] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:53:43] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:53:43] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:53:43] [INFO] Comando carregado: prioridade
+[2024-09-22 22:53:43] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:53:44] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:53:44] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:53:44] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:53:44] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 22:54:35] [INFO] Comando carregado: add
+[2024-09-22 22:54:35] [INFO] Comando carregado: apto
+[2024-09-22 22:54:35] [INFO] Comando carregado: aptos
+[2024-09-22 22:54:35] [INFO] Comando carregado: del
+[2024-09-22 22:54:35] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 22:54:35] [INFO] Comando carregado: listarjogadores
+[2024-09-22 22:54:35] [INFO] Comando carregado: listarpenas
+[2024-09-22 22:54:35] [INFO] Comando carregado: mvpmini
+[2024-09-22 22:54:35] [INFO] Comando carregado: prioridade
+[2024-09-22 22:54:35] [INFO] Comando carregado: resetarpenas
+[2024-09-22 22:54:35] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 22:54:35] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 22:54:36] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 22:54:36] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:02:32] [INFO] Comando carregado: add
+[2024-09-22 23:02:32] [INFO] Comando carregado: apto
+[2024-09-22 23:02:32] [INFO] Comando carregado: aptos
+[2024-09-22 23:02:32] [INFO] Comando carregado: del
+[2024-09-22 23:02:32] [INFO] Comando carregado: dividir
+[2024-09-22 23:02:32] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:02:32] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:02:32] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:02:32] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:02:32] [INFO] Comando carregado: prioridade
+[2024-09-22 23:02:32] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:02:39] [INFO] Comando carregado: add
+[2024-09-22 23:02:39] [INFO] Comando carregado: apto
+[2024-09-22 23:02:39] [INFO] Comando carregado: aptos
+[2024-09-22 23:02:39] [INFO] Comando carregado: del
+[2024-09-22 23:02:39] [INFO] Comando carregado: dividir
+[2024-09-22 23:02:39] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:02:39] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:02:39] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:02:39] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:02:39] [INFO] Comando carregado: prioridade
+[2024-09-22 23:02:39] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:02:39] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 23:02:39] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:02:40] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 23:02:40] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:02:50] [INFO] [22/09/2024, 23:02:50] Comando executado: /dividir, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:02:50] [ERROR] Erro ao executar o comando dividir: Assignment to constant variable.
+[2024-09-22 23:04:56] [INFO] Comando carregado: add
+[2024-09-22 23:04:56] [INFO] Comando carregado: apto
+[2024-09-22 23:04:56] [INFO] Comando carregado: aptos
+[2024-09-22 23:04:56] [INFO] Comando carregado: del
+[2024-09-22 23:04:56] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:04:56] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:04:56] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:04:56] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:04:56] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:04:56] [INFO] Comando carregado: prioridade
+[2024-09-22 23:04:56] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:04:57] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 23:04:57] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:04:57] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 23:04:57] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:05:04] [INFO] [22/09/2024, 23:05:04] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:05:11] [INFO] [22/09/2024, 23:05:11] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:05:17] [INFO] [22/09/2024, 23:05:17] Comando executado: /dividirpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:16:05] [INFO] Comando carregado: add
+[2024-09-22 23:16:05] [INFO] Comando carregado: apto
+[2024-09-22 23:16:05] [INFO] Comando carregado: aptos
+[2024-09-22 23:16:05] [INFO] Comando carregado: del
+[2024-09-22 23:16:05] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:16:05] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:16:05] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\justificarfalta.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-22 23:16:05] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:16:05] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:16:05] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:16:05] [INFO] Comando carregado: prioridade
+[2024-09-22 23:16:05] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:16:06] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 23:16:06] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:16:06] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 23:16:06] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:16:06] [INFO] Iniciando o monitoramento de justificar faltas...
+[2024-09-22 23:23:36] [INFO] Comando carregado: add
+[2024-09-22 23:23:36] [INFO] Comando carregado: apto
+[2024-09-22 23:23:36] [INFO] Comando carregado: aptos
+[2024-09-22 23:23:36] [INFO] Comando carregado: del
+[2024-09-22 23:23:36] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:23:36] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:23:36] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:23:36] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:23:36] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:23:36] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:23:36] [INFO] Comando carregado: prioridade
+[2024-09-22 23:23:36] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:23:37] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 23:23:37] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:23:37] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 23:23:37] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:23:38] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-22 23:23:57] [INFO] [22/09/2024, 23:23:57] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:24:08] [INFO] Comando carregado: add
+[2024-09-22 23:24:08] [INFO] Comando carregado: apto
+[2024-09-22 23:24:08] [INFO] Comando carregado: aptos
+[2024-09-22 23:24:08] [INFO] Comando carregado: del
+[2024-09-22 23:24:08] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:24:08] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:24:08] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:24:08] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:24:08] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:24:08] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:24:08] [INFO] Comando carregado: prioridade
+[2024-09-22 23:24:08] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:24:09] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 23:24:09] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:24:09] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 23:24:09] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:24:10] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-22 23:24:16] [INFO] [22/09/2024, 23:24:16] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:24:40] [INFO] Comando carregado: add
+[2024-09-22 23:24:40] [INFO] Comando carregado: apto
+[2024-09-22 23:24:40] [INFO] Comando carregado: aptos
+[2024-09-22 23:24:40] [INFO] Comando carregado: del
+[2024-09-22 23:24:40] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:24:40] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:24:40] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:24:40] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:24:40] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:24:40] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:24:40] [INFO] Comando carregado: prioridade
+[2024-09-22 23:24:40] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:24:41] [INFO] Bot está online como BotDivisaoDePenasTesting#3795
+[2024-09-22 23:24:41] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:24:41] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1086660244165369997).
+[2024-09-22 23:24:41] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:24:41] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-22 23:26:53] [INFO] Comando carregado: add
+[2024-09-22 23:26:53] [INFO] Comando carregado: apto
+[2024-09-22 23:26:53] [INFO] Comando carregado: aptos
+[2024-09-22 23:26:53] [INFO] Comando carregado: del
+[2024-09-22 23:26:53] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:26:53] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:26:53] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:26:53] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:26:53] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:26:53] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:26:53] [INFO] Comando carregado: prioridade
+[2024-09-22 23:26:53] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:26:54] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-22 23:26:54] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:26:55] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-22 23:26:55] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:26:55] [ERROR] Erro ao registrar comandos: Cannot edit a message authored by another user
+[2024-09-22 23:27:27] [INFO] [22/09/2024, 23:27:27] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:27:51] [INFO] Comando carregado: add
+[2024-09-22 23:27:51] [INFO] Comando carregado: apto
+[2024-09-22 23:27:51] [INFO] Comando carregado: aptos
+[2024-09-22 23:27:51] [INFO] Comando carregado: del
+[2024-09-22 23:27:51] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:27:51] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:27:51] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:27:51] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:27:51] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:27:51] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:27:51] [INFO] Comando carregado: prioridade
+[2024-09-22 23:27:51] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:27:52] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-22 23:27:52] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:27:52] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-22 23:27:52] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:27:53] [ERROR] Erro ao registrar comandos: Cannot edit a message authored by another user
+[2024-09-22 23:27:54] [INFO] [22/09/2024, 23:27:54] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:28:15] [INFO] Comando carregado: add
+[2024-09-22 23:28:15] [INFO] Comando carregado: apto
+[2024-09-22 23:28:15] [INFO] Comando carregado: aptos
+[2024-09-22 23:28:15] [INFO] Comando carregado: del
+[2024-09-22 23:28:15] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:28:15] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:28:15] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:28:15] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:28:15] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:28:15] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:28:15] [INFO] Comando carregado: prioridade
+[2024-09-22 23:28:15] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:28:16] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-22 23:28:16] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:28:16] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-22 23:28:16] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:28:17] [ERROR] Erro ao registrar comandos: Cannot edit a message authored by another user
+[2024-09-22 23:28:51] [INFO] Comando carregado: add
+[2024-09-22 23:28:51] [INFO] Comando carregado: apto
+[2024-09-22 23:28:51] [INFO] Comando carregado: aptos
+[2024-09-22 23:28:51] [INFO] Comando carregado: del
+[2024-09-22 23:28:51] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:28:51] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:28:51] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:28:51] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:28:51] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:28:51] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:28:51] [INFO] Comando carregado: prioridade
+[2024-09-22 23:28:51] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:28:52] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-22 23:28:52] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:28:52] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-22 23:28:52] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:28:52] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-22 23:29:00] [INFO] [22/09/2024, 23:29:00] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:30:34] [INFO] Comando carregado: add
+[2024-09-22 23:30:34] [INFO] Comando carregado: apto
+[2024-09-22 23:30:34] [INFO] Comando carregado: aptos
+[2024-09-22 23:30:34] [INFO] Comando carregado: del
+[2024-09-22 23:30:34] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:30:34] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:30:34] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:30:34] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:30:34] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:30:34] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:30:34] [INFO] Comando carregado: prioridade
+[2024-09-22 23:30:34] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:30:35] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-22 23:30:35] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:30:36] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-22 23:30:36] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:30:36] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-22 23:31:55] [INFO] [22/09/2024, 23:31:55] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:33:10] [INFO] [22/09/2024, 23:33:10] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:39:17] [INFO] [22/09/2024, 23:39:17] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:51:34] [INFO] Comando carregado: add
+[2024-09-22 23:51:34] [INFO] Comando carregado: apto
+[2024-09-22 23:51:34] [INFO] Comando carregado: aptos
+[2024-09-22 23:51:34] [INFO] Comando carregado: del
+[2024-09-22 23:51:34] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:51:34] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:51:34] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:51:34] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:51:34] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:51:34] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:51:34] [INFO] Comando carregado: presenca
+[2024-09-22 23:51:34] [INFO] Comando carregado: prioridade
+[2024-09-22 23:51:34] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:51:34] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-22 23:51:34] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:51:35] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-22 23:51:35] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:51:35] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-22 23:51:53] [INFO] Comando carregado: add
+[2024-09-22 23:51:53] [INFO] Comando carregado: apto
+[2024-09-22 23:51:53] [INFO] Comando carregado: aptos
+[2024-09-22 23:51:53] [INFO] Comando carregado: del
+[2024-09-22 23:51:53] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:51:53] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:51:53] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:51:53] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:51:53] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:51:53] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:51:53] [INFO] Comando carregado: presenca
+[2024-09-22 23:51:53] [INFO] Comando carregado: prioridade
+[2024-09-22 23:51:53] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:51:54] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-22 23:51:54] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:51:54] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-22 23:51:54] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:51:55] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-22 23:51:59] [INFO] [22/09/2024, 23:51:59] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:52:04] [INFO] [22/09/2024, 23:52:04] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:56:01] [INFO] Comando carregado: add
+[2024-09-22 23:56:01] [INFO] Comando carregado: apto
+[2024-09-22 23:56:01] [INFO] Comando carregado: aptos
+[2024-09-22 23:56:01] [INFO] Comando carregado: del
+[2024-09-22 23:56:01] [INFO] Comando carregado: dividirpenas
+[2024-09-22 23:56:01] [INFO] Comando carregado: iniciarenquete
+[2024-09-22 23:56:01] [INFO] Comando carregado: justificarfalta
+[2024-09-22 23:56:01] [INFO] Comando carregado: listarjogadores
+[2024-09-22 23:56:01] [INFO] Comando carregado: listarpenas
+[2024-09-22 23:56:01] [INFO] Comando carregado: mvpmini
+[2024-09-22 23:56:01] [INFO] Comando carregado: presenca
+[2024-09-22 23:56:01] [INFO] Comando carregado: prioridade
+[2024-09-22 23:56:01] [INFO] Comando carregado: resetarpenas
+[2024-09-22 23:56:02] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-22 23:56:02] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-22 23:56:02] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-22 23:56:02] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-22 23:56:03] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-22 23:56:21] [INFO] [22/09/2024, 23:56:20] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:56:25] [INFO] [22/09/2024, 23:56:25] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:56:29] [INFO] [22/09/2024, 23:56:29] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:56:56] [INFO] [22/09/2024, 23:56:56] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-22 23:57:01] [INFO] [22/09/2024, 23:57:01] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:01:16] [INFO] Comando carregado: add
+[2024-09-23 00:01:16] [INFO] Comando carregado: apto
+[2024-09-23 00:01:16] [INFO] Comando carregado: aptos
+[2024-09-23 00:01:16] [INFO] Comando carregado: del
+[2024-09-23 00:01:16] [INFO] Comando carregado: dividirpenas
+[2024-09-23 00:01:16] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 00:01:16] [INFO] Comando carregado: justificarfalta
+[2024-09-23 00:01:16] [INFO] Comando carregado: listarjogadores
+[2024-09-23 00:01:16] [INFO] Comando carregado: listarpenas
+[2024-09-23 00:01:16] [INFO] Comando carregado: mvpmini
+[2024-09-23 00:01:16] [INFO] Comando carregado: presenca
+[2024-09-23 00:01:16] [INFO] Comando carregado: prioridade
+[2024-09-23 00:01:16] [INFO] Comando carregado: resetarpenas
+[2024-09-23 00:01:16] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 00:01:16] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 00:01:17] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 00:01:17] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 00:01:17] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 00:01:27] [INFO] [23/09/2024, 00:01:27] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:01:31] [INFO] [23/09/2024, 00:01:31] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:01:35] [INFO] [23/09/2024, 00:01:35] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:02:18] [INFO] [23/09/2024, 00:02:18] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:02:47] [INFO] [23/09/2024, 00:02:47] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:02:54] [INFO] [23/09/2024, 00:02:54] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:03:01] [INFO] [23/09/2024, 00:03:01] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:03:06] [INFO] [23/09/2024, 00:03:06] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:03:10] [INFO] [23/09/2024, 00:03:10] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:04:07] [INFO] [23/09/2024, 00:04:07] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:12:09] [INFO] Comando carregado: add
+[2024-09-23 00:12:09] [INFO] Comando carregado: apto
+[2024-09-23 00:12:09] [INFO] Comando carregado: aptos
+[2024-09-23 00:12:09] [INFO] Comando carregado: del
+[2024-09-23 00:12:09] [INFO] Comando carregado: dividirpenas
+[2024-09-23 00:12:09] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 00:12:09] [INFO] Comando carregado: justificarfalta
+[2024-09-23 00:12:09] [INFO] Comando carregado: listarjogadores
+[2024-09-23 00:12:09] [INFO] Comando carregado: listarpenas
+[2024-09-23 00:12:09] [INFO] Comando carregado: mvpmini
+[2024-09-23 00:12:09] [INFO] Comando carregado: presenca
+[2024-09-23 00:12:09] [INFO] Comando carregado: prioridade
+[2024-09-23 00:12:09] [INFO] Comando carregado: resetarpenas
+[2024-09-23 00:12:10] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 00:12:10] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 00:12:10] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 00:12:10] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 00:12:10] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 00:13:27] [INFO] [23/09/2024, 00:13:27] Comando executado: /listarjogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:13:51] [INFO] [23/09/2024, 00:13:51] Comando executado: /del, Usuário: fii182 (ID: 242367322629603328)
+[2024-09-23 00:14:06] [INFO] [23/09/2024, 00:14:06] Comando executado: /listarjogadores, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:14:08] [INFO] [23/09/2024, 00:14:08] Comando executado: /listarjogadores, Usuário: .calik (ID: 379802006182690827)
+[2024-09-23 00:14:43] [INFO] [23/09/2024, 00:14:43] Comando executado: /del, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:15:05] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:15:19] [INFO] [23/09/2024, 00:15:19] Comando executado: /listarjogadores, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:15:38] [INFO] [23/09/2024, 00:15:38] Comando executado: /del, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:16:27] [INFO] [23/09/2024, 00:16:27] Comando executado: /del, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:17:15] [INFO] [23/09/2024, 00:17:15] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:17:20] [INFO] [23/09/2024, 00:17:20] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:17:30] [INFO] [23/09/2024, 00:17:30] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:17:39] [INFO] [23/09/2024, 00:17:39] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:17:40] [INFO] [23/09/2024, 00:17:40] Comando executado: /listarjogadores, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:18:12] [INFO] [23/09/2024, 00:18:12] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:18:16] [INFO] [23/09/2024, 00:18:16] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:18:22] [INFO] [23/09/2024, 00:18:22] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:18:26] [INFO] [23/09/2024, 00:18:26] Comando executado: /del, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:18:54] [INFO] [23/09/2024, 00:18:54] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:19:00] [INFO] [23/09/2024, 00:19:00] Comando executado: /listarjogadores, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:19:07] [INFO] [23/09/2024, 00:19:07] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:19:11] [INFO] [23/09/2024, 00:19:11] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:19:19] [INFO] [23/09/2024, 00:19:19] Comando executado: /listarjogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:20:51] [INFO] [23/09/2024, 00:20:51] Comando executado: /listarjogadores, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:33:25] [INFO] Comando carregado: add
+[2024-09-23 00:33:25] [INFO] Comando carregado: apto
+[2024-09-23 00:33:25] [INFO] Comando carregado: aptos
+[2024-09-23 00:33:25] [INFO] Comando carregado: del
+[2024-09-23 00:33:25] [INFO] Comando carregado: dividirpenas
+[2024-09-23 00:33:25] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 00:33:25] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\jogadores.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 00:33:25] [INFO] Comando carregado: justificarfalta
+[2024-09-23 00:33:25] [INFO] Comando carregado: listarjogadores
+[2024-09-23 00:33:25] [INFO] Comando carregado: listarpenas
+[2024-09-23 00:33:25] [INFO] Comando carregado: mvpmini
+[2024-09-23 00:33:25] [INFO] Comando carregado: presenca
+[2024-09-23 00:33:25] [INFO] Comando carregado: prioridade
+[2024-09-23 00:33:25] [INFO] Comando carregado: resetarpenas
+[2024-09-23 00:33:26] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 00:33:26] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 00:33:26] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 00:33:26] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 00:33:26] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 00:36:18] [INFO] Comando carregado: add
+[2024-09-23 00:36:18] [INFO] Comando carregado: apto
+[2024-09-23 00:36:18] [INFO] Comando carregado: aptos
+[2024-09-23 00:36:18] [INFO] Comando carregado: del
+[2024-09-23 00:36:18] [INFO] Comando carregado: dividirpenas
+[2024-09-23 00:36:18] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 00:36:18] [INFO] Comando carregado: jogadores
+[2024-09-23 00:36:18] [INFO] Comando carregado: justificarfalta
+[2024-09-23 00:36:18] [INFO] Comando carregado: listarjogadores
+[2024-09-23 00:36:18] [INFO] Comando carregado: listarpenas
+[2024-09-23 00:36:18] [INFO] Comando carregado: mvpmini
+[2024-09-23 00:36:18] [INFO] Comando carregado: presenca
+[2024-09-23 00:36:18] [INFO] Comando carregado: prioridade
+[2024-09-23 00:36:18] [INFO] Comando carregado: resetarpenas
+[2024-09-23 00:36:19] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 00:36:19] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 00:36:19] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 00:36:19] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 00:36:20] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 00:36:32] [INFO] [23/09/2024, 00:36:32] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:36:50] [INFO] Comando carregado: add
+[2024-09-23 00:36:50] [INFO] Comando carregado: apto
+[2024-09-23 00:36:50] [INFO] Comando carregado: aptos
+[2024-09-23 00:36:50] [INFO] Comando carregado: del
+[2024-09-23 00:36:50] [INFO] Comando carregado: dividirpenas
+[2024-09-23 00:36:50] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 00:36:50] [INFO] Comando carregado: jogadores
+[2024-09-23 00:36:50] [INFO] Comando carregado: justificarfalta
+[2024-09-23 00:36:50] [INFO] Comando carregado: listarjogadores
+[2024-09-23 00:36:50] [INFO] Comando carregado: listarpenas
+[2024-09-23 00:36:50] [INFO] Comando carregado: mvpmini
+[2024-09-23 00:36:50] [INFO] Comando carregado: presenca
+[2024-09-23 00:36:50] [INFO] Comando carregado: prioridade
+[2024-09-23 00:36:50] [INFO] Comando carregado: resetarpenas
+[2024-09-23 00:36:51] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 00:36:51] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 00:36:51] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 00:36:51] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 00:36:52] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 00:37:25] [INFO] [23/09/2024, 00:37:25] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:37:29] [INFO] [23/09/2024, 00:37:29] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:38:01] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:38:06] [INFO] [23/09/2024, 00:38:06] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:38:25] [INFO] [23/09/2024, 00:38:25] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:38:35] [INFO] [23/09/2024, 00:38:35] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:38:53] [INFO] [23/09/2024, 00:38:53] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:39:04] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:39:14] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:40:46] [INFO] [23/09/2024, 00:40:46] Comando executado: /listarjogadores, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:41:07] [INFO] [23/09/2024, 00:41:07] Comando executado: /del, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:41:08] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:41:08] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:41:09] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:41:55] [INFO] [23/09/2024, 00:41:55] Comando executado: /listarjogadores, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 00:41:57] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:45:03] [INFO] Comando carregado: add
+[2024-09-23 00:45:03] [INFO] Comando carregado: apto
+[2024-09-23 00:45:03] [INFO] Comando carregado: aptos
+[2024-09-23 00:45:03] [INFO] Comando carregado: del
+[2024-09-23 00:45:03] [INFO] Comando carregado: dividirpenas
+[2024-09-23 00:45:03] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 00:45:03] [INFO] Comando carregado: jogadores
+[2024-09-23 00:45:03] [INFO] Comando carregado: justificarfalta
+[2024-09-23 00:45:03] [INFO] Comando carregado: listarjogadores
+[2024-09-23 00:45:03] [INFO] Comando carregado: listarpenas
+[2024-09-23 00:45:03] [INFO] Comando carregado: mvpmini
+[2024-09-23 00:45:03] [INFO] Comando carregado: presenca
+[2024-09-23 00:45:03] [INFO] Comando carregado: prioridade
+[2024-09-23 00:45:03] [INFO] Comando carregado: resetarpenas
+[2024-09-23 00:45:04] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 00:45:04] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 00:45:04] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 00:45:04] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 00:45:06] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 00:45:06] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 00:45:17] [INFO] [23/09/2024, 00:45:17] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:45:26] [INFO] [23/09/2024, 00:45:26] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:45:50] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:46:14] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:49:33] [INFO] Comando carregado: add
+[2024-09-23 00:49:33] [INFO] Comando carregado: apto
+[2024-09-23 00:49:33] [INFO] Comando carregado: aptos
+[2024-09-23 00:49:33] [INFO] Comando carregado: del
+[2024-09-23 00:49:33] [INFO] Comando carregado: dividirpenas
+[2024-09-23 00:49:33] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 00:49:33] [INFO] Comando carregado: jogadores
+[2024-09-23 00:49:33] [INFO] Comando carregado: justificarfalta
+[2024-09-23 00:49:33] [INFO] Comando carregado: listarjogadores
+[2024-09-23 00:49:33] [INFO] Comando carregado: listarpenas
+[2024-09-23 00:49:33] [INFO] Comando carregado: mvpmini
+[2024-09-23 00:49:33] [INFO] Comando carregado: presenca
+[2024-09-23 00:49:33] [INFO] Comando carregado: prioridade
+[2024-09-23 00:49:33] [INFO] Comando carregado: resetarpenas
+[2024-09-23 00:49:34] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 00:49:34] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 00:49:34] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 00:49:34] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 00:49:35] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 00:49:35] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 00:49:40] [INFO] [23/09/2024, 00:49:40] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:49:49] [INFO] [23/09/2024, 00:49:49] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:50:14] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:50:23] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:50:38] [INFO] [23/09/2024, 00:50:38] Comando executado: /add, Usuário: kmartlol1 (ID: 491379366010421248)
+[2024-09-23 00:50:40] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:50:40] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:50:41] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:52:07] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 00:55:15] [INFO] Comando carregado: add
+[2024-09-23 00:55:15] [INFO] Comando carregado: apto
+[2024-09-23 00:55:15] [INFO] Comando carregado: aptos
+[2024-09-23 00:55:15] [INFO] Comando carregado: del
+[2024-09-23 00:55:15] [INFO] Comando carregado: dividirpenas
+[2024-09-23 00:55:15] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 00:55:15] [INFO] Comando carregado: jogadores
+[2024-09-23 00:55:15] [INFO] Comando carregado: justificarfalta
+[2024-09-23 00:55:15] [INFO] Comando carregado: listarjogadores
+[2024-09-23 00:55:15] [INFO] Comando carregado: listarpenas
+[2024-09-23 00:55:15] [INFO] Comando carregado: mvpmini
+[2024-09-23 00:55:15] [INFO] Comando carregado: presenca
+[2024-09-23 00:55:15] [INFO] Comando carregado: prioridade
+[2024-09-23 00:55:15] [INFO] Comando carregado: resetarpenas
+[2024-09-23 00:55:16] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 00:55:16] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 00:55:16] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 00:55:16] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 00:55:17] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 00:55:17] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 00:55:22] [INFO] [23/09/2024, 00:55:22] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:55:44] [INFO] [23/09/2024, 00:55:44] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 00:56:01] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 01:00:59] [INFO] Comando carregado: add
+[2024-09-23 01:00:59] [INFO] Comando carregado: apto
+[2024-09-23 01:00:59] [INFO] Comando carregado: aptos
+[2024-09-23 01:00:59] [INFO] Comando carregado: del
+[2024-09-23 01:00:59] [INFO] Comando carregado: dividirpenas
+[2024-09-23 01:00:59] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 01:00:59] [INFO] Comando carregado: jogadores
+[2024-09-23 01:00:59] [INFO] Comando carregado: justificarfalta
+[2024-09-23 01:00:59] [INFO] Comando carregado: listarjogadores
+[2024-09-23 01:00:59] [INFO] Comando carregado: listarpenas
+[2024-09-23 01:00:59] [INFO] Comando carregado: mvpmini
+[2024-09-23 01:00:59] [INFO] Comando carregado: presenca
+[2024-09-23 01:00:59] [INFO] Comando carregado: prioridade
+[2024-09-23 01:00:59] [INFO] Comando carregado: resetarpenas
+[2024-09-23 01:01:00] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 01:01:00] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 01:01:00] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 01:01:00] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 01:01:01] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 01:01:08] [INFO] [23/09/2024, 01:01:08] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 01:01:22] [INFO] [23/09/2024, 01:01:22] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 01:01:25] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 01:02:07] [INFO] Comando carregado: add
+[2024-09-23 01:02:07] [INFO] Comando carregado: apto
+[2024-09-23 01:02:07] [INFO] Comando carregado: aptos
+[2024-09-23 01:02:07] [INFO] Comando carregado: del
+[2024-09-23 01:02:07] [INFO] Comando carregado: dividirpenas
+[2024-09-23 01:02:07] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 01:02:07] [INFO] Comando carregado: jogadores
+[2024-09-23 01:02:07] [INFO] Comando carregado: justificarfalta
+[2024-09-23 01:02:07] [INFO] Comando carregado: listarjogadores
+[2024-09-23 01:02:07] [INFO] Comando carregado: listarpenas
+[2024-09-23 01:02:07] [INFO] Comando carregado: mvpmini
+[2024-09-23 01:02:07] [INFO] Comando carregado: presenca
+[2024-09-23 01:02:07] [INFO] Comando carregado: prioridade
+[2024-09-23 01:02:07] [INFO] Comando carregado: resetarpenas
+[2024-09-23 01:02:08] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 01:02:08] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 01:02:08] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 01:02:08] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 01:02:09] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 01:02:18] [INFO] [23/09/2024, 01:02:18] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 01:02:33] [INFO] [23/09/2024, 01:02:33] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 01:02:43] [INFO] [23/09/2024, 01:02:43] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 01:02:45] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 01:02:57] [INFO] [23/09/2024, 01:02:57] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 01:02:59] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 01:03:09] [INFO] Comando carregado: add
+[2024-09-23 01:03:09] [INFO] Comando carregado: apto
+[2024-09-23 01:03:09] [INFO] Comando carregado: aptos
+[2024-09-23 01:03:09] [INFO] Comando carregado: del
+[2024-09-23 01:03:09] [INFO] Comando carregado: dividirpenas
+[2024-09-23 01:03:09] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 01:03:09] [INFO] Comando carregado: jogadores
+[2024-09-23 01:03:09] [INFO] Comando carregado: justificarfalta
+[2024-09-23 01:03:09] [INFO] Comando carregado: listarjogadores
+[2024-09-23 01:03:09] [INFO] Comando carregado: listarpenas
+[2024-09-23 01:03:09] [INFO] Comando carregado: mvpmini
+[2024-09-23 01:03:09] [INFO] Comando carregado: presenca
+[2024-09-23 01:03:09] [INFO] Comando carregado: prioridade
+[2024-09-23 01:03:09] [INFO] Comando carregado: resetarpenas
+[2024-09-23 01:03:10] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 01:03:10] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 01:03:10] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 01:03:10] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 01:03:10] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 01:04:00] [INFO] Comando carregado: add
+[2024-09-23 01:04:00] [INFO] Comando carregado: apto
+[2024-09-23 01:04:00] [INFO] Comando carregado: aptos
+[2024-09-23 01:04:00] [INFO] Comando carregado: del
+[2024-09-23 01:04:00] [INFO] Comando carregado: dividirpenas
+[2024-09-23 01:04:00] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 01:04:00] [INFO] Comando carregado: jogadores
+[2024-09-23 01:04:00] [INFO] Comando carregado: justificarfalta
+[2024-09-23 01:04:00] [INFO] Comando carregado: listarjogadores
+[2024-09-23 01:04:00] [INFO] Comando carregado: listarpenas
+[2024-09-23 01:04:00] [INFO] Comando carregado: mvpmini
+[2024-09-23 01:04:00] [INFO] Comando carregado: presenca
+[2024-09-23 01:04:00] [INFO] Comando carregado: prioridade
+[2024-09-23 01:04:00] [INFO] Comando carregado: resetarpenas
+[2024-09-23 01:04:01] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 01:04:01] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 01:04:01] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 01:04:01] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 01:04:01] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 01:14:17] [INFO] Comando carregado: add
+[2024-09-23 01:14:17] [INFO] Comando carregado: apto
+[2024-09-23 01:14:17] [INFO] Comando carregado: aptos
+[2024-09-23 01:14:17] [INFO] Comando carregado: del
+[2024-09-23 01:14:17] [INFO] Comando carregado: dividirpenas
+[2024-09-23 01:14:17] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 01:14:17] [INFO] Comando carregado: jogadores
+[2024-09-23 01:14:17] [INFO] Comando carregado: justificarfalta
+[2024-09-23 01:14:17] [INFO] Comando carregado: listarjogadores
+[2024-09-23 01:14:17] [INFO] Comando carregado: listarpenas
+[2024-09-23 01:14:17] [INFO] Comando carregado: mvpmini
+[2024-09-23 01:14:17] [INFO] Comando carregado: presenca
+[2024-09-23 01:14:17] [INFO] Comando carregado: prioridade
+[2024-09-23 01:14:17] [INFO] Comando carregado: resetarpenas
+[2024-09-23 01:14:18] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 01:14:18] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 01:14:18] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 01:14:18] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 01:14:18] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 01:14:18] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 01:14:24] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 01:14:26] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 01:14:43] [INFO] [23/09/2024, 01:14:43] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 01:14:46] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 01:14:52] [INFO] Comando carregado: add
+[2024-09-23 01:14:52] [INFO] Comando carregado: apto
+[2024-09-23 01:14:52] [INFO] Comando carregado: aptos
+[2024-09-23 01:14:52] [INFO] Comando carregado: del
+[2024-09-23 01:14:52] [INFO] Comando carregado: dividirpenas
+[2024-09-23 01:14:52] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 01:14:52] [INFO] Comando carregado: jogadores
+[2024-09-23 01:14:52] [INFO] Comando carregado: justificarfalta
+[2024-09-23 01:14:52] [INFO] Comando carregado: listarjogadores
+[2024-09-23 01:14:52] [INFO] Comando carregado: listarpenas
+[2024-09-23 01:14:52] [INFO] Comando carregado: mvpmini
+[2024-09-23 01:14:52] [INFO] Comando carregado: presenca
+[2024-09-23 01:14:52] [INFO] Comando carregado: prioridade
+[2024-09-23 01:14:52] [INFO] Comando carregado: resetarpenas
+[2024-09-23 01:14:53] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 01:14:53] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 01:14:53] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 01:14:53] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 01:14:53] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 01:14:53] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 01:15:01] [INFO] [23/09/2024, 01:15:01] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 01:15:04] [ERROR] Erro não tratado: Unknown Message
+[2024-09-23 01:17:37] [INFO] [23/09/2024, 01:17:37] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 09:15:08] [INFO] Comando carregado: add
+[2024-09-23 09:15:08] [INFO] Comando carregado: apto
+[2024-09-23 09:15:08] [INFO] Comando carregado: aptos
+[2024-09-23 09:15:08] [INFO] Comando carregado: del
+[2024-09-23 09:15:08] [INFO] Comando carregado: dividirpenas
+[2024-09-23 09:15:08] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 09:15:08] [INFO] Comando carregado: jogadores
+[2024-09-23 09:15:08] [INFO] Comando carregado: justificarfalta
+[2024-09-23 09:15:08] [INFO] Comando carregado: listarjogadores
+[2024-09-23 09:15:08] [INFO] Comando carregado: listarpenas
+[2024-09-23 09:15:08] [INFO] Comando carregado: mvpmini
+[2024-09-23 09:15:08] [INFO] Comando carregado: presenca
+[2024-09-23 09:15:08] [INFO] Comando carregado: prioridade
+[2024-09-23 09:15:08] [INFO] Comando carregado: resetarpenas
+[2024-09-23 09:15:10] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 09:15:10] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 09:15:10] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 09:15:10] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 09:15:11] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 09:15:11] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 10:30:36] [INFO] [23/09/2024, 10:30:36] Comando executado: /add, Usuário: fii182 (ID: 242367322629603328)
+[2024-09-23 11:01:55] [INFO] Comando carregado: add
+[2024-09-23 11:01:55] [INFO] Comando carregado: apto
+[2024-09-23 11:01:55] [INFO] Comando carregado: aptos
+[2024-09-23 11:01:55] [INFO] Comando carregado: del
+[2024-09-23 11:01:55] [INFO] Comando carregado: dividirpenas
+[2024-09-23 11:01:55] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 11:01:55] [INFO] Comando carregado: jogadores
+[2024-09-23 11:01:55] [INFO] Comando carregado: justificarfalta
+[2024-09-23 11:01:55] [INFO] Comando carregado: listarjogadores
+[2024-09-23 11:01:55] [INFO] Comando carregado: listarpenas
+[2024-09-23 11:01:55] [INFO] Comando carregado: mvpmini
+[2024-09-23 11:01:55] [INFO] Comando carregado: presenca
+[2024-09-23 11:01:55] [INFO] Comando carregado: prioridade
+[2024-09-23 11:01:55] [INFO] Comando carregado: resetarpenas
+[2024-09-23 11:01:56] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 11:01:56] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 11:01:56] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 11:01:56] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 11:01:57] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 11:01:57] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 11:02:10] [INFO] [23/09/2024, 11:02:10] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:02:28] [INFO] [23/09/2024, 11:02:28] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:02:56] [INFO] [23/09/2024, 11:02:56] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:02:58] [INFO] [23/09/2024, 11:02:58] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:03:06] [INFO] [23/09/2024, 11:03:06] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:03:36] [INFO] [23/09/2024, 11:03:36] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:03:42] [INFO] [23/09/2024, 11:03:42] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:03:49] [INFO] [23/09/2024, 11:03:49] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:03:54] [INFO] [23/09/2024, 11:03:54] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:03:58] [INFO] [23/09/2024, 11:03:58] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:04:20] [INFO] [23/09/2024, 11:04:20] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:04:25] [INFO] [23/09/2024, 11:04:25] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:04:31] [INFO] [23/09/2024, 11:04:31] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:04:46] [INFO] [23/09/2024, 11:04:46] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:05:04] [INFO] [23/09/2024, 11:05:04] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:05:25] [INFO] [23/09/2024, 11:05:25] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:05:36] [INFO] [23/09/2024, 11:05:36] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 11:23:55] [INFO] [23/09/2024, 11:23:55] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 12:00:53] [INFO] [23/09/2024, 12:00:53] Comando executado: /del, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-23 13:03:16] [INFO] [23/09/2024, 13:03:16] Comando executado: /add, Usuário: kmartlol1 (ID: 491379366010421248)
+[2024-09-23 13:08:47] [INFO] Comando carregado: add
+[2024-09-23 13:08:47] [INFO] Comando carregado: apto
+[2024-09-23 13:08:47] [INFO] Comando carregado: aptos
+[2024-09-23 13:08:47] [INFO] Comando carregado: del
+[2024-09-23 13:08:47] [INFO] Comando carregado: dividirpenas
+[2024-09-23 13:08:47] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 13:08:47] [INFO] Comando carregado: jogadores
+[2024-09-23 13:08:47] [INFO] Comando carregado: justificarfalta
+[2024-09-23 13:08:47] [INFO] Comando carregado: listarjogadores
+[2024-09-23 13:08:47] [INFO] Comando carregado: listarpenas
+[2024-09-23 13:08:47] [INFO] Comando carregado: mvpmini
+[2024-09-23 13:08:47] [INFO] Comando carregado: presenca
+[2024-09-23 13:08:47] [INFO] Comando carregado: prioridade
+[2024-09-23 13:08:47] [INFO] Comando carregado: resetarpenas
+[2024-09-23 13:08:48] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 13:08:48] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 13:08:48] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 13:08:48] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 13:08:49] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 13:08:49] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 13:08:54] [INFO] [23/09/2024, 13:08:54] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 13:17:55] [INFO] Comando carregado: add
+[2024-09-23 13:17:55] [INFO] Comando carregado: apto
+[2024-09-23 13:17:55] [INFO] Comando carregado: aptos
+[2024-09-23 13:17:55] [INFO] Comando carregado: del
+[2024-09-23 13:17:55] [INFO] Comando carregado: dividirpenas
+[2024-09-23 13:17:55] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 13:17:55] [INFO] Comando carregado: jogadores
+[2024-09-23 13:17:55] [INFO] Comando carregado: justificarfalta
+[2024-09-23 13:17:55] [INFO] Comando carregado: listarjogadores
+[2024-09-23 13:17:55] [INFO] Comando carregado: listarpenas
+[2024-09-23 13:17:55] [INFO] Comando carregado: mvpmini
+[2024-09-23 13:17:55] [INFO] Comando carregado: presenca
+[2024-09-23 13:17:55] [INFO] Comando carregado: prioridade
+[2024-09-23 13:17:55] [INFO] Comando carregado: resetarpenas
+[2024-09-23 13:17:55] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 13:17:56] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 13:17:56] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 13:17:56] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 13:17:56] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 13:17:57] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 13:17:57] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 13:22:13] [INFO] Comando carregado: add
+[2024-09-23 13:22:13] [INFO] Comando carregado: apto
+[2024-09-23 13:22:13] [INFO] Comando carregado: aptos
+[2024-09-23 13:22:13] [INFO] Comando carregado: del
+[2024-09-23 13:22:13] [INFO] Comando carregado: dividirpenas
+[2024-09-23 13:22:13] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 13:22:13] [INFO] Comando carregado: jogadores
+[2024-09-23 13:22:13] [INFO] Comando carregado: justificarfalta
+[2024-09-23 13:22:13] [INFO] Comando carregado: listarjogadores
+[2024-09-23 13:22:13] [INFO] Comando carregado: listarpenas
+[2024-09-23 13:22:13] [INFO] Comando carregado: mvpmini
+[2024-09-23 13:22:13] [INFO] Comando carregado: presenca
+[2024-09-23 13:22:13] [INFO] Comando carregado: prioridade
+[2024-09-23 13:22:13] [INFO] Comando carregado: resetarpenas
+[2024-09-23 13:22:13] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 13:22:14] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 13:22:14] [ERROR] Exceção não capturada: roleMonitor.iniciarMonitoramentoRoles is not a function
+[2024-09-23 13:22:31] [INFO] Comando carregado: add
+[2024-09-23 13:22:31] [INFO] Comando carregado: apto
+[2024-09-23 13:22:31] [INFO] Comando carregado: aptos
+[2024-09-23 13:22:31] [INFO] Comando carregado: del
+[2024-09-23 13:22:31] [INFO] Comando carregado: dividirpenas
+[2024-09-23 13:22:31] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 13:22:31] [INFO] Comando carregado: jogadores
+[2024-09-23 13:22:31] [INFO] Comando carregado: justificarfalta
+[2024-09-23 13:22:31] [INFO] Comando carregado: listarjogadores
+[2024-09-23 13:22:31] [INFO] Comando carregado: listarpenas
+[2024-09-23 13:22:31] [INFO] Comando carregado: mvpmini
+[2024-09-23 13:22:31] [INFO] Comando carregado: presenca
+[2024-09-23 13:22:31] [INFO] Comando carregado: prioridade
+[2024-09-23 13:22:31] [INFO] Comando carregado: resetarpenas
+[2024-09-23 13:22:31] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 13:22:32] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 13:22:32] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 13:22:32] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 13:22:32] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 13:22:33] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 13:22:33] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 13:24:56] [INFO] Comando carregado: add
+[2024-09-23 13:24:56] [INFO] Comando carregado: apto
+[2024-09-23 13:24:56] [INFO] Comando carregado: aptos
+[2024-09-23 13:24:56] [INFO] Comando carregado: del
+[2024-09-23 13:24:56] [INFO] Comando carregado: dividirpenas
+[2024-09-23 13:24:56] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 13:24:56] [INFO] Comando carregado: jogadores
+[2024-09-23 13:24:56] [INFO] Comando carregado: justificarfalta
+[2024-09-23 13:24:56] [INFO] Comando carregado: listarjogadores
+[2024-09-23 13:24:56] [INFO] Comando carregado: listarpenas
+[2024-09-23 13:24:56] [INFO] Comando carregado: mvpmini
+[2024-09-23 13:24:56] [INFO] Comando carregado: presenca
+[2024-09-23 13:24:56] [INFO] Comando carregado: prioridade
+[2024-09-23 13:24:56] [INFO] Comando carregado: resetarpenas
+[2024-09-23 13:24:56] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 13:24:57] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 13:24:57] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 13:24:57] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 13:24:57] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 13:24:58] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 13:24:58] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 13:27:30] [INFO] Comando carregado: add
+[2024-09-23 13:27:30] [INFO] Comando carregado: apto
+[2024-09-23 13:27:30] [INFO] Comando carregado: aptos
+[2024-09-23 13:27:30] [INFO] Comando carregado: del
+[2024-09-23 13:27:30] [INFO] Comando carregado: dividirpenas
+[2024-09-23 13:27:30] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 13:27:30] [INFO] Comando carregado: jogadores
+[2024-09-23 13:27:30] [INFO] Comando carregado: justificarfalta
+[2024-09-23 13:27:30] [INFO] Comando carregado: listarjogadores
+[2024-09-23 13:27:30] [INFO] Comando carregado: listarpenas
+[2024-09-23 13:27:30] [INFO] Comando carregado: mvpmini
+[2024-09-23 13:27:30] [INFO] Comando carregado: presenca
+[2024-09-23 13:27:30] [INFO] Comando carregado: prioridade
+[2024-09-23 13:27:30] [INFO] Comando carregado: resetarpenas
+[2024-09-23 13:27:30] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 13:27:36] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 13:27:36] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 13:27:36] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 13:27:36] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 13:27:37] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 13:27:37] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 13:35:05] [INFO] Comando carregado: add
+[2024-09-23 13:35:05] [INFO] Comando carregado: apto
+[2024-09-23 13:35:05] [INFO] Comando carregado: aptos
+[2024-09-23 13:35:05] [INFO] Comando carregado: del
+[2024-09-23 13:35:05] [INFO] Comando carregado: dividirpenas
+[2024-09-23 13:35:05] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 13:35:05] [INFO] Comando carregado: jogadores
+[2024-09-23 13:35:05] [INFO] Comando carregado: justificarfalta
+[2024-09-23 13:35:05] [INFO] Comando carregado: listarjogadores
+[2024-09-23 13:35:05] [INFO] Comando carregado: listarpenas
+[2024-09-23 13:35:05] [INFO] Comando carregado: mvpmini
+[2024-09-23 13:35:05] [INFO] Comando carregado: presenca
+[2024-09-23 13:35:05] [INFO] Comando carregado: prioridade
+[2024-09-23 13:35:05] [INFO] Comando carregado: resetarpenas
+[2024-09-23 13:35:05] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 13:35:06] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 13:35:06] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 13:35:07] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 13:35:07] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 13:35:07] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 13:35:07] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 13:53:14] [INFO] Comando carregado: add
+[2024-09-23 13:53:14] [INFO] Comando carregado: apto
+[2024-09-23 13:53:14] [INFO] Comando carregado: aptos
+[2024-09-23 13:53:14] [INFO] Comando carregado: del
+[2024-09-23 13:53:14] [INFO] Comando carregado: dividirpenas
+[2024-09-23 13:53:14] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 13:53:14] [INFO] Comando carregado: jogadores
+[2024-09-23 13:53:14] [INFO] Comando carregado: justificarfalta
+[2024-09-23 13:53:14] [INFO] Comando carregado: listarjogadores
+[2024-09-23 13:53:14] [INFO] Comando carregado: listarpenas
+[2024-09-23 13:53:14] [INFO] Comando carregado: mvpmini
+[2024-09-23 13:53:14] [INFO] Comando carregado: presenca
+[2024-09-23 13:53:14] [INFO] Comando carregado: prioridade
+[2024-09-23 13:53:14] [INFO] Comando carregado: resetarpenas
+[2024-09-23 13:53:14] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 13:53:14] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 13:53:14] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 13:53:15] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 13:53:15] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 13:53:15] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 13:53:15] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 13:53:51] [INFO] Comando carregado: add
+[2024-09-23 13:53:51] [INFO] Comando carregado: apto
+[2024-09-23 13:53:51] [INFO] Comando carregado: aptos
+[2024-09-23 13:53:51] [INFO] Comando carregado: del
+[2024-09-23 13:53:51] [INFO] Comando carregado: dividirpenas
+[2024-09-23 13:53:51] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 13:53:51] [INFO] Comando carregado: jogadores
+[2024-09-23 13:53:51] [INFO] Comando carregado: justificarfalta
+[2024-09-23 13:53:51] [INFO] Comando carregado: listarjogadores
+[2024-09-23 13:53:51] [INFO] Comando carregado: listarpenas
+[2024-09-23 13:53:51] [INFO] Comando carregado: mvpmini
+[2024-09-23 13:53:51] [INFO] Comando carregado: presenca
+[2024-09-23 13:53:51] [INFO] Comando carregado: prioridade
+[2024-09-23 13:53:51] [INFO] Comando carregado: resetarpenas
+[2024-09-23 13:53:51] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 13:53:52] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 13:53:52] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 13:53:52] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 13:53:52] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 13:53:53] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 13:53:53] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 13:54:07] [INFO] [23/09/2024, 13:54:07] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 13:54:10] [INFO] [23/09/2024, 13:54:10] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 13:54:24] [INFO] [23/09/2024, 13:54:24] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 13:54:57] [INFO] [23/09/2024, 13:54:57] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 13:59:20] [ERROR] Exceção não capturada: Cannot send messages to this user
+[2024-09-23 13:59:54] [ERROR] Exceção não capturada: Cannot send messages to this user
+[2024-09-23 14:00:17] [INFO] [23/09/2024, 14:00:17] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 14:24:09] [INFO] Comando carregado: add
+[2024-09-23 14:24:09] [INFO] Comando carregado: apto
+[2024-09-23 14:24:09] [INFO] Comando carregado: aptos
+[2024-09-23 14:24:09] [INFO] Comando carregado: del
+[2024-09-23 14:24:09] [INFO] Comando carregado: dividirpenas
+[2024-09-23 14:24:09] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 14:24:09] [INFO] Comando carregado: jogadores
+[2024-09-23 14:24:09] [INFO] Comando carregado: justificarfalta
+[2024-09-23 14:24:09] [INFO] Comando carregado: listarjogadores
+[2024-09-23 14:24:09] [INFO] Comando carregado: listarpenas
+[2024-09-23 14:24:10] [INFO] Comando carregado: mvpmini
+[2024-09-23 14:24:10] [INFO] Comando carregado: presenca
+[2024-09-23 14:24:10] [INFO] Comando carregado: prioridade
+[2024-09-23 14:24:10] [INFO] Comando carregado: resetarpenas
+[2024-09-23 14:24:10] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 14:24:11] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 14:24:11] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 14:24:11] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 14:24:11] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 14:24:11] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 14:24:11] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 14:24:51] [INFO] [23/09/2024, 14:24:51] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 14:27:41] [INFO] Comando carregado: add
+[2024-09-23 14:27:41] [INFO] Comando carregado: apto
+[2024-09-23 14:27:41] [INFO] Comando carregado: aptos
+[2024-09-23 14:27:41] [INFO] Comando carregado: del
+[2024-09-23 14:27:41] [INFO] Comando carregado: dividirpenas
+[2024-09-23 14:27:41] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 14:27:41] [INFO] Comando carregado: jogadores
+[2024-09-23 14:27:41] [INFO] Comando carregado: justificarfalta
+[2024-09-23 14:27:41] [INFO] Comando carregado: listarjogadores
+[2024-09-23 14:27:41] [INFO] Comando carregado: listarpenas
+[2024-09-23 14:27:41] [INFO] Comando carregado: mvpmini
+[2024-09-23 14:27:41] [INFO] Comando carregado: presenca
+[2024-09-23 14:27:41] [INFO] Comando carregado: prioridade
+[2024-09-23 14:27:41] [INFO] Comando carregado: resetarpenas
+[2024-09-23 14:27:41] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 14:27:42] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 14:27:42] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 14:27:42] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 14:27:42] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 14:27:42] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 14:27:42] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 14:27:45] [INFO] [23/09/2024, 14:27:45] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 14:28:03] [INFO] Comando carregado: add
+[2024-09-23 14:28:03] [INFO] Comando carregado: apto
+[2024-09-23 14:28:03] [INFO] Comando carregado: aptos
+[2024-09-23 14:28:03] [INFO] Comando carregado: del
+[2024-09-23 14:28:03] [INFO] Comando carregado: dividirpenas
+[2024-09-23 14:28:03] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 14:28:03] [INFO] Comando carregado: jogadores
+[2024-09-23 14:28:03] [INFO] Comando carregado: justificarfalta
+[2024-09-23 14:28:03] [INFO] Comando carregado: listarjogadores
+[2024-09-23 14:28:03] [INFO] Comando carregado: listarpenas
+[2024-09-23 14:28:03] [INFO] Comando carregado: mvpmini
+[2024-09-23 14:28:03] [INFO] Comando carregado: presenca
+[2024-09-23 14:28:03] [INFO] Comando carregado: prioridade
+[2024-09-23 14:28:03] [INFO] Comando carregado: resetarpenas
+[2024-09-23 14:28:03] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 14:28:04] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 14:28:04] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 14:28:04] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 14:28:04] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 14:28:04] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 14:28:04] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 14:28:51] [INFO] Comando carregado: add
+[2024-09-23 14:28:51] [INFO] Comando carregado: apto
+[2024-09-23 14:28:51] [INFO] Comando carregado: aptos
+[2024-09-23 14:28:51] [INFO] Comando carregado: del
+[2024-09-23 14:28:51] [INFO] Comando carregado: dividirpenas
+[2024-09-23 14:28:51] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 14:28:51] [INFO] Comando carregado: jogadores
+[2024-09-23 14:28:51] [INFO] Comando carregado: justificarfalta
+[2024-09-23 14:28:51] [INFO] Comando carregado: listarjogadores
+[2024-09-23 14:28:51] [INFO] Comando carregado: listarpenas
+[2024-09-23 14:28:51] [INFO] Comando carregado: mvpmini
+[2024-09-23 14:28:51] [INFO] Comando carregado: presenca
+[2024-09-23 14:28:51] [INFO] Comando carregado: prioridade
+[2024-09-23 14:28:51] [INFO] Comando carregado: resetarpenas
+[2024-09-23 14:28:51] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 14:28:52] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 14:28:52] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 14:28:52] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 14:28:52] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 14:28:53] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 14:28:53] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 14:29:01] [INFO] [23/09/2024, 14:29:01] Comando executado: /mvpmini, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 14:29:09] [INFO] Comando carregado: add
+[2024-09-23 14:29:09] [INFO] Comando carregado: apto
+[2024-09-23 14:29:09] [INFO] Comando carregado: aptos
+[2024-09-23 14:29:09] [INFO] Comando carregado: del
+[2024-09-23 14:29:09] [INFO] Comando carregado: dividirpenas
+[2024-09-23 14:29:09] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 14:29:09] [INFO] Comando carregado: jogadores
+[2024-09-23 14:29:09] [INFO] Comando carregado: justificarfalta
+[2024-09-23 14:29:09] [INFO] Comando carregado: listarjogadores
+[2024-09-23 14:29:09] [INFO] Comando carregado: listarpenas
+[2024-09-23 14:29:09] [INFO] Comando carregado: mvpmini
+[2024-09-23 14:29:09] [INFO] Comando carregado: presenca
+[2024-09-23 14:29:09] [INFO] Comando carregado: prioridade
+[2024-09-23 14:29:09] [INFO] Comando carregado: resetarpenas
+[2024-09-23 14:29:09] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 14:29:10] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 14:29:10] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 14:29:10] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 14:29:10] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 14:29:11] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 14:29:11] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 14:29:57] [INFO] Comando carregado: add
+[2024-09-23 14:29:58] [INFO] Comando carregado: apto
+[2024-09-23 14:29:58] [INFO] Comando carregado: aptos
+[2024-09-23 14:29:58] [INFO] Comando carregado: del
+[2024-09-23 14:29:58] [INFO] Comando carregado: dividirpenas
+[2024-09-23 14:29:58] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 14:29:58] [INFO] Comando carregado: jogadores
+[2024-09-23 14:29:58] [INFO] Comando carregado: justificarfalta
+[2024-09-23 14:29:58] [INFO] Comando carregado: listarjogadores
+[2024-09-23 14:29:58] [INFO] Comando carregado: listarpenas
+[2024-09-23 14:29:58] [INFO] Comando carregado: mvpmini
+[2024-09-23 14:29:58] [INFO] Comando carregado: presenca
+[2024-09-23 14:29:58] [INFO] Comando carregado: prioridade
+[2024-09-23 14:29:58] [INFO] Comando carregado: resetarpenas
+[2024-09-23 14:29:58] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 14:29:58] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 14:29:58] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 14:29:59] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 14:29:59] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 14:29:59] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 14:29:59] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 14:42:00] [INFO] [23/09/2024, 14:42:00] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:11:29] [INFO] Comando carregado: add
+[2024-09-23 15:11:29] [INFO] Comando carregado: apto
+[2024-09-23 15:11:29] [INFO] Comando carregado: aptos
+[2024-09-23 15:11:29] [INFO] Comando carregado: del
+[2024-09-23 15:11:29] [INFO] Comando carregado: dividirpenas
+[2024-09-23 15:11:29] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 15:11:29] [INFO] Comando carregado: jogadores
+[2024-09-23 15:11:29] [INFO] Comando carregado: justificarfalta
+[2024-09-23 15:11:29] [INFO] Comando carregado: listarjogadores
+[2024-09-23 15:11:29] [INFO] Comando carregado: listarpenas
+[2024-09-23 15:11:29] [INFO] Comando carregado: mvpmini
+[2024-09-23 15:11:29] [INFO] Comando carregado: presenca
+[2024-09-23 15:11:29] [INFO] Comando carregado: prioridade
+[2024-09-23 15:11:29] [INFO] Comando carregado: resetarpenas
+[2024-09-23 15:11:29] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 15:11:29] [INFO] Comando carregado: task
+[2024-09-23 15:11:30] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 15:11:30] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 15:11:30] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 15:11:30] [INFO] Carregando e agendando tarefas...
+[2024-09-23 15:11:30] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 15:11:30] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 15:11:30] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 15:15:53] [WARN] Comando não encontrado: task
+[2024-09-23 15:15:53] [INFO] [23/09/2024, 15:15:53] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:16:39] [INFO] Comando carregado: add
+[2024-09-23 15:16:39] [INFO] Comando carregado: apto
+[2024-09-23 15:16:39] [INFO] Comando carregado: aptos
+[2024-09-23 15:16:39] [INFO] Comando carregado: del
+[2024-09-23 15:16:39] [INFO] Comando carregado: dividirpenas
+[2024-09-23 15:16:39] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 15:16:39] [INFO] Comando carregado: jogadores
+[2024-09-23 15:16:39] [INFO] Comando carregado: justificarfalta
+[2024-09-23 15:16:39] [INFO] Comando carregado: listarjogadores
+[2024-09-23 15:16:39] [INFO] Comando carregado: listarpenas
+[2024-09-23 15:16:39] [INFO] Comando carregado: mvpmini
+[2024-09-23 15:16:39] [INFO] Comando carregado: presenca
+[2024-09-23 15:16:39] [INFO] Comando carregado: prioridade
+[2024-09-23 15:16:39] [INFO] Comando carregado: resetarpenas
+[2024-09-23 15:16:39] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 15:16:39] [INFO] Comando carregado: task
+[2024-09-23 15:16:40] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 15:16:40] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 15:16:40] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 15:16:40] [INFO] Carregando e agendando tarefas...
+[2024-09-23 15:16:40] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 15:16:40] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 15:16:40] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 15:16:59] [WARN] Comando não encontrado: task
+[2024-09-23 15:16:59] [INFO] [23/09/2024, 15:16:59] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:17:51] [INFO] Comando carregado: add
+[2024-09-23 15:17:51] [INFO] Comando carregado: apto
+[2024-09-23 15:17:51] [INFO] Comando carregado: aptos
+[2024-09-23 15:17:51] [INFO] Comando carregado: del
+[2024-09-23 15:17:51] [INFO] Comando carregado: dividirpenas
+[2024-09-23 15:17:51] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 15:17:51] [INFO] Comando carregado: jogadores
+[2024-09-23 15:17:51] [INFO] Comando carregado: justificarfalta
+[2024-09-23 15:17:51] [INFO] Comando carregado: listarjogadores
+[2024-09-23 15:17:51] [INFO] Comando carregado: listarpenas
+[2024-09-23 15:17:51] [INFO] Comando carregado: mvpmini
+[2024-09-23 15:17:51] [INFO] Comando carregado: presenca
+[2024-09-23 15:17:51] [INFO] Comando carregado: prioridade
+[2024-09-23 15:17:51] [INFO] Comando carregado: resetarpenas
+[2024-09-23 15:17:51] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 15:17:51] [INFO] Comando carregado: task
+[2024-09-23 15:17:52] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 15:17:52] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 15:17:52] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 15:17:52] [INFO] Carregando e agendando tarefas...
+[2024-09-23 15:17:52] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 15:17:52] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 15:17:52] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 15:18:14] [WARN] Comando não encontrado: task
+[2024-09-23 15:18:14] [INFO] [23/09/2024, 15:18:14] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:20:04] [INFO] [23/09/2024, 15:20:04] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:20:04] [WARN] Comando não encontrado: task
+[2024-09-23 15:20:11] [INFO] Comando carregado: add
+[2024-09-23 15:20:11] [INFO] Comando carregado: apto
+[2024-09-23 15:20:11] [INFO] Comando carregado: aptos
+[2024-09-23 15:20:11] [INFO] Comando carregado: del
+[2024-09-23 15:20:11] [INFO] Comando carregado: dividirpenas
+[2024-09-23 15:20:11] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 15:20:11] [INFO] Comando carregado: jogadores
+[2024-09-23 15:20:11] [INFO] Comando carregado: justificarfalta
+[2024-09-23 15:20:11] [INFO] Comando carregado: listarjogadores
+[2024-09-23 15:20:11] [INFO] Comando carregado: listarpenas
+[2024-09-23 15:20:11] [INFO] Comando carregado: mvpmini
+[2024-09-23 15:20:11] [INFO] Comando carregado: presenca
+[2024-09-23 15:20:11] [INFO] Comando carregado: prioridade
+[2024-09-23 15:20:11] [INFO] Comando carregado: resetarpenas
+[2024-09-23 15:20:11] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 15:20:11] [INFO] Comando carregado: task
+[2024-09-23 15:20:12] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 15:20:12] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 15:20:12] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 15:20:12] [INFO] Carregando e agendando tarefas...
+[2024-09-23 15:20:12] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 15:20:12] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 15:20:12] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 15:29:34] [INFO] Comando carregado: add
+[2024-09-23 15:29:34] [INFO] Comando carregado: apto
+[2024-09-23 15:29:34] [INFO] Comando carregado: aptos
+[2024-09-23 15:29:34] [INFO] Comando carregado: del
+[2024-09-23 15:29:34] [INFO] Comando carregado: dividirpenas
+[2024-09-23 15:29:34] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 15:29:34] [INFO] Comando carregado: jogadores
+[2024-09-23 15:29:34] [INFO] Comando carregado: justificarfalta
+[2024-09-23 15:29:34] [INFO] Comando carregado: listarjogadores
+[2024-09-23 15:29:34] [INFO] Comando carregado: listarpenas
+[2024-09-23 15:29:34] [INFO] Comando carregado: mvpmini
+[2024-09-23 15:29:34] [INFO] Comando carregado: presenca
+[2024-09-23 15:29:34] [INFO] Comando carregado: prioridade
+[2024-09-23 15:29:34] [INFO] Comando carregado: resetarpenas
+[2024-09-23 15:29:34] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 15:29:34] [INFO] Comando carregado: task
+[2024-09-23 15:29:35] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 15:29:35] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 15:29:36] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 15:29:36] [INFO] Carregando e agendando tarefas...
+[2024-09-23 15:29:36] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 15:29:36] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 15:29:36] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 15:30:37] [WARN] Comando não encontrado: task
+[2024-09-23 15:30:37] [INFO] [23/09/2024, 15:30:37] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:30:45] [INFO] [23/09/2024, 15:30:45] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:30:45] [WARN] Comando não encontrado: task
+[2024-09-23 15:32:22] [INFO] [23/09/2024, 15:32:22] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:32:22] [WARN] Comando não encontrado: task
+[2024-09-23 15:32:28] [INFO] Comando carregado: add
+[2024-09-23 15:32:28] [INFO] Comando carregado: apto
+[2024-09-23 15:32:28] [INFO] Comando carregado: aptos
+[2024-09-23 15:32:28] [INFO] Comando carregado: del
+[2024-09-23 15:32:28] [INFO] Comando carregado: dividirpenas
+[2024-09-23 15:32:28] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 15:32:28] [INFO] Comando carregado: jogadores
+[2024-09-23 15:32:28] [INFO] Comando carregado: justificarfalta
+[2024-09-23 15:32:28] [INFO] Comando carregado: listarjogadores
+[2024-09-23 15:32:28] [INFO] Comando carregado: listarpenas
+[2024-09-23 15:32:28] [INFO] Comando carregado: mvpmini
+[2024-09-23 15:32:28] [INFO] Comando carregado: presenca
+[2024-09-23 15:32:28] [INFO] Comando carregado: prioridade
+[2024-09-23 15:32:28] [INFO] Comando carregado: resetarpenas
+[2024-09-23 15:32:28] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 15:32:28] [INFO] Comando carregado: task
+[2024-09-23 15:32:29] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 15:32:29] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 15:32:30] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 15:32:30] [INFO] Carregando e agendando tarefas...
+[2024-09-23 15:32:30] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 15:32:30] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 15:32:30] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 15:40:27] [INFO] [23/09/2024, 15:40:27] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:40:27] [WARN] Comando não encontrado: task
+[2024-09-23 15:40:40] [INFO] [23/09/2024, 15:40:40] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:40:40] [WARN] Comando não encontrado: task
+[2024-09-23 15:40:46] [WARN] Comando não encontrado: task
+[2024-09-23 15:40:46] [INFO] [23/09/2024, 15:40:46] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:41:46] [WARN] Comando não encontrado: task
+[2024-09-23 15:41:46] [INFO] [23/09/2024, 15:41:46] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 15:48:00] [INFO] Comando carregado: add
+[2024-09-23 15:48:00] [INFO] Comando carregado: apto
+[2024-09-23 15:48:00] [INFO] Comando carregado: aptos
+[2024-09-23 15:48:00] [INFO] Comando carregado: del
+[2024-09-23 15:48:00] [INFO] Comando carregado: dividirpenas
+[2024-09-23 15:48:00] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 15:48:00] [INFO] Comando carregado: jogadores
+[2024-09-23 15:48:00] [INFO] Comando carregado: justificarfalta
+[2024-09-23 15:48:00] [INFO] Comando carregado: listarjogadores
+[2024-09-23 15:48:00] [INFO] Comando carregado: listarpenas
+[2024-09-23 15:48:00] [INFO] Comando carregado: mvpmini
+[2024-09-23 15:48:00] [INFO] Comando carregado: presenca
+[2024-09-23 15:48:00] [INFO] Comando carregado: prioridade
+[2024-09-23 15:48:00] [INFO] Comando carregado: resetarpenas
+[2024-09-23 15:48:00] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 15:48:00] [INFO] Comando carregado: task
+[2024-09-23 15:48:01] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 15:48:01] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 15:48:01] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 15:48:01] [INFO] Carregando e agendando tarefas...
+[2024-09-23 15:48:01] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 15:48:02] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 15:48:02] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 16:10:16] [INFO] [23/09/2024, 16:10:16] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 16:20:31] [INFO] [23/09/2024, 16:20:31] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 16:20:53] [INFO] [23/09/2024, 16:20:53] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 16:21:02] [INFO] [23/09/2024, 16:21:02] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 16:21:16] [INFO] [23/09/2024, 16:21:16] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 16:21:20] [INFO] [23/09/2024, 16:21:20] Comando executado: /task, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 16:31:49] [INFO] Comando carregado: add
+[2024-09-23 16:31:49] [INFO] Comando carregado: apto
+[2024-09-23 16:31:49] [INFO] Comando carregado: aptos
+[2024-09-23 16:31:49] [INFO] Comando carregado: del
+[2024-09-23 16:31:49] [INFO] Comando carregado: dividirpenas
+[2024-09-23 16:31:49] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 16:31:49] [INFO] Comando carregado: jogadores
+[2024-09-23 16:31:49] [INFO] Comando carregado: justificarfalta
+[2024-09-23 16:31:49] [INFO] Comando carregado: listarjogadores
+[2024-09-23 16:31:49] [INFO] Comando carregado: listarpenas
+[2024-09-23 16:31:49] [INFO] Comando carregado: mvpmini
+[2024-09-23 16:31:49] [INFO] Comando carregado: presenca
+[2024-09-23 16:31:49] [INFO] Comando carregado: prioridade
+[2024-09-23 16:31:49] [INFO] Comando carregado: resetarpenas
+[2024-09-23 16:31:49] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 16:31:49] [INFO] Comando carregado: task
+[2024-09-23 16:31:50] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 16:31:50] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 16:31:50] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 16:31:50] [INFO] Carregando e agendando tarefas...
+[2024-09-23 16:31:50] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 16:31:50] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 16:31:50] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 16:40:11] [INFO] Comando carregado: add
+[2024-09-23 16:40:11] [INFO] Comando carregado: apto
+[2024-09-23 16:40:11] [INFO] Comando carregado: aptos
+[2024-09-23 16:40:11] [INFO] Comando carregado: del
+[2024-09-23 16:40:11] [INFO] Comando carregado: dividirpenas
+[2024-09-23 16:40:11] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 16:40:11] [INFO] Comando carregado: jogadores
+[2024-09-23 16:40:11] [INFO] Comando carregado: justificarfalta
+[2024-09-23 16:40:11] [INFO] Comando carregado: listarjogadores
+[2024-09-23 16:40:11] [INFO] Comando carregado: listarpenas
+[2024-09-23 16:40:11] [INFO] Comando carregado: mvpmini
+[2024-09-23 16:40:11] [INFO] Comando carregado: presenca
+[2024-09-23 16:40:11] [INFO] Comando carregado: prioridade
+[2024-09-23 16:40:11] [INFO] Comando carregado: resetarpenas
+[2024-09-23 16:40:11] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 16:40:11] [INFO] Comando carregado: task
+[2024-09-23 16:40:12] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 16:40:12] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 16:40:13] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 16:40:13] [INFO] Carregando e agendando tarefas...
+[2024-09-23 16:40:13] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 16:40:13] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 16:40:13] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 16:40:28] [INFO] Comando carregado: add
+[2024-09-23 16:40:28] [INFO] Comando carregado: apto
+[2024-09-23 16:40:28] [INFO] Comando carregado: aptos
+[2024-09-23 16:40:28] [INFO] Comando carregado: del
+[2024-09-23 16:40:28] [INFO] Comando carregado: dividirpenas
+[2024-09-23 16:40:28] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 16:40:28] [INFO] Comando carregado: jogadores
+[2024-09-23 16:40:28] [INFO] Comando carregado: justificarfalta
+[2024-09-23 16:40:28] [INFO] Comando carregado: listarjogadores
+[2024-09-23 16:40:28] [INFO] Comando carregado: listarpenas
+[2024-09-23 16:40:28] [INFO] Comando carregado: mvpmini
+[2024-09-23 16:40:28] [INFO] Comando carregado: presenca
+[2024-09-23 16:40:28] [INFO] Comando carregado: prioridade
+[2024-09-23 16:40:28] [INFO] Comando carregado: resetarpenas
+[2024-09-23 16:40:28] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 16:40:28] [INFO] Comando carregado: task
+[2024-09-23 16:40:29] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 16:40:29] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 16:40:29] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 16:40:29] [INFO] Carregando e agendando tarefas...
+[2024-09-23 16:40:29] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 16:40:29] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 16:40:29] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 16:57:28] [INFO] Comando carregado: add
+[2024-09-23 16:57:28] [INFO] Comando carregado: apto
+[2024-09-23 16:57:28] [INFO] Comando carregado: aptos
+[2024-09-23 16:57:28] [INFO] Comando carregado: del
+[2024-09-23 16:57:28] [INFO] Comando carregado: dividirpenas
+[2024-09-23 16:57:28] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 16:57:28] [INFO] Comando carregado: jogadores
+[2024-09-23 16:57:28] [INFO] Comando carregado: justificarfalta
+[2024-09-23 16:57:28] [INFO] Comando carregado: listarjogadores
+[2024-09-23 16:57:28] [INFO] Comando carregado: listarpenas
+[2024-09-23 16:57:28] [INFO] Comando carregado: mvpmini
+[2024-09-23 16:57:28] [INFO] Comando carregado: presenca
+[2024-09-23 16:57:28] [INFO] Comando carregado: prioridade
+[2024-09-23 16:57:28] [INFO] Comando carregado: resetarpenas
+[2024-09-23 16:57:28] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 16:57:28] [INFO] Comando carregado: task
+[2024-09-23 16:57:28] [INFO] Comando carregado: testthought
+[2024-09-23 16:57:29] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 16:57:29] [ERROR] Exceção não capturada: DailyThoughtsScheduler is not defined
+[2024-09-23 16:58:11] [INFO] Comando carregado: add
+[2024-09-23 16:58:11] [INFO] Comando carregado: apto
+[2024-09-23 16:58:11] [INFO] Comando carregado: aptos
+[2024-09-23 16:58:11] [INFO] Comando carregado: del
+[2024-09-23 16:58:11] [INFO] Comando carregado: dividirpenas
+[2024-09-23 16:58:11] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 16:58:11] [INFO] Comando carregado: jogadores
+[2024-09-23 16:58:12] [INFO] Comando carregado: justificarfalta
+[2024-09-23 16:58:12] [INFO] Comando carregado: listarjogadores
+[2024-09-23 16:58:12] [INFO] Comando carregado: listarpenas
+[2024-09-23 16:58:12] [INFO] Comando carregado: mvpmini
+[2024-09-23 16:58:12] [INFO] Comando carregado: presenca
+[2024-09-23 16:58:12] [INFO] Comando carregado: prioridade
+[2024-09-23 16:58:12] [INFO] Comando carregado: resetarpenas
+[2024-09-23 16:58:12] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 16:58:12] [INFO] Comando carregado: task
+[2024-09-23 16:58:12] [INFO] Comando carregado: testthought
+[2024-09-23 16:58:13] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 16:58:13] [ERROR] Exceção não capturada: DailyThoughtsScheduler is not defined
+[2024-09-23 17:00:22] [INFO] Comando carregado: add
+[2024-09-23 17:00:22] [INFO] Comando carregado: apto
+[2024-09-23 17:00:22] [INFO] Comando carregado: aptos
+[2024-09-23 17:00:22] [INFO] Comando carregado: del
+[2024-09-23 17:00:22] [INFO] Comando carregado: dividirpenas
+[2024-09-23 17:00:22] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 17:00:22] [INFO] Comando carregado: jogadores
+[2024-09-23 17:00:22] [INFO] Comando carregado: justificarfalta
+[2024-09-23 17:00:22] [INFO] Comando carregado: listarjogadores
+[2024-09-23 17:00:22] [INFO] Comando carregado: listarpenas
+[2024-09-23 17:00:22] [INFO] Comando carregado: mvpmini
+[2024-09-23 17:00:22] [INFO] Comando carregado: presenca
+[2024-09-23 17:00:22] [INFO] Comando carregado: prioridade
+[2024-09-23 17:00:22] [INFO] Comando carregado: resetarpenas
+[2024-09-23 17:00:22] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 17:00:22] [INFO] Comando carregado: task
+[2024-09-23 17:00:22] [INFO] Comando carregado: testthought
+[2024-09-23 17:00:23] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 17:00:23] [ERROR] Exceção não capturada: DailyThoughtsScheduler is not defined
+[2024-09-23 17:02:39] [INFO] Comando carregado: add
+[2024-09-23 17:02:39] [INFO] Comando carregado: apto
+[2024-09-23 17:02:39] [INFO] Comando carregado: aptos
+[2024-09-23 17:02:39] [INFO] Comando carregado: del
+[2024-09-23 17:02:39] [INFO] Comando carregado: dividirpenas
+[2024-09-23 17:02:39] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 17:02:39] [INFO] Comando carregado: jogadores
+[2024-09-23 17:02:39] [INFO] Comando carregado: justificarfalta
+[2024-09-23 17:02:39] [INFO] Comando carregado: listarjogadores
+[2024-09-23 17:02:39] [INFO] Comando carregado: listarpenas
+[2024-09-23 17:02:39] [INFO] Comando carregado: mvpmini
+[2024-09-23 17:02:39] [INFO] Comando carregado: presenca
+[2024-09-23 17:02:39] [INFO] Comando carregado: prioridade
+[2024-09-23 17:02:39] [INFO] Comando carregado: resetarpenas
+[2024-09-23 17:02:39] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 17:02:39] [INFO] Comando carregado: task
+[2024-09-23 17:02:39] [INFO] Comando carregado: testthought
+[2024-09-23 17:02:40] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 17:02:40] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 17:02:40] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 17:02:40] [INFO] Carregando e agendando tarefas...
+[2024-09-23 17:02:40] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 17:02:41] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 17:02:41] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 17:02:50] [INFO] [23/09/2024, 17:02:50] Comando executado: /testthought, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 17:02:50] [ERROR] Erro ao executar o comando testthought: dailyThoughtsScheduler.sendTestThought is not a function
+[2024-09-23 17:05:15] [INFO] Comando carregado: add
+[2024-09-23 17:05:15] [INFO] Comando carregado: apto
+[2024-09-23 17:05:15] [INFO] Comando carregado: aptos
+[2024-09-23 17:05:15] [INFO] Comando carregado: del
+[2024-09-23 17:05:15] [INFO] Comando carregado: dividirpenas
+[2024-09-23 17:05:15] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 17:05:15] [INFO] Comando carregado: jogadores
+[2024-09-23 17:05:15] [INFO] Comando carregado: justificarfalta
+[2024-09-23 17:05:15] [INFO] Comando carregado: listarjogadores
+[2024-09-23 17:05:15] [INFO] Comando carregado: listarpenas
+[2024-09-23 17:05:15] [INFO] Comando carregado: mvpmini
+[2024-09-23 17:05:15] [INFO] Comando carregado: presenca
+[2024-09-23 17:05:15] [INFO] Comando carregado: prioridade
+[2024-09-23 17:05:15] [INFO] Comando carregado: resetarpenas
+[2024-09-23 17:05:15] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 17:05:15] [INFO] Comando carregado: task
+[2024-09-23 17:05:15] [INFO] Comando carregado: testthought
+[2024-09-23 17:05:16] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 17:05:16] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 17:05:16] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 17:05:16] [INFO] Carregando e agendando tarefas...
+[2024-09-23 17:05:16] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 17:05:16] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 17:05:16] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 17:05:22] [INFO] [23/09/2024, 17:05:22] Comando executado: /testthought, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 17:07:30] [INFO] Comando carregado: add
+[2024-09-23 17:07:30] [INFO] Comando carregado: apto
+[2024-09-23 17:07:30] [INFO] Comando carregado: aptos
+[2024-09-23 17:07:30] [INFO] Comando carregado: del
+[2024-09-23 17:07:30] [INFO] Comando carregado: dividirpenas
+[2024-09-23 17:07:30] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 17:07:30] [INFO] Comando carregado: jogadores
+[2024-09-23 17:07:30] [INFO] Comando carregado: justificarfalta
+[2024-09-23 17:07:30] [INFO] Comando carregado: listarjogadores
+[2024-09-23 17:07:30] [INFO] Comando carregado: listarpenas
+[2024-09-23 17:07:30] [INFO] Comando carregado: mvpmini
+[2024-09-23 17:07:30] [INFO] Comando carregado: presenca
+[2024-09-23 17:07:30] [INFO] Comando carregado: prioridade
+[2024-09-23 17:07:30] [INFO] Comando carregado: resetarpenas
+[2024-09-23 17:07:30] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 17:07:30] [INFO] Comando carregado: task
+[2024-09-23 17:07:30] [INFO] Comando carregado: testthought
+[2024-09-23 17:07:31] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 17:07:31] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 17:07:31] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 17:07:31] [INFO] Carregando e agendando tarefas...
+[2024-09-23 17:07:31] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 17:07:31] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 17:07:31] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-23 17:17:23] [INFO] [23/09/2024, 17:17:23] Comando executado: /testthought, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 17:17:36] [INFO] [23/09/2024, 17:17:36] Comando executado: /testthought, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-23 17:18:31] [INFO] Comando carregado: add
+[2024-09-23 17:18:31] [INFO] Comando carregado: apto
+[2024-09-23 17:18:31] [INFO] Comando carregado: aptos
+[2024-09-23 17:18:31] [INFO] Comando carregado: del
+[2024-09-23 17:18:31] [INFO] Comando carregado: dividirpenas
+[2024-09-23 17:18:31] [INFO] Comando carregado: iniciarenquete
+[2024-09-23 17:18:31] [INFO] Comando carregado: jogadores
+[2024-09-23 17:18:31] [INFO] Comando carregado: justificarfalta
+[2024-09-23 17:18:31] [INFO] Comando carregado: listarjogadores
+[2024-09-23 17:18:31] [INFO] Comando carregado: listarpenas
+[2024-09-23 17:18:31] [INFO] Comando carregado: mvpmini
+[2024-09-23 17:18:31] [INFO] Comando carregado: presenca
+[2024-09-23 17:18:31] [INFO] Comando carregado: prioridade
+[2024-09-23 17:18:31] [INFO] Comando carregado: resetarpenas
+[2024-09-23 17:18:31] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-23 17:18:31] [INFO] Comando carregado: task
+[2024-09-23 17:18:31] [INFO] Comando carregado: testthought
+[2024-09-23 17:18:32] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-23 17:18:32] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-23 17:18:32] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-23 17:18:32] [INFO] Carregando e agendando tarefas...
+[2024-09-23 17:18:32] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-23 17:18:33] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-23 17:18:33] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 00:41:31] [INFO] Comando carregado: add
+[2024-09-24 00:41:31] [INFO] Comando carregado: apto
+[2024-09-24 00:41:31] [INFO] Comando carregado: aptos
+[2024-09-24 00:41:31] [INFO] Comando carregado: del
+[2024-09-24 00:41:31] [INFO] Comando carregado: dividirpenas
+[2024-09-24 00:41:31] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 00:41:31] [INFO] Comando carregado: jogadores
+[2024-09-24 00:41:31] [INFO] Comando carregado: justificarfalta
+[2024-09-24 00:41:31] [INFO] Comando carregado: listarjogadores
+[2024-09-24 00:41:31] [INFO] Comando carregado: listarpenas
+[2024-09-24 00:41:31] [INFO] Comando carregado: mvpmini
+[2024-09-24 00:41:31] [INFO] Comando carregado: presenca
+[2024-09-24 00:41:31] [INFO] Comando carregado: prioridade
+[2024-09-24 00:41:31] [INFO] Comando carregado: resetarpenas
+[2024-09-24 00:41:31] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 00:41:31] [INFO] Comando carregado: task
+[2024-09-24 00:41:31] [INFO] Comando carregado: testthought
+[2024-09-24 00:41:32] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 00:41:32] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 00:41:32] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 00:41:32] [INFO] Carregando e agendando tarefas...
+[2024-09-24 00:41:32] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 00:41:33] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 00:41:33] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 00:41:40] [INFO] [24/09/2024, 00:41:40] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 00:50:19] [INFO] Comando carregado: add
+[2024-09-24 00:50:19] [INFO] Comando carregado: apto
+[2024-09-24 00:50:19] [INFO] Comando carregado: aptos
+[2024-09-24 00:50:19] [INFO] Comando carregado: del
+[2024-09-24 00:50:19] [INFO] Comando carregado: dividirpenas
+[2024-09-24 00:50:19] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 00:50:19] [INFO] Comando carregado: jogadores
+[2024-09-24 00:50:19] [INFO] Comando carregado: justificarfalta
+[2024-09-24 00:50:19] [INFO] Comando carregado: listarjogadores
+[2024-09-24 00:50:19] [INFO] Comando carregado: listarpenas
+[2024-09-24 00:50:19] [INFO] Comando carregado: mvpmini
+[2024-09-24 00:50:19] [INFO] Comando carregado: presenca
+[2024-09-24 00:50:19] [INFO] Comando carregado: prioridade
+[2024-09-24 00:50:19] [INFO] Comando carregado: resetarpenas
+[2024-09-24 00:50:19] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 00:50:19] [INFO] Comando carregado: task
+[2024-09-24 00:50:19] [INFO] Comando carregado: testthought
+[2024-09-24 00:50:20] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 00:50:20] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 00:50:20] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 00:50:20] [INFO] Carregando e agendando tarefas...
+[2024-09-24 00:50:20] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 00:50:20] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 00:50:20] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 00:59:49] [ERROR] Erro não tratado: The reply to this interaction has not been sent or deferred.
+[2024-09-24 01:03:29] [ERROR] Erro não tratado: The reply to this interaction has not been sent or deferred.
+[2024-09-24 01:03:45] [INFO] Comando carregado: add
+[2024-09-24 01:03:45] [INFO] Comando carregado: apto
+[2024-09-24 01:03:45] [INFO] Comando carregado: aptos
+[2024-09-24 01:03:45] [INFO] Comando carregado: del
+[2024-09-24 01:03:45] [INFO] Comando carregado: dividirpenas
+[2024-09-24 01:03:45] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 01:03:45] [INFO] Comando carregado: jogadores
+[2024-09-24 01:03:45] [INFO] Comando carregado: justificarfalta
+[2024-09-24 01:03:45] [INFO] Comando carregado: listarjogadores
+[2024-09-24 01:03:45] [INFO] Comando carregado: listarpenas
+[2024-09-24 01:03:45] [INFO] Comando carregado: mvpmini
+[2024-09-24 01:03:45] [INFO] Comando carregado: presenca
+[2024-09-24 01:03:45] [INFO] Comando carregado: prioridade
+[2024-09-24 01:03:45] [INFO] Comando carregado: resetarpenas
+[2024-09-24 01:03:45] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 01:03:45] [INFO] Comando carregado: task
+[2024-09-24 01:03:45] [INFO] Comando carregado: testthought
+[2024-09-24 01:03:46] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 01:03:46] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 01:03:46] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 01:03:46] [INFO] Carregando e agendando tarefas...
+[2024-09-24 01:03:46] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 01:03:46] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 01:03:46] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 01:04:00] [INFO] [24/09/2024, 01:04:00] Comando executado: /testthought, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 01:04:00] [INFO] [24/09/2024, 01:04:00] Comando executado: /testthought, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 01:04:01] [ERROR] Erro ao executar o comando testthought: Interaction has already been acknowledged.
+[2024-09-24 01:04:01] [ERROR] Exceção não capturada: Interaction has already been acknowledged.
+[2024-09-24 01:04:22] [INFO] Comando carregado: add
+[2024-09-24 01:04:22] [INFO] Comando carregado: apto
+[2024-09-24 01:04:22] [INFO] Comando carregado: aptos
+[2024-09-24 01:04:22] [INFO] Comando carregado: del
+[2024-09-24 01:04:22] [INFO] Comando carregado: dividirpenas
+[2024-09-24 01:04:22] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 01:04:22] [INFO] Comando carregado: jogadores
+[2024-09-24 01:04:22] [INFO] Comando carregado: justificarfalta
+[2024-09-24 01:04:22] [INFO] Comando carregado: listarjogadores
+[2024-09-24 01:04:22] [INFO] Comando carregado: listarpenas
+[2024-09-24 01:04:22] [INFO] Comando carregado: mvpmini
+[2024-09-24 01:04:22] [INFO] Comando carregado: presenca
+[2024-09-24 01:04:22] [INFO] Comando carregado: prioridade
+[2024-09-24 01:04:22] [INFO] Comando carregado: resetarpenas
+[2024-09-24 01:04:22] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 01:04:22] [INFO] Comando carregado: task
+[2024-09-24 01:04:22] [INFO] Comando carregado: testthought
+[2024-09-24 01:04:23] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 01:04:23] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 01:04:23] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 01:04:23] [INFO] Carregando e agendando tarefas...
+[2024-09-24 01:04:23] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 01:04:23] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 01:04:23] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 01:04:32] [INFO] Comando carregado: add
+[2024-09-24 01:04:32] [INFO] Comando carregado: apto
+[2024-09-24 01:04:32] [INFO] Comando carregado: aptos
+[2024-09-24 01:04:32] [INFO] Comando carregado: del
+[2024-09-24 01:04:32] [INFO] Comando carregado: dividirpenas
+[2024-09-24 01:04:32] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 01:04:32] [INFO] Comando carregado: jogadores
+[2024-09-24 01:04:32] [INFO] Comando carregado: justificarfalta
+[2024-09-24 01:04:32] [INFO] Comando carregado: listarjogadores
+[2024-09-24 01:04:32] [INFO] Comando carregado: listarpenas
+[2024-09-24 01:04:32] [INFO] Comando carregado: mvpmini
+[2024-09-24 01:04:32] [INFO] Comando carregado: presenca
+[2024-09-24 01:04:32] [INFO] Comando carregado: prioridade
+[2024-09-24 01:04:32] [INFO] Comando carregado: resetarpenas
+[2024-09-24 01:04:32] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 01:04:32] [INFO] Comando carregado: task
+[2024-09-24 01:04:32] [INFO] Comando carregado: testthought
+[2024-09-24 01:04:33] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 01:04:33] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 01:04:33] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 01:04:33] [INFO] Carregando e agendando tarefas...
+[2024-09-24 01:04:33] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 01:04:34] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 01:04:34] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 01:04:36] [INFO] Comando carregado: add
+[2024-09-24 01:04:36] [INFO] Comando carregado: apto
+[2024-09-24 01:04:36] [INFO] Comando carregado: aptos
+[2024-09-24 01:04:36] [INFO] Comando carregado: del
+[2024-09-24 01:04:36] [INFO] Comando carregado: dividirpenas
+[2024-09-24 01:04:36] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 01:04:36] [INFO] Comando carregado: jogadores
+[2024-09-24 01:04:36] [INFO] Comando carregado: justificarfalta
+[2024-09-24 01:04:36] [INFO] Comando carregado: listarjogadores
+[2024-09-24 01:04:36] [INFO] Comando carregado: listarpenas
+[2024-09-24 01:04:36] [INFO] Comando carregado: mvpmini
+[2024-09-24 01:04:36] [INFO] Comando carregado: presenca
+[2024-09-24 01:04:36] [INFO] Comando carregado: prioridade
+[2024-09-24 01:04:36] [INFO] Comando carregado: resetarpenas
+[2024-09-24 01:04:36] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 01:04:36] [INFO] Comando carregado: task
+[2024-09-24 01:04:36] [INFO] Comando carregado: testthought
+[2024-09-24 01:04:37] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 01:04:37] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 01:05:23] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 01:05:23] [INFO] Carregando e agendando tarefas...
+[2024-09-24 01:05:23] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 01:05:24] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 01:05:24] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 11:20:21] [ERROR] Erro não tratado: The reply to this interaction has not been sent or deferred.
+[2024-09-24 13:39:44] [INFO] [24/09/2024, 13:39:44] Comando executado: /del, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-24 13:39:44] [INFO] [24/09/2024, 13:39:44] Comando executado: /del, Usuário: infiniti_ (ID: 232584362527293440)
+[2024-09-24 13:39:45] [ERROR] Erro ao executar o comando del: Unknown interaction
+[2024-09-24 13:39:45] [ERROR] Exceção não capturada: Interaction has already been acknowledged.
+[2024-09-24 17:39:28] [ERROR] Erro não tratado: The reply to this interaction has not been sent or deferred.
+[2024-09-24 18:44:11] [ERROR] Erro não tratado: The reply to this interaction has not been sent or deferred.
+[2024-09-24 20:05:05] [INFO] Comando carregado: add
+[2024-09-24 20:05:05] [INFO] Comando carregado: apto
+[2024-09-24 20:05:05] [INFO] Comando carregado: aptos
+[2024-09-24 20:05:05] [INFO] Comando carregado: del
+[2024-09-24 20:05:05] [INFO] Comando carregado: dividirpenas
+[2024-09-24 20:05:05] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 20:05:05] [INFO] Comando carregado: jogadores
+[2024-09-24 20:05:05] [INFO] Comando carregado: justificarfalta
+[2024-09-24 20:05:05] [INFO] Comando carregado: listarjogadores
+[2024-09-24 20:05:05] [INFO] Comando carregado: listarpenas
+[2024-09-24 20:05:05] [INFO] Comando carregado: mvpmini
+[2024-09-24 20:05:05] [INFO] Comando carregado: presenca
+[2024-09-24 20:05:05] [INFO] Comando carregado: prioridade
+[2024-09-24 20:05:05] [INFO] Comando carregado: resetarpenas
+[2024-09-24 20:05:05] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 20:05:05] [INFO] Comando carregado: task
+[2024-09-24 20:05:05] [INFO] Comando carregado: testthought
+[2024-09-24 20:05:06] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 20:05:06] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 20:05:07] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 20:05:07] [INFO] Carregando e agendando tarefas...
+[2024-09-24 20:05:07] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 20:05:07] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 20:05:07] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 20:15:25] [INFO] [24/09/2024, 20:15:25] Comando executado: /iniciarenquete, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:15:39] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 20:15:39] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 20:16:18] [INFO] [24/09/2024, 20:16:18] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:18:09] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 20:18:59] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 20:30:23] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 20:31:36] [INFO] [24/09/2024, 20:31:36] Comando executado: /listarjogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:31:46] [INFO] [24/09/2024, 20:31:46] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:32:05] [INFO] [24/09/2024, 20:32:05] Comando executado: /dividirpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:32:21] [INFO] [24/09/2024, 20:32:21] Comando executado: /resetarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:32:26] [INFO] [24/09/2024, 20:32:26] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:45:47] [INFO] [24/09/2024, 20:45:47] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:45:52] [INFO] [24/09/2024, 20:45:52] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:46:09] [INFO] Comando carregado: add
+[2024-09-24 20:46:09] [INFO] Comando carregado: apto
+[2024-09-24 20:46:09] [INFO] Comando carregado: aptos
+[2024-09-24 20:46:09] [INFO] Comando carregado: del
+[2024-09-24 20:46:09] [INFO] Comando carregado: dividirpenas
+[2024-09-24 20:46:09] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 20:46:09] [INFO] Comando carregado: jogadores
+[2024-09-24 20:46:09] [INFO] Comando carregado: justificarfalta
+[2024-09-24 20:46:09] [INFO] Comando carregado: listarjogadores
+[2024-09-24 20:46:09] [INFO] Comando carregado: listarpenas
+[2024-09-24 20:46:09] [INFO] Comando carregado: mvpmini
+[2024-09-24 20:46:09] [INFO] Comando carregado: presenca
+[2024-09-24 20:46:09] [INFO] Comando carregado: prioridade
+[2024-09-24 20:46:09] [INFO] Comando carregado: resetarpenas
+[2024-09-24 20:46:09] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 20:46:09] [INFO] Comando carregado: task
+[2024-09-24 20:46:09] [INFO] Comando carregado: testthought
+[2024-09-24 20:46:10] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 20:46:10] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 20:46:10] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 20:46:10] [INFO] Carregando e agendando tarefas...
+[2024-09-24 20:46:10] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 20:46:11] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 20:46:11] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 20:46:15] [INFO] [24/09/2024, 20:46:15] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:46:20] [INFO] [24/09/2024, 20:46:20] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:46:24] [INFO] [24/09/2024, 20:46:24] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:49:32] [INFO] [24/09/2024, 20:49:32] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:50:07] [INFO] Comando carregado: add
+[2024-09-24 20:50:07] [INFO] Comando carregado: apto
+[2024-09-24 20:50:07] [INFO] Comando carregado: aptos
+[2024-09-24 20:50:07] [INFO] Comando carregado: del
+[2024-09-24 20:50:07] [INFO] Comando carregado: dividirpenas
+[2024-09-24 20:50:07] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 20:50:07] [INFO] Comando carregado: jogadores
+[2024-09-24 20:50:07] [INFO] Comando carregado: justificarfalta
+[2024-09-24 20:50:07] [INFO] Comando carregado: listarjogadores
+[2024-09-24 20:50:07] [INFO] Comando carregado: listarpenas
+[2024-09-24 20:50:07] [INFO] Comando carregado: mvpmini
+[2024-09-24 20:50:07] [INFO] Comando carregado: presenca
+[2024-09-24 20:50:07] [INFO] Comando carregado: prioridade
+[2024-09-24 20:50:07] [INFO] Comando carregado: resetarpenas
+[2024-09-24 20:50:07] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 20:50:07] [INFO] Comando carregado: task
+[2024-09-24 20:50:07] [INFO] Comando carregado: testthought
+[2024-09-24 20:50:08] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 20:50:08] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 20:50:09] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 20:50:09] [INFO] Carregando e agendando tarefas...
+[2024-09-24 20:50:09] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 20:50:09] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 20:50:09] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-24 20:50:12] [INFO] [24/09/2024, 20:50:12] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:51:54] [INFO] [24/09/2024, 20:51:54] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:51:59] [INFO] [24/09/2024, 20:51:59] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:52:08] [INFO] [24/09/2024, 20:52:08] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 20:52:11] [INFO] [24/09/2024, 20:52:11] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 21:10:52] [INFO] [24/09/2024, 21:10:52] Comando executado: /iniciarenquete, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 21:11:16] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 21:11:21] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 21:11:25] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 21:11:32] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 21:11:36] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 21:11:48] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 21:12:38] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-24 21:20:46] [INFO] [24/09/2024, 21:20:46] Comando executado: /testthought, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 21:26:06] [INFO] [24/09/2024, 21:26:06] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 21:26:26] [INFO] [24/09/2024, 21:26:26] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 21:26:33] [INFO] [24/09/2024, 21:26:33] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 21:26:52] [INFO] [24/09/2024, 21:26:52] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 21:26:56] [INFO] [24/09/2024, 21:26:56] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 21:27:03] [INFO] [24/09/2024, 21:27:03] Comando executado: /dividirpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-24 21:52:22] [INFO] Comando carregado: add
+[2024-09-24 21:52:22] [INFO] Comando carregado: apto
+[2024-09-24 21:52:22] [INFO] Comando carregado: aptos
+[2024-09-24 21:52:22] [INFO] Comando carregado: del
+[2024-09-24 21:52:22] [INFO] Comando carregado: dividirpenas
+[2024-09-24 21:52:22] [INFO] Comando carregado: iniciarenquete
+[2024-09-24 21:52:22] [INFO] Comando carregado: jogadores
+[2024-09-24 21:52:22] [INFO] Comando carregado: justificarfalta
+[2024-09-24 21:52:22] [INFO] Comando carregado: listarjogadores
+[2024-09-24 21:52:22] [INFO] Comando carregado: listarpenas
+[2024-09-24 21:52:22] [INFO] Comando carregado: mvpmini
+[2024-09-24 21:52:22] [INFO] Comando carregado: presenca
+[2024-09-24 21:52:22] [INFO] Comando carregado: prioridade
+[2024-09-24 21:52:22] [INFO] Comando carregado: resetarpenas
+[2024-09-24 21:52:22] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-24 21:52:22] [INFO] Comando carregado: task
+[2024-09-24 21:52:22] [INFO] Comando carregado: testthought
+[2024-09-24 21:52:23] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-24 21:52:23] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-24 21:52:23] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-24 21:52:23] [INFO] Carregando e agendando tarefas...
+[2024-09-24 21:52:23] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-24 21:52:24] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-24 21:52:24] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-25 00:54:16] [INFO] Comando carregado: add
+[2024-09-25 00:54:16] [INFO] Comando carregado: apto
+[2024-09-25 00:54:16] [INFO] Comando carregado: aptos
+[2024-09-25 00:54:16] [INFO] Comando carregado: del
+[2024-09-25 00:54:16] [INFO] Comando carregado: dividirpenas
+[2024-09-25 00:54:16] [INFO] Comando carregado: iniciarenquete
+[2024-09-25 00:54:16] [INFO] Comando carregado: jogadores
+[2024-09-25 00:54:16] [INFO] Comando carregado: justificarfalta
+[2024-09-25 00:54:16] [INFO] Comando carregado: listarjogadores
+[2024-09-25 00:54:16] [INFO] Comando carregado: listarpenas
+[2024-09-25 00:54:16] [INFO] Comando carregado: mvpmini
+[2024-09-25 00:54:16] [INFO] Comando carregado: presenca
+[2024-09-25 00:54:16] [INFO] Comando carregado: prioridade
+[2024-09-25 00:54:16] [INFO] Comando carregado: resetarpenas
+[2024-09-25 00:54:16] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-25 00:54:16] [INFO] Comando carregado: task
+[2024-09-25 00:54:16] [INFO] Comando carregado: testthought
+[2024-09-25 00:54:17] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-25 00:54:17] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-25 00:54:17] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-25 00:54:17] [INFO] Carregando e agendando tarefas...
+[2024-09-25 00:54:17] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-25 00:54:17] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-25 00:54:17] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-25 00:56:28] [INFO] Comando carregado: add
+[2024-09-25 00:56:28] [INFO] Comando carregado: apto
+[2024-09-25 00:56:28] [INFO] Comando carregado: aptos
+[2024-09-25 00:56:28] [INFO] Comando carregado: del
+[2024-09-25 00:56:28] [INFO] Comando carregado: dividirpenas
+[2024-09-25 00:56:28] [INFO] Comando carregado: iniciarenquete
+[2024-09-25 00:56:28] [INFO] Comando carregado: jogadores
+[2024-09-25 00:56:28] [INFO] Comando carregado: justificarfalta
+[2024-09-25 00:56:28] [INFO] Comando carregado: listarjogadores
+[2024-09-25 00:56:28] [INFO] Comando carregado: listarpenas
+[2024-09-25 00:56:28] [INFO] Comando carregado: mvpmini
+[2024-09-25 00:56:28] [INFO] Comando carregado: presenca
+[2024-09-25 00:56:28] [INFO] Comando carregado: prioridade
+[2024-09-25 00:56:28] [INFO] Comando carregado: resetarpenas
+[2024-09-25 00:56:28] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-25 00:56:28] [INFO] Comando carregado: task
+[2024-09-25 00:56:28] [INFO] Comando carregado: testthought
+[2024-09-25 00:56:29] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-25 00:56:29] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-25 00:56:30] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-25 00:56:30] [INFO] Carregando e agendando tarefas...
+[2024-09-25 00:56:30] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-25 00:56:30] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-25 00:56:30] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-25 00:59:23] [INFO] Comando carregado: add
+[2024-09-25 00:59:23] [INFO] Comando carregado: apto
+[2024-09-25 00:59:23] [INFO] Comando carregado: aptos
+[2024-09-25 00:59:23] [INFO] Comando carregado: del
+[2024-09-25 00:59:23] [INFO] Comando carregado: dividirpenas
+[2024-09-25 00:59:23] [INFO] Comando carregado: iniciarenquete
+[2024-09-25 00:59:23] [INFO] Comando carregado: jogadores
+[2024-09-25 00:59:23] [INFO] Comando carregado: justificarfalta
+[2024-09-25 00:59:23] [INFO] Comando carregado: listarjogadores
+[2024-09-25 00:59:23] [INFO] Comando carregado: listarpenas
+[2024-09-25 00:59:23] [INFO] Comando carregado: mvpmini
+[2024-09-25 00:59:23] [INFO] Comando carregado: presenca
+[2024-09-25 00:59:23] [INFO] Comando carregado: prioridade
+[2024-09-25 00:59:23] [INFO] Comando carregado: resetarpenas
+[2024-09-25 00:59:23] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-25 00:59:23] [INFO] Comando carregado: task
+[2024-09-25 00:59:23] [INFO] Comando carregado: testthought
+[2024-09-25 00:59:24] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-25 00:59:24] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-25 00:59:25] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-25 00:59:25] [INFO] Carregando e agendando tarefas...
+[2024-09-25 00:59:25] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-25 00:59:25] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-25 00:59:25] [INFO] Retomando o monitoramento da lista de jogadores...

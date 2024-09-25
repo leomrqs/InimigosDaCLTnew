@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "ALOUUUUUUUUUUUU",
+    "cronExpression": "0 32 15 * * *",
+    "channelId": "1287835107880865933",
+    "message": "TESTING NOTIFICAÇÃO DOS ARCHBISHOP",
+    "color": 3447003,
+    "roleId": "1284233600606146663",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T18:30:37.688Z",
+    "isActive": false
+  },
+  {
+    "id": 2,
+    "name": "ALOUUUUUUUUUUUU",
+    "cronExpression": "0 34 15 * * *",
+    "channelId": "1287835107880865933",
+    "message": "TESTING NOTIFICAÇÃO DOS ARCHBISHOP",
+    "color": 3447003,
+    "roleId": "1284233600606146663",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T18:32:22.811Z",
+    "isActive": false
+  },
+  {
+    "id": 3,
+    "name": "Sigil (MARKET RESET)",
+    "cronExpression": "0 2 16 * * *",
+    "channelId": "1287835107880865933",
+    "message": "As Sigils do mercado foram atualizadas e estarão disponível para comprar daqui 5 minutos.",
+    "color": 3066993,
+    "roleId": "1287845707956490383",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T18:40:27.467Z",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "name": "Sigil (MARKET RESET)",
+    "cronExpression": "0 2 12 * * *",
+    "channelId": "1287835107880865933",
+    "message": "As Sigils do mercado foram atualizadas e estarão disponível para comprar daqui 5 minutos.",
+    "color": 3066993,
+    "roleId": "1287845707956490383",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T18:40:40.075Z",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Sigil (MARKET RESET)",
+    "cronExpression": "0 2 20 * * *",
+    "channelId": "1287835107880865933",
+    "message": "As Sigils do mercado foram atualizadas e estarão disponível para comprar daqui 5 minutos.",
+    "color": 3066993,
+    "roleId": "1287845707956490383",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T18:40:46.411Z",
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "name": "Tenda | Stall (RESET)",
+    "cronExpression": "0 55 23 * * *",
+    "channelId": "1287835107880865933",
+    "message": "O mercado de itens (Tenda) foi resetada e você pode colocar seus itens para venda.",
+    "color": 3447003,
+    "roleId": "1287845803687415859",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T18:41:46.401Z",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "name": "Eventos da Guilda",
+    "cronExpression": "0 0 20 * * 2",
+    "channelId": "1287835107880865933",
+    "message": "Os eventos Guild Feast, Time-Space Anomaly e Guild League começarão em breve, fique atento! Por favor, entrem no canal PvP - Pré Eventos para organizar as PT's e Estratégias.",
+    "color": 15844367,
+    "roleId": "1274171022307758153",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T19:20:31.060Z",
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "name": "Eventos da Guilda",
+    "cronExpression": "0 0 20 * * 4",
+    "channelId": "1287835107880865933",
+    "message": "Os eventos Guild Feast, Phantom Hunt e Guild League começarão em breve, fique atento! Por favor, entrem no canal PvP - Pré Eventos para organizar as PT's e Estratégias.",
+    "color": 15844367,
+    "roleId": "1274171022307758153",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T19:20:53.584Z",
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "name": "Eventos da Guilda",
+    "cronExpression": "0 0 20 * * 6",
+    "channelId": "1287835107880865933",
+    "message": "Os eventos Weekend Banquet, Tetra Realms e Guild League começarão em breve, fique atento! Por favor, entrem no canal PvP - Pré Eventos para organizar as PT's e Estratégias.",
+    "color": 15844367,
+    "roleId": "1274171022307758153",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T19:21:02.420Z",
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "name": "Eventos da Guilda",
+    "cronExpression": "0 30 20 * * 0",
+    "channelId": "1287835107880865933",
+    "message": "Os eventos War of Emperium e Emperium Overrun começarão em breve, fique atento! Por favor, entrem no canal PvP - Pré Eventos para organizar as PT's e Estratégias.",
+    "color": 15844367,
+    "roleId": "1274171022307758153",
+    "createdBy": "535193958142312451",
+    "createdAt": "2024-09-23T19:21:16.278Z",
+    "isActive": true
+  }
+]
