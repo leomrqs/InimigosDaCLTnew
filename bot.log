@@ -2528,3 +2528,1098 @@
 [2024-09-25 00:59:25] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
 [2024-09-25 00:59:25] [INFO] Retomando o monitoramento do comando justificarfalta...
 [2024-09-25 00:59:25] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-25 08:38:20] [INFO] Comando carregado: add
+[2024-09-25 08:38:20] [INFO] Comando carregado: apto
+[2024-09-25 08:38:20] [INFO] Comando carregado: aptos
+[2024-09-25 08:38:20] [INFO] Comando carregado: del
+[2024-09-25 08:38:20] [INFO] Comando carregado: dividirpenas
+[2024-09-25 08:38:20] [INFO] Comando carregado: iniciarenquete
+[2024-09-25 08:38:20] [INFO] Comando carregado: jogadores
+[2024-09-25 08:38:20] [INFO] Comando carregado: justificarfalta
+[2024-09-25 08:38:20] [INFO] Comando carregado: listarjogadores
+[2024-09-25 08:38:20] [INFO] Comando carregado: listarpenas
+[2024-09-25 08:38:20] [INFO] Comando carregado: mvpmini
+[2024-09-25 08:38:20] [INFO] Comando carregado: presenca
+[2024-09-25 08:38:20] [INFO] Comando carregado: prioridade
+[2024-09-25 08:38:20] [INFO] Comando carregado: resetarpenas
+[2024-09-25 08:38:20] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-25 08:38:20] [INFO] Comando carregado: task
+[2024-09-25 08:38:20] [INFO] Comando carregado: testthought
+[2024-09-25 08:38:22] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-25 08:38:22] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-25 08:38:22] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-25 08:38:22] [INFO] Carregando e agendando tarefas...
+[2024-09-25 08:38:22] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-25 08:38:23] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-25 08:38:23] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-25 10:29:47] [INFO] [25/09/2024, 10:29:47] Comando executado: /del, Usuário: ursopelado (ID: 206490995603406848)
+[2024-09-25 10:30:08] [INFO] [25/09/2024, 10:30:08] Comando executado: /del, Usuário: ursopelado (ID: 206490995603406848)
+[2024-09-25 10:30:23] [INFO] [25/09/2024, 10:30:23] Comando executado: /del, Usuário: ursopelado (ID: 206490995603406848)
+[2024-09-25 10:31:20] [INFO] [25/09/2024, 10:31:20] Comando executado: /add, Usuário: ursopelado (ID: 206490995603406848)
+[2024-09-26 07:50:19] [INFO] [26/09/2024, 07:50:19] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 20:52:54] [INFO] Comando carregado: add
+[2024-09-26 20:52:54] [INFO] Comando carregado: apto
+[2024-09-26 20:52:54] [INFO] Comando carregado: aptos
+[2024-09-26 20:52:54] [INFO] Comando carregado: del
+[2024-09-26 20:52:54] [INFO] Comando carregado: dividirpenas
+[2024-09-26 20:52:54] [INFO] Comando carregado: iniciarenquete
+[2024-09-26 20:52:54] [INFO] Comando carregado: jogadores
+[2024-09-26 20:52:54] [INFO] Comando carregado: justificarfalta
+[2024-09-26 20:52:54] [INFO] Comando carregado: listarjogadores
+[2024-09-26 20:52:54] [INFO] Comando carregado: listarpenas
+[2024-09-26 20:52:54] [INFO] Comando carregado: mvpmini
+[2024-09-26 20:52:54] [INFO] Comando carregado: presenca
+[2024-09-26 20:52:54] [INFO] Comando carregado: prioridade
+[2024-09-26 20:52:54] [INFO] Comando carregado: resetarpenas
+[2024-09-26 20:52:54] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-26 20:52:54] [INFO] Comando carregado: task
+[2024-09-26 20:52:54] [INFO] Comando carregado: testthought
+[2024-09-26 20:52:55] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-26 20:52:55] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-26 20:52:56] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-26 20:52:56] [INFO] Carregando e agendando tarefas...
+[2024-09-26 20:52:56] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-26 20:52:56] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-26 20:52:56] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-26 20:53:30] [INFO] [26/09/2024, 20:53:30] Comando executado: /presenca, Usuário: simioni.thiago (ID: 223188360301248522)
+[2024-09-26 20:53:47] [INFO] [26/09/2024, 20:53:47] Comando executado: /presenca, Usuário: simioni.thiago (ID: 223188360301248522)
+[2024-09-26 20:54:38] [INFO] [26/09/2024, 20:54:38] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 20:54:55] [INFO] [26/09/2024, 20:54:55] Comando executado: /add, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:11:22] [INFO] [26/09/2024, 21:11:22] Comando executado: /iniciarenquete, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:11:59] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-26 21:11:59] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-26 21:12:05] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-26 21:12:29] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-26 21:14:36] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-26 21:14:44] [INFO] [26/09/2024, 21:14:44] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:29:12] [INFO] [26/09/2024, 21:29:12] Comando executado: /dividirpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:29:50] [INFO] [26/09/2024, 21:29:50] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:30:00] [INFO] [26/09/2024, 21:30:00] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:30:02] [INFO] [26/09/2024, 21:30:02] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:30:04] [INFO] [26/09/2024, 21:30:04] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:30:08] [INFO] [26/09/2024, 21:30:08] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:30:10] [INFO] [26/09/2024, 21:30:10] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-26 21:30:42] [INFO] [26/09/2024, 21:30:42] Comando executado: /dividirpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 01:50:10] [INFO] Comando carregado: add
+[2024-09-27 01:50:10] [INFO] Comando carregado: apto
+[2024-09-27 01:50:10] [INFO] Comando carregado: aptos
+[2024-09-27 01:50:10] [INFO] Comando carregado: del
+[2024-09-27 01:50:10] [INFO] Comando carregado: dividirpenas
+[2024-09-27 01:50:10] [INFO] Comando carregado: iniciarenquete
+[2024-09-27 01:50:10] [INFO] Comando carregado: jogadores
+[2024-09-27 01:50:10] [INFO] Comando carregado: justificarfalta
+[2024-09-27 01:50:10] [INFO] Comando carregado: listarjogadores
+[2024-09-27 01:50:10] [INFO] Comando carregado: listarpenas
+[2024-09-27 01:50:10] [INFO] Comando carregado: mvpmini
+[2024-09-27 01:50:10] [INFO] Comando carregado: presenca
+[2024-09-27 01:50:10] [INFO] Comando carregado: prioridade
+[2024-09-27 01:50:10] [INFO] Comando carregado: resetarpenas
+[2024-09-27 01:50:10] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-27 01:50:10] [INFO] Comando carregado: task
+[2024-09-27 01:50:10] [INFO] Comando carregado: testthought
+[2024-09-27 01:50:11] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-27 01:50:11] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-27 01:50:12] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-27 01:50:12] [INFO] Carregando e agendando tarefas...
+[2024-09-27 01:50:12] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-27 01:50:12] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-27 01:50:12] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-27 01:50:24] [INFO] [27/09/2024, 01:50:24] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 01:50:25] [ERROR] Erro ao executar o comando presenca: Unexpected end of JSON input
+[2024-09-27 01:51:07] [INFO] Comando carregado: add
+[2024-09-27 01:51:07] [INFO] Comando carregado: apto
+[2024-09-27 01:51:07] [INFO] Comando carregado: aptos
+[2024-09-27 01:51:07] [INFO] Comando carregado: del
+[2024-09-27 01:51:07] [INFO] Comando carregado: dividirpenas
+[2024-09-27 01:51:07] [INFO] Comando carregado: iniciarenquete
+[2024-09-27 01:51:07] [INFO] Comando carregado: jogadores
+[2024-09-27 01:51:07] [INFO] Comando carregado: justificarfalta
+[2024-09-27 01:51:07] [INFO] Comando carregado: listarjogadores
+[2024-09-27 01:51:07] [INFO] Comando carregado: listarpenas
+[2024-09-27 01:51:07] [INFO] Comando carregado: mvpmini
+[2024-09-27 01:51:07] [INFO] Comando carregado: presenca
+[2024-09-27 01:51:07] [INFO] Comando carregado: prioridade
+[2024-09-27 01:51:07] [INFO] Comando carregado: resetarpenas
+[2024-09-27 01:51:07] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-27 01:51:07] [INFO] Comando carregado: task
+[2024-09-27 01:51:07] [INFO] Comando carregado: testthought
+[2024-09-27 01:51:10] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-27 01:51:10] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-27 01:51:10] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-27 01:51:10] [INFO] Carregando e agendando tarefas...
+[2024-09-27 01:51:10] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-27 01:51:10] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-27 01:51:10] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-27 01:51:14] [INFO] [27/09/2024, 01:51:14] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 01:51:46] [INFO] Comando carregado: add
+[2024-09-27 01:51:46] [INFO] Comando carregado: apto
+[2024-09-27 01:51:46] [INFO] Comando carregado: aptos
+[2024-09-27 01:51:46] [INFO] Comando carregado: del
+[2024-09-27 01:51:46] [INFO] Comando carregado: dividirpenas
+[2024-09-27 01:51:46] [INFO] Comando carregado: iniciarenquete
+[2024-09-27 01:51:46] [INFO] Comando carregado: jogadores
+[2024-09-27 01:51:46] [INFO] Comando carregado: justificarfalta
+[2024-09-27 01:51:46] [INFO] Comando carregado: listarjogadores
+[2024-09-27 01:51:46] [INFO] Comando carregado: listarpenas
+[2024-09-27 01:51:46] [INFO] Comando carregado: mvpmini
+[2024-09-27 01:51:46] [INFO] Comando carregado: presenca
+[2024-09-27 01:51:46] [INFO] Comando carregado: prioridade
+[2024-09-27 01:51:46] [INFO] Comando carregado: resetarpenas
+[2024-09-27 01:51:46] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-27 01:51:46] [INFO] Comando carregado: task
+[2024-09-27 01:51:46] [INFO] Comando carregado: testthought
+[2024-09-27 01:51:47] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-27 01:51:47] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-27 01:51:47] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-27 01:51:47] [INFO] Carregando e agendando tarefas...
+[2024-09-27 01:51:47] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-27 01:51:47] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-27 01:51:47] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-27 01:51:56] [INFO] [27/09/2024, 01:51:56] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 01:52:19] [INFO] [27/09/2024, 01:52:19] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 01:53:17] [INFO] Comando carregado: add
+[2024-09-27 01:53:17] [INFO] Comando carregado: apto
+[2024-09-27 01:53:17] [INFO] Comando carregado: aptos
+[2024-09-27 01:53:17] [INFO] Comando carregado: del
+[2024-09-27 01:53:17] [INFO] Comando carregado: dividirpenas
+[2024-09-27 01:53:17] [INFO] Comando carregado: iniciarenquete
+[2024-09-27 01:53:17] [INFO] Comando carregado: jogadores
+[2024-09-27 01:53:17] [INFO] Comando carregado: justificarfalta
+[2024-09-27 01:53:17] [INFO] Comando carregado: listarjogadores
+[2024-09-27 01:53:17] [INFO] Comando carregado: listarpenas
+[2024-09-27 01:53:17] [INFO] Comando carregado: mvpmini
+[2024-09-27 01:53:17] [INFO] Comando carregado: presenca
+[2024-09-27 01:53:17] [INFO] Comando carregado: prioridade
+[2024-09-27 01:53:17] [INFO] Comando carregado: resetarpenas
+[2024-09-27 01:53:17] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-27 01:53:17] [INFO] Comando carregado: task
+[2024-09-27 01:53:17] [INFO] Comando carregado: testthought
+[2024-09-27 01:53:18] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-27 01:53:18] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-27 01:53:18] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-27 01:53:18] [INFO] Carregando e agendando tarefas...
+[2024-09-27 01:53:18] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-27 01:53:18] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-27 01:53:19] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-27 01:53:20] [INFO] [27/09/2024, 01:53:20] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 01:53:35] [INFO] [27/09/2024, 01:53:35] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 01:53:39] [INFO] [27/09/2024, 01:53:39] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 02:00:46] [INFO] Comando carregado: add
+[2024-09-27 02:00:46] [INFO] Comando carregado: apto
+[2024-09-27 02:00:46] [INFO] Comando carregado: aptos
+[2024-09-27 02:00:46] [INFO] Comando carregado: del
+[2024-09-27 02:00:46] [INFO] Comando carregado: dividirpenas
+[2024-09-27 02:00:46] [INFO] Comando carregado: iniciarenquete
+[2024-09-27 02:00:46] [INFO] Comando carregado: jogadores
+[2024-09-27 02:00:46] [INFO] Comando carregado: justificarfalta
+[2024-09-27 02:00:46] [INFO] Comando carregado: listarjogadores
+[2024-09-27 02:00:46] [INFO] Comando carregado: listarpenas
+[2024-09-27 02:00:46] [INFO] Comando carregado: mvpmini
+[2024-09-27 02:00:46] [INFO] Comando carregado: presenca
+[2024-09-27 02:00:46] [INFO] Comando carregado: prioridade
+[2024-09-27 02:00:46] [INFO] Comando carregado: resetarpenas
+[2024-09-27 02:00:46] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-27 02:00:46] [INFO] Comando carregado: task
+[2024-09-27 02:00:46] [INFO] Comando carregado: testthought
+[2024-09-27 02:00:47] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-27 02:00:47] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-27 02:00:48] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-27 02:00:48] [INFO] Carregando e agendando tarefas...
+[2024-09-27 02:00:48] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-27 02:00:48] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-27 02:00:48] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-27 02:00:54] [INFO] [27/09/2024, 02:00:54] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 02:04:47] [INFO] Comando carregado: add
+[2024-09-27 02:04:47] [INFO] Comando carregado: apto
+[2024-09-27 02:04:47] [INFO] Comando carregado: aptos
+[2024-09-27 02:04:47] [INFO] Comando carregado: del
+[2024-09-27 02:04:47] [INFO] Comando carregado: dividirpenas
+[2024-09-27 02:04:47] [INFO] Comando carregado: iniciarenquete
+[2024-09-27 02:04:47] [INFO] Comando carregado: jogadores
+[2024-09-27 02:04:47] [INFO] Comando carregado: justificarfalta
+[2024-09-27 02:04:47] [INFO] Comando carregado: listarjogadores
+[2024-09-27 02:04:47] [INFO] Comando carregado: listarpenas
+[2024-09-27 02:04:47] [INFO] Comando carregado: mvpmini
+[2024-09-27 02:04:47] [INFO] Comando carregado: presenca
+[2024-09-27 02:04:47] [INFO] Comando carregado: prioridade
+[2024-09-27 02:04:47] [INFO] Comando carregado: resetarpenas
+[2024-09-27 02:04:47] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-27 02:04:47] [INFO] Comando carregado: task
+[2024-09-27 02:04:47] [INFO] Comando carregado: testthought
+[2024-09-27 02:04:48] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-27 02:04:48] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-27 02:04:48] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-27 02:04:48] [INFO] Carregando e agendando tarefas...
+[2024-09-27 02:04:48] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-27 02:04:49] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-27 02:04:49] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-27 02:04:50] [INFO] [27/09/2024, 02:04:50] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 02:04:50] [ERROR] Erro ao executar o comando presenca: Unexpected end of JSON input
+[2024-09-27 02:06:00] [INFO] [27/09/2024, 02:06:00] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-27 17:47:39] [ERROR] Erro não tratado: Connect Timeout Error (attempted addresses: 162.159.137.232:443, 162.159.128.233:443, 162.159.138.232:443, 162.159.136.232:443, 162.159.135.232:443)
+[2024-09-28 12:03:12] [INFO] [28/09/2024, 12:03:12] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 12:38:28] [INFO] [28/09/2024, 12:38:28] Comando executado: /del, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 13:07:36] [INFO] [28/09/2024, 13:07:36] Comando executado: /del, Usuário: fii182 (ID: 242367322629603328)
+[2024-09-28 13:07:50] [INFO] [28/09/2024, 13:07:50] Comando executado: /del, Usuário: fii182 (ID: 242367322629603328)
+[2024-09-28 13:07:58] [INFO] [28/09/2024, 13:07:58] Comando executado: /del, Usuário: fii182 (ID: 242367322629603328)
+[2024-09-28 14:12:00] [INFO] Comando carregado: add
+[2024-09-28 14:12:00] [INFO] Comando carregado: apto
+[2024-09-28 14:12:00] [INFO] Comando carregado: aptos
+[2024-09-28 14:12:00] [INFO] Comando carregado: del
+[2024-09-28 14:12:00] [INFO] Comando carregado: dividirpenas
+[2024-09-28 14:12:00] [INFO] Comando carregado: iniciarenquete
+[2024-09-28 14:12:00] [INFO] Comando carregado: jogadores
+[2024-09-28 14:12:00] [INFO] Comando carregado: justificarfalta
+[2024-09-28 14:12:00] [INFO] Comando carregado: listarjogadores
+[2024-09-28 14:12:00] [INFO] Comando carregado: listarpenas
+[2024-09-28 14:12:00] [INFO] Comando carregado: mvpmini
+[2024-09-28 14:12:00] [INFO] Comando carregado: presenca
+[2024-09-28 14:12:00] [INFO] Comando carregado: prioridade
+[2024-09-28 14:12:00] [INFO] Comando carregado: resetarpenas
+[2024-09-28 14:12:00] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-28 14:12:00] [INFO] Comando carregado: task
+[2024-09-28 14:12:00] [INFO] Comando carregado: testthought
+[2024-09-28 14:12:01] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-28 14:12:01] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-28 14:12:01] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-28 14:12:01] [INFO] Carregando e agendando tarefas...
+[2024-09-28 14:12:01] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-28 14:12:01] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-28 14:12:01] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-28 20:49:58] [INFO] [28/09/2024, 20:49:58] Comando executado: /presenca, Usuário: simioni.thiago (ID: 223188360301248522)
+[2024-09-28 20:50:12] [INFO] [28/09/2024, 20:50:12] Comando executado: /presenca, Usuário: simioni.thiago (ID: 223188360301248522)
+[2024-09-28 20:54:03] [INFO] [28/09/2024, 20:54:03] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 20:54:24] [INFO] [28/09/2024, 20:54:24] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 20:54:32] [INFO] [28/09/2024, 20:54:32] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 20:54:43] [INFO] Comando carregado: add
+[2024-09-28 20:54:43] [INFO] Comando carregado: apto
+[2024-09-28 20:54:43] [INFO] Comando carregado: aptos
+[2024-09-28 20:54:43] [INFO] Comando carregado: del
+[2024-09-28 20:54:43] [INFO] Comando carregado: dividirpenas
+[2024-09-28 20:54:43] [INFO] Comando carregado: iniciarenquete
+[2024-09-28 20:54:43] [INFO] Comando carregado: jogadores
+[2024-09-28 20:54:43] [INFO] Comando carregado: justificarfalta
+[2024-09-28 20:54:43] [INFO] Comando carregado: listarjogadores
+[2024-09-28 20:54:43] [INFO] Comando carregado: listarpenas
+[2024-09-28 20:54:43] [INFO] Comando carregado: mvpmini
+[2024-09-28 20:54:43] [INFO] Comando carregado: presenca
+[2024-09-28 20:54:43] [INFO] Comando carregado: prioridade
+[2024-09-28 20:54:43] [INFO] Comando carregado: resetarpenas
+[2024-09-28 20:54:43] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-28 20:54:43] [INFO] Comando carregado: task
+[2024-09-28 20:54:43] [INFO] Comando carregado: testthought
+[2024-09-28 20:54:44] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-28 20:54:44] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-28 20:54:44] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-28 20:54:44] [INFO] Carregando e agendando tarefas...
+[2024-09-28 20:54:44] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-28 20:54:45] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-28 20:54:45] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-28 20:54:48] [INFO] [28/09/2024, 20:54:48] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 20:54:50] [INFO] [28/09/2024, 20:54:50] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 21:10:37] [INFO] [28/09/2024, 21:10:37] Comando executado: /iniciarenquete, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 21:10:50] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-28 21:10:53] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-28 21:11:02] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-09-28 21:20:28] [INFO] [28/09/2024, 21:20:28] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 21:20:38] [INFO] [28/09/2024, 21:20:38] Comando executado: /resetarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 21:20:42] [INFO] [28/09/2024, 21:20:42] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-28 21:25:43] [INFO] [28/09/2024, 21:25:43] Comando executado: /dividirpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-29 12:04:33] [INFO] [29/09/2024, 12:04:33] Comando executado: /justificarfalta, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-09-30 14:09:02] [INFO] Comando carregado: add
+[2024-09-30 14:09:02] [INFO] Comando carregado: apto
+[2024-09-30 14:09:02] [INFO] Comando carregado: aptos
+[2024-09-30 14:09:02] [INFO] Comando carregado: del
+[2024-09-30 14:09:02] [INFO] Comando carregado: dividirpenas
+[2024-09-30 14:09:02] [INFO] Comando carregado: iniciarenquete
+[2024-09-30 14:09:02] [INFO] Comando carregado: jogadores
+[2024-09-30 14:09:02] [INFO] Comando carregado: justificarfalta
+[2024-09-30 14:09:02] [INFO] Comando carregado: listarjogadores
+[2024-09-30 14:09:02] [INFO] Comando carregado: listarpenas
+[2024-09-30 14:09:02] [INFO] Comando carregado: mvpmini
+[2024-09-30 14:09:02] [INFO] Comando carregado: presenca
+[2024-09-30 14:09:02] [INFO] Comando carregado: prioridade
+[2024-09-30 14:09:02] [INFO] Comando carregado: resetarpenas
+[2024-09-30 14:09:02] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-30 14:09:02] [INFO] Comando carregado: task
+[2024-09-30 14:09:02] [INFO] Comando carregado: testthought
+[2024-09-30 14:09:03] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-30 14:09:03] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-30 14:09:03] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-30 14:09:03] [INFO] Carregando e agendando tarefas...
+[2024-09-30 14:09:03] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-30 14:09:04] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-30 14:09:04] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-30 18:58:32] [INFO] Comando carregado: add
+[2024-09-30 18:58:32] [INFO] Comando carregado: apto
+[2024-09-30 18:58:32] [INFO] Comando carregado: aptos
+[2024-09-30 18:58:32] [INFO] Comando carregado: del
+[2024-09-30 18:58:32] [INFO] Comando carregado: dividirpenas
+[2024-09-30 18:58:32] [INFO] Comando carregado: iniciarenquete
+[2024-09-30 18:58:32] [INFO] Comando carregado: jogadores
+[2024-09-30 18:58:32] [INFO] Comando carregado: justificarfalta
+[2024-09-30 18:58:32] [INFO] Comando carregado: listarjogadores
+[2024-09-30 18:58:32] [INFO] Comando carregado: listarpenas
+[2024-09-30 18:58:32] [INFO] Comando carregado: mvpmini
+[2024-09-30 18:58:32] [INFO] Comando carregado: presenca
+[2024-09-30 18:58:32] [INFO] Comando carregado: prioridade
+[2024-09-30 18:58:32] [INFO] Comando carregado: resetarpenas
+[2024-09-30 18:58:32] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-30 18:58:32] [INFO] Comando carregado: task
+[2024-09-30 18:58:32] [INFO] Comando carregado: testthought
+[2024-09-30 18:58:33] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-30 18:58:34] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-30 18:58:34] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-30 18:58:34] [INFO] Carregando e agendando tarefas...
+[2024-09-30 18:58:34] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-30 18:58:34] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-30 18:58:34] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-30 19:16:18] [INFO] Comando carregado: add
+[2024-09-30 19:16:18] [INFO] Comando carregado: apto
+[2024-09-30 19:16:18] [INFO] Comando carregado: aptos
+[2024-09-30 19:16:18] [INFO] Comando carregado: codigo
+[2024-09-30 19:16:18] [INFO] Comando carregado: del
+[2024-09-30 19:16:18] [INFO] Comando carregado: dividirpenas
+[2024-09-30 19:16:18] [INFO] Comando carregado: iniciarenquete
+[2024-09-30 19:16:18] [INFO] Comando carregado: jogadores
+[2024-09-30 19:16:18] [INFO] Comando carregado: justificarfalta
+[2024-09-30 19:16:18] [INFO] Comando carregado: listarjogadores
+[2024-09-30 19:16:18] [INFO] Comando carregado: listarpenas
+[2024-09-30 19:16:18] [INFO] Comando carregado: mvpmini
+[2024-09-30 19:16:18] [INFO] Comando carregado: presenca
+[2024-09-30 19:16:18] [INFO] Comando carregado: prioridade
+[2024-09-30 19:16:18] [INFO] Comando carregado: resetarpenas
+[2024-09-30 19:16:18] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-30 19:16:18] [INFO] Comando carregado: task
+[2024-09-30 19:16:18] [INFO] Comando carregado: testthought
+[2024-09-30 19:16:19] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-30 19:16:19] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-30 19:16:19] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-30 19:16:19] [INFO] Carregando e agendando tarefas...
+[2024-09-30 19:16:19] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-30 19:16:20] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-30 19:16:20] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-30 19:16:24] [INFO] [30/09/2024, 19:16:24] Comando executado: /codigo, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-30 19:16:48] [INFO] [30/09/2024, 19:16:48] Comando executado: /codigo, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-30 19:18:00] [INFO] [30/09/2024, 19:18:00] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-30 20:21:36] [INFO] Comando carregado: add
+[2024-09-30 20:21:36] [INFO] Comando carregado: apto
+[2024-09-30 20:21:36] [INFO] Comando carregado: aptos
+[2024-09-30 20:21:36] [INFO] Comando carregado: codigo
+[2024-09-30 20:21:36] [INFO] Comando carregado: del
+[2024-09-30 20:21:36] [INFO] Comando carregado: dividirpenas
+[2024-09-30 20:21:36] [INFO] Comando carregado: iniciarenquete
+[2024-09-30 20:21:36] [INFO] Comando carregado: jogadores
+[2024-09-30 20:21:36] [INFO] Comando carregado: justificarfalta
+[2024-09-30 20:21:36] [INFO] Comando carregado: listarjogadores
+[2024-09-30 20:21:36] [INFO] Comando carregado: listarpenas
+[2024-09-30 20:21:36] [INFO] Comando carregado: mvpmini
+[2024-09-30 20:21:36] [INFO] Comando carregado: presenca
+[2024-09-30 20:21:36] [INFO] Comando carregado: prioridade
+[2024-09-30 20:21:36] [INFO] Comando carregado: resetarpenas
+[2024-09-30 20:21:36] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-30 20:21:36] [INFO] Comando carregado: task
+[2024-09-30 20:21:36] [INFO] Comando carregado: testthought
+[2024-09-30 20:21:42] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-30 20:21:42] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-30 20:21:59] [INFO] Comando carregado: add
+[2024-09-30 20:21:59] [INFO] Comando carregado: apto
+[2024-09-30 20:21:59] [INFO] Comando carregado: aptos
+[2024-09-30 20:21:59] [INFO] Comando carregado: codigo
+[2024-09-30 20:21:59] [INFO] Comando carregado: del
+[2024-09-30 20:21:59] [INFO] Comando carregado: dividirpenas
+[2024-09-30 20:21:59] [INFO] Comando carregado: iniciarenquete
+[2024-09-30 20:21:59] [INFO] Comando carregado: jogadores
+[2024-09-30 20:21:59] [INFO] Comando carregado: justificarfalta
+[2024-09-30 20:21:59] [INFO] Comando carregado: listarjogadores
+[2024-09-30 20:21:59] [INFO] Comando carregado: listarpenas
+[2024-09-30 20:21:59] [INFO] Comando carregado: mvpmini
+[2024-09-30 20:21:59] [INFO] Comando carregado: presenca
+[2024-09-30 20:21:59] [INFO] Comando carregado: prioridade
+[2024-09-30 20:21:59] [INFO] Comando carregado: resetarpenas
+[2024-09-30 20:21:59] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-30 20:21:59] [INFO] Comando carregado: task
+[2024-09-30 20:21:59] [INFO] Comando carregado: testthought
+[2024-09-30 20:22:05] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-30 20:22:06] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-30 20:22:06] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-30 20:22:06] [INFO] Carregando e agendando tarefas...
+[2024-09-30 20:22:06] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-30 20:22:06] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-30 20:22:06] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-09-30 20:22:06] [INFO] [30/09/2024, 20:22:06] Comando executado: /codigo, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-30 20:22:10] [INFO] [30/09/2024, 20:22:10] Comando executado: /codigo, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-09-30 22:32:01] [INFO] Comando carregado: add
+[2024-09-30 22:32:01] [INFO] Comando carregado: apto
+[2024-09-30 22:32:01] [INFO] Comando carregado: aptos
+[2024-09-30 22:32:01] [INFO] Comando carregado: codigo
+[2024-09-30 22:32:01] [INFO] Comando carregado: del
+[2024-09-30 22:32:01] [INFO] Comando carregado: dividirpenas
+[2024-09-30 22:32:01] [INFO] Comando carregado: iniciarenquete
+[2024-09-30 22:32:01] [INFO] Comando carregado: jogadores
+[2024-09-30 22:32:01] [INFO] Comando carregado: justificarfalta
+[2024-09-30 22:32:01] [INFO] Comando carregado: listarjogadores
+[2024-09-30 22:32:01] [INFO] Comando carregado: listarpenas
+[2024-09-30 22:32:01] [INFO] Comando carregado: mvpmini
+[2024-09-30 22:32:01] [INFO] Comando carregado: presenca
+[2024-09-30 22:32:01] [INFO] Comando carregado: prioridade
+[2024-09-30 22:32:01] [INFO] Comando carregado: resetarpenas
+[2024-09-30 22:32:01] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-09-30 22:32:01] [INFO] Comando carregado: task
+[2024-09-30 22:32:01] [INFO] Comando carregado: testthought
+[2024-09-30 22:32:02] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-09-30 22:32:02] [INFO] Atualizando comandos de barra (/) ...
+[2024-09-30 22:32:05] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-09-30 22:32:05] [INFO] Carregando e agendando tarefas...
+[2024-09-30 22:32:05] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-09-30 22:32:06] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-09-30 22:32:06] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-01 00:28:52] [INFO] Comando carregado: add
+[2024-10-01 00:28:52] [INFO] Comando carregado: apto
+[2024-10-01 00:28:52] [INFO] Comando carregado: aptos
+[2024-10-01 00:28:52] [INFO] Comando carregado: codigo
+[2024-10-01 00:28:52] [INFO] Comando carregado: del
+[2024-10-01 00:28:52] [INFO] Comando carregado: dividirpenas
+[2024-10-01 00:28:52] [INFO] Comando carregado: iniciarenquete
+[2024-10-01 00:28:52] [INFO] Comando carregado: jogadores
+[2024-10-01 00:28:52] [INFO] Comando carregado: justificarfalta
+[2024-10-01 00:28:52] [INFO] Comando carregado: listarjogadores
+[2024-10-01 00:28:52] [INFO] Comando carregado: listarpenas
+[2024-10-01 00:28:52] [INFO] Comando carregado: mvpmini
+[2024-10-01 00:28:52] [INFO] Comando carregado: pensamento
+[2024-10-01 00:28:52] [INFO] Comando carregado: presenca
+[2024-10-01 00:28:52] [INFO] Comando carregado: prioridade
+[2024-10-01 00:28:52] [INFO] Comando carregado: resetarpenas
+[2024-10-01 00:28:52] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-01 00:28:52] [INFO] Comando carregado: task
+[2024-10-01 00:28:52] [INFO] Comando carregado: testthought
+[2024-10-01 00:28:53] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-01 00:28:53] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-01 00:28:53] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-01 00:28:53] [INFO] Carregando e agendando tarefas...
+[2024-10-01 00:28:53] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-01 00:28:54] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-01 00:28:54] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-01 00:29:08] [INFO] [01/10/2024, 00:29:08] Comando executado: /pensamento, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-01 00:29:39] [INFO] Comando carregado: add
+[2024-10-01 00:29:39] [INFO] Comando carregado: apto
+[2024-10-01 00:29:39] [INFO] Comando carregado: aptos
+[2024-10-01 00:29:39] [INFO] Comando carregado: codigo
+[2024-10-01 00:29:39] [INFO] Comando carregado: del
+[2024-10-01 00:29:39] [INFO] Comando carregado: dividirpenas
+[2024-10-01 00:29:39] [INFO] Comando carregado: iniciarenquete
+[2024-10-01 00:29:39] [INFO] Comando carregado: jogadores
+[2024-10-01 00:29:39] [INFO] Comando carregado: justificarfalta
+[2024-10-01 00:29:39] [INFO] Comando carregado: listarjogadores
+[2024-10-01 00:29:39] [INFO] Comando carregado: listarpenas
+[2024-10-01 00:29:39] [INFO] Comando carregado: mvpmini
+[2024-10-01 00:29:39] [INFO] Comando carregado: pensamento
+[2024-10-01 00:29:39] [INFO] Comando carregado: presenca
+[2024-10-01 00:29:39] [INFO] Comando carregado: prioridade
+[2024-10-01 00:29:39] [INFO] Comando carregado: resetarpenas
+[2024-10-01 00:29:39] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-01 00:29:39] [INFO] Comando carregado: task
+[2024-10-01 00:29:39] [INFO] Comando carregado: testthought
+[2024-10-01 00:29:40] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-01 00:29:40] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-01 00:29:40] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-01 00:29:40] [INFO] Carregando e agendando tarefas...
+[2024-10-01 00:29:40] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-01 00:29:41] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-01 00:29:41] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-01 00:29:41] [INFO] [01/10/2024, 00:29:41] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-01 00:29:52] [INFO] [01/10/2024, 00:29:52] Comando executado: /pensamento, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-01 00:29:52] [ERROR] Erro ao executar o comando pensamento: Invalid Form Body
+data.content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+[2024-10-01 00:30:03] [INFO] Comando carregado: add
+[2024-10-01 00:30:03] [INFO] Comando carregado: apto
+[2024-10-01 00:30:03] [INFO] Comando carregado: aptos
+[2024-10-01 00:30:03] [INFO] Comando carregado: codigo
+[2024-10-01 00:30:03] [INFO] Comando carregado: del
+[2024-10-01 00:30:03] [INFO] Comando carregado: dividirpenas
+[2024-10-01 00:30:03] [INFO] Comando carregado: iniciarenquete
+[2024-10-01 00:30:03] [INFO] Comando carregado: jogadores
+[2024-10-01 00:30:03] [INFO] Comando carregado: justificarfalta
+[2024-10-01 00:30:03] [INFO] Comando carregado: listarjogadores
+[2024-10-01 00:30:03] [INFO] Comando carregado: listarpenas
+[2024-10-01 00:30:03] [INFO] Comando carregado: mvpmini
+[2024-10-01 00:30:03] [INFO] Comando carregado: pensamento
+[2024-10-01 00:30:03] [INFO] Comando carregado: presenca
+[2024-10-01 00:30:03] [INFO] Comando carregado: prioridade
+[2024-10-01 00:30:03] [INFO] Comando carregado: resetarpenas
+[2024-10-01 00:30:03] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-01 00:30:03] [INFO] Comando carregado: task
+[2024-10-01 00:30:03] [INFO] Comando carregado: testthought
+[2024-10-01 00:30:04] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-01 00:30:04] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-01 00:30:05] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-01 00:30:05] [INFO] Carregando e agendando tarefas...
+[2024-10-01 00:30:05] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-01 00:30:05] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-01 00:30:05] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-01 00:30:05] [INFO] [01/10/2024, 00:30:05] Comando executado: /pensamento, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-01 00:30:06] [ERROR] Erro ao executar o comando pensamento: Invalid Form Body
+data.content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+[2024-10-01 00:30:14] [INFO] Comando carregado: add
+[2024-10-01 00:30:14] [INFO] Comando carregado: apto
+[2024-10-01 00:30:14] [INFO] Comando carregado: aptos
+[2024-10-01 00:30:14] [INFO] Comando carregado: codigo
+[2024-10-01 00:30:14] [INFO] Comando carregado: del
+[2024-10-01 00:30:14] [INFO] Comando carregado: dividirpenas
+[2024-10-01 00:30:14] [INFO] Comando carregado: iniciarenquete
+[2024-10-01 00:30:14] [INFO] Comando carregado: jogadores
+[2024-10-01 00:30:14] [INFO] Comando carregado: justificarfalta
+[2024-10-01 00:30:14] [INFO] Comando carregado: listarjogadores
+[2024-10-01 00:30:14] [INFO] Comando carregado: listarpenas
+[2024-10-01 00:30:14] [INFO] Comando carregado: mvpmini
+[2024-10-01 00:30:14] [INFO] Comando carregado: pensamento
+[2024-10-01 00:30:14] [INFO] Comando carregado: presenca
+[2024-10-01 00:30:14] [INFO] Comando carregado: prioridade
+[2024-10-01 00:30:14] [INFO] Comando carregado: resetarpenas
+[2024-10-01 00:30:14] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-01 00:30:14] [INFO] Comando carregado: task
+[2024-10-01 00:30:14] [INFO] Comando carregado: testthought
+[2024-10-01 00:30:15] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-01 00:30:15] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-01 00:30:15] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-01 00:30:15] [INFO] Carregando e agendando tarefas...
+[2024-10-01 00:30:15] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-01 00:30:16] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-01 00:30:16] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-01 00:30:24] [INFO] [01/10/2024, 00:30:24] Comando executado: /pensamento, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 00:30:45] [INFO] [01/10/2024, 00:30:45] Comando executado: /pensamento, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-01 00:31:27] [INFO] [01/10/2024, 00:31:27] Comando executado: /pensamento, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 00:33:00] [INFO] [01/10/2024, 00:33:00] Comando executado: /pensamento, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 00:34:18] [INFO] [01/10/2024, 00:34:18] Comando executado: /pensamento, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 00:35:17] [INFO] Comando carregado: add
+[2024-10-01 00:35:17] [INFO] Comando carregado: apto
+[2024-10-01 00:35:17] [INFO] Comando carregado: aptos
+[2024-10-01 00:35:17] [INFO] Comando carregado: codigo
+[2024-10-01 00:35:17] [INFO] Comando carregado: del
+[2024-10-01 00:35:17] [INFO] Comando carregado: dividirpenas
+[2024-10-01 00:35:17] [INFO] Comando carregado: iniciarenquete
+[2024-10-01 00:35:17] [INFO] Comando carregado: jogadores
+[2024-10-01 00:35:17] [INFO] Comando carregado: justificarfalta
+[2024-10-01 00:35:17] [INFO] Comando carregado: listarjogadores
+[2024-10-01 00:35:17] [INFO] Comando carregado: listarpenas
+[2024-10-01 00:35:17] [INFO] Comando carregado: mvpmini
+[2024-10-01 00:35:17] [INFO] Comando carregado: pensamento
+[2024-10-01 00:35:17] [INFO] Comando carregado: presenca
+[2024-10-01 00:35:17] [INFO] Comando carregado: prioridade
+[2024-10-01 00:35:17] [INFO] Comando carregado: resetarpenas
+[2024-10-01 00:35:17] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-01 00:35:17] [INFO] Comando carregado: task
+[2024-10-01 00:35:17] [INFO] Comando carregado: testthought
+[2024-10-01 00:35:23] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-01 00:35:23] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-01 00:35:23] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-01 00:35:23] [INFO] Carregando e agendando tarefas...
+[2024-10-01 00:35:23] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-01 00:35:24] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-01 00:35:24] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-01 00:39:11] [INFO] [01/10/2024, 00:39:11] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 00:39:48] [INFO] [01/10/2024, 00:39:48] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 00:40:06] [INFO] [01/10/2024, 00:40:06] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 00:40:20] [INFO] [01/10/2024, 00:40:20] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 00:46:41] [INFO] Comando carregado: add
+[2024-10-01 00:46:41] [INFO] Comando carregado: apto
+[2024-10-01 00:46:41] [INFO] Comando carregado: aptos
+[2024-10-01 00:46:41] [INFO] Comando carregado: codigo
+[2024-10-01 00:46:41] [INFO] Comando carregado: del
+[2024-10-01 00:46:41] [INFO] Comando carregado: dividirpenas
+[2024-10-01 00:46:41] [INFO] Comando carregado: iniciarenquete
+[2024-10-01 00:46:41] [INFO] Comando carregado: jogadores
+[2024-10-01 00:46:41] [INFO] Comando carregado: justificarfalta
+[2024-10-01 00:46:41] [INFO] Comando carregado: listarjogadores
+[2024-10-01 00:46:41] [INFO] Comando carregado: listarpenas
+[2024-10-01 00:46:41] [INFO] Comando carregado: mvpmini
+[2024-10-01 00:46:41] [INFO] Comando carregado: pensamento
+[2024-10-01 00:46:41] [INFO] Comando carregado: presenca
+[2024-10-01 00:46:41] [INFO] Comando carregado: prioridade
+[2024-10-01 00:46:41] [INFO] Comando carregado: resetarpenas
+[2024-10-01 00:46:41] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-01 00:46:41] [INFO] Comando carregado: task
+[2024-10-01 00:46:41] [INFO] Comando carregado: testthought
+[2024-10-01 00:46:42] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-01 00:46:42] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-01 00:46:42] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-01 00:46:42] [INFO] Carregando e agendando tarefas...
+[2024-10-01 00:46:42] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-01 00:46:43] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-01 00:46:43] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-01 00:47:06] [INFO] [01/10/2024, 00:47:06] Comando executado: /pensamento, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-01 00:47:52] [INFO] [01/10/2024, 00:47:52] Comando executado: /pensamento, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-01 00:47:56] [INFO] [01/10/2024, 00:47:56] Comando executado: /pensamento, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-01 00:57:26] [INFO] [01/10/2024, 00:57:26] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 01:02:24] [INFO] [01/10/2024, 01:02:24] Comando executado: /testthought, Usuário: kmartlol1 (ID: 491379366010421248)
+[2024-10-01 01:02:45] [INFO] [01/10/2024, 01:02:45] Comando executado: /pensamento, Usuário: kmartlol1 (ID: 491379366010421248)
+[2024-10-01 01:03:38] [INFO] [01/10/2024, 01:03:38] Comando executado: /pensamento, Usuário: kmartlol1 (ID: 491379366010421248)
+[2024-10-01 01:04:23] [INFO] [01/10/2024, 01:04:23] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 01:06:04] [INFO] [01/10/2024, 01:06:04] Comando executado: /pensamento, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 01:07:45] [INFO] [01/10/2024, 01:07:45] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 01:25:29] [INFO] [01/10/2024, 01:25:29] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 02:11:43] [INFO] [01/10/2024, 02:11:43] Comando executado: /codigo, Usuário: kmartlol1 (ID: 491379366010421248)
+[2024-10-01 02:11:54] [INFO] [01/10/2024, 02:11:54] Comando executado: /codigo, Usuário: kmartlol1 (ID: 491379366010421248)
+[2024-10-01 02:12:00] [INFO] [01/10/2024, 02:12:00] Comando executado: /codigo, Usuário: kmartlol1 (ID: 491379366010421248)
+[2024-10-01 16:43:36] [INFO] Comando carregado: add
+[2024-10-01 16:43:36] [INFO] Comando carregado: apto
+[2024-10-01 16:43:36] [INFO] Comando carregado: aptos
+[2024-10-01 16:43:36] [INFO] Comando carregado: codigo
+[2024-10-01 16:43:36] [INFO] Comando carregado: del
+[2024-10-01 16:43:36] [INFO] Comando carregado: dividirpenas
+[2024-10-01 16:43:36] [INFO] Comando carregado: iniciarenquete
+[2024-10-01 16:43:36] [INFO] Comando carregado: jogadores
+[2024-10-01 16:43:36] [INFO] Comando carregado: justificarfalta
+[2024-10-01 16:43:36] [INFO] Comando carregado: listarjogadores
+[2024-10-01 16:43:36] [INFO] Comando carregado: listarpenas
+[2024-10-01 16:43:36] [INFO] Comando carregado: mvpmini
+[2024-10-01 16:43:36] [INFO] Comando carregado: pensamento
+[2024-10-01 16:43:36] [INFO] Comando carregado: presenca
+[2024-10-01 16:43:36] [INFO] Comando carregado: prioridade
+[2024-10-01 16:43:36] [INFO] Comando carregado: resetarpenas
+[2024-10-01 16:43:36] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-01 16:43:36] [INFO] Comando carregado: task
+[2024-10-01 16:43:36] [INFO] Comando carregado: testthought
+[2024-10-01 16:43:37] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-01 16:43:37] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-01 16:43:37] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-01 16:43:37] [INFO] Carregando e agendando tarefas...
+[2024-10-01 16:43:37] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-01 16:43:37] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-01 16:43:37] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-01 21:00:31] [INFO] [01/10/2024, 21:00:31] Comando executado: /presenca, Usuário: simioni.thiago (ID: 223188360301248522)
+[2024-10-01 21:19:04] [INFO] [01/10/2024, 21:19:04] Comando executado: /iniciarenquete, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 21:19:11] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-01 21:19:13] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-01 21:19:14] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-01 21:19:21] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-01 21:19:21] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-01 21:19:25] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-01 21:19:32] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-01 21:19:38] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-01 21:20:29] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-01 21:34:30] [INFO] [01/10/2024, 21:34:30] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 21:36:01] [INFO] [01/10/2024, 21:36:01] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 21:36:07] [INFO] [01/10/2024, 21:36:07] Comando executado: /add, Usuário: fii182 (ID: 242367322629603328)
+[2024-10-01 21:36:15] [INFO] [01/10/2024, 21:36:15] Comando executado: /listarjogadores, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 21:36:28] [INFO] [01/10/2024, 21:36:28] Comando executado: /listarjogadores, Usuário: fii182 (ID: 242367322629603328)
+[2024-10-01 21:36:44] [INFO] [01/10/2024, 21:36:44] Comando executado: /del, Usuário: fii182 (ID: 242367322629603328)
+[2024-10-01 21:36:51] [INFO] [01/10/2024, 21:36:51] Comando executado: /add, Usuário: fii182 (ID: 242367322629603328)
+[2024-10-01 21:36:52] [INFO] [01/10/2024, 21:36:52] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-01 22:23:39] [INFO] [01/10/2024, 22:23:39] Comando executado: /presenca, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-02 15:27:10] [INFO] [02/10/2024, 15:27:10] Comando executado: /del, Usuário: fii182 (ID: 242367322629603328)
+[2024-10-02 15:27:22] [INFO] [02/10/2024, 15:27:22] Comando executado: /add, Usuário: fii182 (ID: 242367322629603328)
+[2024-10-03 08:52:47] [INFO] Comando carregado: add
+[2024-10-03 08:52:47] [INFO] Comando carregado: apto
+[2024-10-03 08:52:47] [INFO] Comando carregado: aptos
+[2024-10-03 08:52:47] [INFO] Comando carregado: codigo
+[2024-10-03 08:52:47] [INFO] Comando carregado: del
+[2024-10-03 08:52:47] [INFO] Comando carregado: dividirpenas
+[2024-10-03 08:52:47] [INFO] Comando carregado: iniciarenquete
+[2024-10-03 08:52:47] [INFO] Comando carregado: jogadores
+[2024-10-03 08:52:47] [INFO] Comando carregado: justificarfalta
+[2024-10-03 08:52:47] [INFO] Comando carregado: listarjogadores
+[2024-10-03 08:52:47] [INFO] Comando carregado: listarpenas
+[2024-10-03 08:52:47] [INFO] Comando carregado: mvpmini
+[2024-10-03 08:52:47] [INFO] Comando carregado: pensamento
+[2024-10-03 08:52:47] [INFO] Comando carregado: presenca
+[2024-10-03 08:52:47] [INFO] Comando carregado: prioridade
+[2024-10-03 08:52:47] [INFO] Comando carregado: resetarpenas
+[2024-10-03 08:52:47] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-03 08:52:47] [INFO] Comando carregado: task
+[2024-10-03 08:52:47] [INFO] Comando carregado: testthought
+[2024-10-03 08:52:48] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-03 08:52:48] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-03 08:52:48] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-03 08:52:48] [INFO] Carregando e agendando tarefas...
+[2024-10-03 08:52:48] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-03 08:52:49] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-03 08:52:49] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-03 08:52:51] [INFO] [03/10/2024, 08:52:51] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-03 23:39:10] [INFO] Comando carregado: add
+[2024-10-03 23:39:10] [INFO] Comando carregado: apto
+[2024-10-03 23:39:10] [INFO] Comando carregado: aptos
+[2024-10-03 23:39:10] [INFO] Comando carregado: codigo
+[2024-10-03 23:39:10] [INFO] Comando carregado: del
+[2024-10-03 23:39:10] [INFO] Comando carregado: dividirpenas
+[2024-10-03 23:39:10] [INFO] Comando carregado: iniciarenquete
+[2024-10-03 23:39:10] [INFO] Comando carregado: jogadores
+[2024-10-03 23:39:10] [INFO] Comando carregado: justificarfalta
+[2024-10-03 23:39:10] [INFO] Comando carregado: listarjogadores
+[2024-10-03 23:39:10] [INFO] Comando carregado: listarpenas
+[2024-10-03 23:39:10] [INFO] Comando carregado: mvpmini
+[2024-10-03 23:39:10] [INFO] Comando carregado: pensamento
+[2024-10-03 23:39:10] [INFO] Comando carregado: presenca
+[2024-10-03 23:39:10] [INFO] Comando carregado: prioridade
+[2024-10-03 23:39:10] [INFO] Comando carregado: resetarpenas
+[2024-10-03 23:39:10] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-03 23:39:10] [INFO] Comando carregado: task
+[2024-10-03 23:39:10] [INFO] Comando carregado: testthought
+[2024-10-03 23:39:11] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-03 23:39:11] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-03 23:39:11] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-03 23:39:11] [INFO] Carregando e agendando tarefas...
+[2024-10-03 23:39:11] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-03 23:39:12] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-03 23:39:12] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-05 11:58:39] [INFO] [05/10/2024, 11:58:39] Comando executado: /justificarfalta, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-05 13:00:19] [INFO] [05/10/2024, 13:00:19] Comando executado: /codigo, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-05 20:59:08] [INFO] [05/10/2024, 20:59:08] Comando executado: /presenca, Usuário: simioni.thiago (ID: 223188360301248522)
+[2024-10-05 21:14:06] [INFO] [05/10/2024, 21:14:06] Comando executado: /iniciarenquete, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-05 21:14:22] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-05 21:14:26] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-05 21:14:26] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-05 21:14:33] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-05 21:14:34] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-05 21:14:41] [INFO] [05/10/2024, 21:14:41] Comando executado: /aptos, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-05 21:18:31] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-05 21:22:32] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-05 21:22:38] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-05 21:24:11] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-05 21:33:38] [INFO] [05/10/2024, 21:33:38] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-05 21:36:16] [INFO] [05/10/2024, 21:36:16] Comando executado: /listarpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-05 21:36:48] [INFO] [05/10/2024, 21:36:48] Comando executado: /aptos, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-05 21:36:56] [INFO] [05/10/2024, 21:36:56] Comando executado: /listarjogadores, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-06 08:02:54] [INFO] [06/10/2024, 08:02:54] Comando executado: /presenca, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-06 19:11:50] [INFO] [06/10/2024, 19:11:50] Comando executado: /justificarfalta, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-06 19:12:35] [INFO] [06/10/2024, 19:12:35] Comando executado: /justificarfalta, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-06 20:33:39] [INFO] [06/10/2024, 20:33:39] Comando executado: /presenca, Usuário: simioni.thiago (ID: 223188360301248522)
+[2024-10-08 19:49:50] [INFO] Comando carregado: add
+[2024-10-08 19:49:50] [INFO] Comando carregado: apto
+[2024-10-08 19:49:50] [INFO] Comando carregado: aptos
+[2024-10-08 19:49:50] [INFO] Comando carregado: codigo
+[2024-10-08 19:49:50] [INFO] Comando carregado: del
+[2024-10-08 19:49:50] [INFO] Comando carregado: dividirpenas
+[2024-10-08 19:49:50] [INFO] Comando carregado: iniciarenquete
+[2024-10-08 19:49:50] [INFO] Comando carregado: jogadores
+[2024-10-08 19:49:50] [INFO] Comando carregado: justificarfalta
+[2024-10-08 19:49:50] [INFO] Comando carregado: listarjogadores
+[2024-10-08 19:49:50] [INFO] Comando carregado: listarpenas
+[2024-10-08 19:49:50] [INFO] Comando carregado: mvpmini
+[2024-10-08 19:49:50] [INFO] Comando carregado: pensamento
+[2024-10-08 19:49:50] [INFO] Comando carregado: presenca
+[2024-10-08 19:49:50] [INFO] Comando carregado: prioridade
+[2024-10-08 19:49:50] [INFO] Comando carregado: resetarpenas
+[2024-10-08 19:49:50] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-08 19:49:50] [INFO] Comando carregado: task
+[2024-10-08 19:49:50] [INFO] Comando carregado: testthought
+[2024-10-08 19:49:52] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-08 19:49:52] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-08 19:49:52] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-08 19:49:52] [INFO] Carregando e agendando tarefas...
+[2024-10-08 19:49:52] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-08 19:49:53] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-08 19:49:53] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-08 19:50:06] [INFO] [08/10/2024, 19:50:06] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:00:13] [INFO] [08/10/2024, 21:00:13] Comando executado: /presenca, Usuário: simioni.thiago (ID: 223188360301248522)
+[2024-10-08 21:11:46] [INFO] [08/10/2024, 21:11:46] Comando executado: /iniciarenquete, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:12:28] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:12:29] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:12:41] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:12:42] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:13:05] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:15:51] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:16:35] [INFO] [08/10/2024, 21:16:35] Comando executado: /aptos, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:16:57] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:17:01] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:17:10] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:17:35] [INFO] [08/10/2024, 21:17:35] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:17:59] [INFO] [08/10/2024, 21:17:59] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:18:27] [INFO] [08/10/2024, 21:18:27] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:18:35] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:19:06] [INFO] [08/10/2024, 21:19:06] Comando executado: /listarpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:20:05] [INFO] [08/10/2024, 21:20:05] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:23:25] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-08 21:28:01] [INFO] [08/10/2024, 21:28:01] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:29:24] [INFO] [08/10/2024, 21:29:24] Comando executado: /add, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:29:35] [INFO] [08/10/2024, 21:29:35] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:29:53] [INFO] [08/10/2024, 21:29:53] Comando executado: /aptos, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:29:53] [INFO] [08/10/2024, 21:29:53] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:29:55] [INFO] [08/10/2024, 21:29:55] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:30:02] [INFO] [08/10/2024, 21:30:02] Comando executado: /aptos, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:30:11] [INFO] [08/10/2024, 21:30:11] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:30:12] [ERROR] Erro ao executar o comando dividirpenas: Invalid Form Body
+data.content[BASE_TYPE_MAX_LENGTH]: Must be 2000 or fewer in length.
+[2024-10-08 21:30:18] [INFO] [08/10/2024, 21:30:18] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:30:22] [INFO] [08/10/2024, 21:30:22] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:30:25] [INFO] [08/10/2024, 21:30:25] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:30:31] [INFO] [08/10/2024, 21:30:31] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:30:37] [INFO] [08/10/2024, 21:30:37] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:30:42] [INFO] [08/10/2024, 21:30:42] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:30:47] [INFO] [08/10/2024, 21:30:47] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:30:56] [INFO] [08/10/2024, 21:30:56] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:31:06] [INFO] [08/10/2024, 21:31:06] Comando executado: /apto, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:31:33] [INFO] [08/10/2024, 21:31:33] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:31:39] [INFO] [08/10/2024, 21:31:39] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-08 21:34:28] [INFO] [08/10/2024, 21:34:28] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-08 21:34:37] [INFO] [08/10/2024, 21:34:37] Comando executado: /jogadores, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-10 21:00:00] [INFO] Comando carregado: add
+[2024-10-10 21:00:00] [INFO] Comando carregado: apto
+[2024-10-10 21:00:00] [INFO] Comando carregado: aptos
+[2024-10-10 21:00:00] [INFO] Comando carregado: codigo
+[2024-10-10 21:00:00] [INFO] Comando carregado: del
+[2024-10-10 21:00:00] [INFO] Comando carregado: dividirpenas
+[2024-10-10 21:00:00] [INFO] Comando carregado: iniciarenquete
+[2024-10-10 21:00:00] [INFO] Comando carregado: jogadores
+[2024-10-10 21:00:00] [INFO] Comando carregado: justificarfalta
+[2024-10-10 21:00:00] [INFO] Comando carregado: listarjogadores
+[2024-10-10 21:00:00] [INFO] Comando carregado: listarpenas
+[2024-10-10 21:00:00] [INFO] Comando carregado: mvpmini
+[2024-10-10 21:00:00] [INFO] Comando carregado: pensamento
+[2024-10-10 21:00:00] [INFO] Comando carregado: presenca
+[2024-10-10 21:00:00] [INFO] Comando carregado: prioridade
+[2024-10-10 21:00:00] [INFO] Comando carregado: resetarpenas
+[2024-10-10 21:00:00] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-10 21:00:00] [INFO] Comando carregado: task
+[2024-10-10 21:00:00] [INFO] Comando carregado: testthought
+[2024-10-10 21:00:06] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-10 21:00:06] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-10 21:00:07] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-10 21:00:07] [INFO] Carregando e agendando tarefas...
+[2024-10-10 21:00:07] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-10 21:00:08] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-10 21:00:08] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-10 21:00:25] [INFO] Comando carregado: add
+[2024-10-10 21:00:25] [INFO] Comando carregado: apto
+[2024-10-10 21:00:25] [INFO] Comando carregado: aptos
+[2024-10-10 21:00:25] [INFO] Comando carregado: codigo
+[2024-10-10 21:00:25] [INFO] Comando carregado: del
+[2024-10-10 21:00:25] [INFO] Comando carregado: dividirpenas
+[2024-10-10 21:00:25] [INFO] Comando carregado: iniciarenquete
+[2024-10-10 21:00:25] [INFO] Comando carregado: jogadores
+[2024-10-10 21:00:25] [INFO] Comando carregado: justificarfalta
+[2024-10-10 21:00:25] [INFO] Comando carregado: listarjogadores
+[2024-10-10 21:00:25] [INFO] Comando carregado: listarpenas
+[2024-10-10 21:00:25] [INFO] Comando carregado: mvpmini
+[2024-10-10 21:00:25] [INFO] Comando carregado: pensamento
+[2024-10-10 21:00:25] [INFO] Comando carregado: presenca
+[2024-10-10 21:00:25] [INFO] Comando carregado: prioridade
+[2024-10-10 21:00:25] [INFO] Comando carregado: resetarpenas
+[2024-10-10 21:00:25] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-10 21:00:25] [INFO] Comando carregado: task
+[2024-10-10 21:00:25] [INFO] Comando carregado: testthought
+[2024-10-10 21:00:26] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-10 21:00:26] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-10 21:00:26] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-10 21:00:26] [INFO] Carregando e agendando tarefas...
+[2024-10-10 21:00:26] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-10 21:00:50] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-10 21:00:50] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-10 21:16:21] [INFO] [10/10/2024, 21:16:21] Comando executado: /iniciarenquete, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-10 21:16:35] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-10 21:16:54] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-10 21:28:27] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-10 21:30:05] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-10 21:32:04] [INFO] [10/10/2024, 21:32:04] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-10 21:32:26] [INFO] [10/10/2024, 21:32:26] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-10 21:32:58] [INFO] [10/10/2024, 21:32:58] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-10 21:33:10] [INFO] [10/10/2024, 21:33:10] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-10 21:34:14] [INFO] [10/10/2024, 21:34:14] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-12 18:00:55] [INFO] Comando carregado: add
+[2024-10-12 18:00:55] [INFO] Comando carregado: apto
+[2024-10-12 18:00:55] [INFO] Comando carregado: aptos
+[2024-10-12 18:00:55] [INFO] Comando carregado: codigo
+[2024-10-12 18:00:55] [INFO] Comando carregado: del
+[2024-10-12 18:00:55] [INFO] Comando carregado: dividirpenas
+[2024-10-12 18:00:55] [INFO] Comando carregado: iniciarenquete
+[2024-10-12 18:00:55] [INFO] Comando carregado: jogadores
+[2024-10-12 18:00:55] [INFO] Comando carregado: justificarfalta
+[2024-10-12 18:00:55] [INFO] Comando carregado: listarjogadores
+[2024-10-12 18:00:55] [INFO] Comando carregado: listarpenas
+[2024-10-12 18:00:55] [INFO] Comando carregado: mvpmini
+[2024-10-12 18:00:55] [INFO] Comando carregado: pensamento
+[2024-10-12 18:00:55] [INFO] Comando carregado: presenca
+[2024-10-12 18:00:55] [INFO] Comando carregado: prioridade
+[2024-10-12 18:00:55] [INFO] Comando carregado: resetarpenas
+[2024-10-12 18:00:55] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-12 18:00:55] [INFO] Comando carregado: task
+[2024-10-12 18:00:55] [INFO] Comando carregado: testthought
+[2024-10-12 18:00:56] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-12 18:00:56] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-12 18:00:57] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-12 18:00:57] [INFO] Carregando e agendando tarefas...
+[2024-10-12 18:00:57] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-12 18:00:57] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-12 18:00:57] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-12 18:01:08] [INFO] [12/10/2024, 18:01:08] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-12 21:12:47] [INFO] [12/10/2024, 21:12:47] Comando executado: /iniciarenquete, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-12 21:13:19] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-12 21:18:33] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-12 21:28:07] [INFO] [12/10/2024, 21:28:07] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-12 21:28:24] [INFO] [12/10/2024, 21:28:24] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-12 21:29:41] [INFO] [12/10/2024, 21:29:41] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-12 21:29:54] [INFO] [12/10/2024, 21:29:54] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-12 21:30:26] [INFO] [12/10/2024, 21:30:26] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-13 13:14:22] [INFO] [13/10/2024, 13:14:22] Comando executado: /justificarfalta, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-13 14:29:13] [INFO] [13/10/2024, 14:29:13] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-13 14:29:40] [INFO] [13/10/2024, 14:29:40] Comando executado: /testthought, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-13 20:30:49] [INFO] [13/10/2024, 20:30:49] Comando executado: /listarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-13 20:30:55] [INFO] [13/10/2024, 20:30:55] Comando executado: /resetarpenas, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-15 20:50:35] [INFO] Comando carregado: add
+[2024-10-15 20:50:35] [INFO] Comando carregado: apto
+[2024-10-15 20:50:35] [INFO] Comando carregado: aptos
+[2024-10-15 20:50:35] [INFO] Comando carregado: codigo
+[2024-10-15 20:50:35] [INFO] Comando carregado: del
+[2024-10-15 20:50:35] [INFO] Comando carregado: dividirpenas
+[2024-10-15 20:50:35] [INFO] Comando carregado: iniciarenquete
+[2024-10-15 20:50:35] [INFO] Comando carregado: jogadores
+[2024-10-15 20:50:35] [INFO] Comando carregado: justificarfalta
+[2024-10-15 20:50:35] [INFO] Comando carregado: listarjogadores
+[2024-10-15 20:50:35] [INFO] Comando carregado: listarpenas
+[2024-10-15 20:50:35] [INFO] Comando carregado: mvpmini
+[2024-10-15 20:50:35] [INFO] Comando carregado: pensamento
+[2024-10-15 20:50:35] [INFO] Comando carregado: presenca
+[2024-10-15 20:50:35] [INFO] Comando carregado: prioridade
+[2024-10-15 20:50:35] [INFO] Comando carregado: resetarpenas
+[2024-10-15 20:50:35] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-15 20:50:35] [INFO] Comando carregado: task
+[2024-10-15 20:50:35] [INFO] Comando carregado: testthought
+[2024-10-15 20:50:36] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-15 20:50:36] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-15 20:50:37] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-15 20:50:37] [INFO] Carregando e agendando tarefas...
+[2024-10-15 20:50:37] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-15 20:50:37] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-15 20:50:37] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-15 21:07:33] [INFO] [15/10/2024, 21:07:33] Comando executado: /listarjogadores, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:07:59] [INFO] [15/10/2024, 21:07:59] Comando executado: /listarpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:15:02] [INFO] [15/10/2024, 21:15:02] Comando executado: /iniciarenquete, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:16:17] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-15 21:16:39] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-15 21:16:41] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-15 21:16:50] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-15 21:17:53] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-15 21:19:40] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-15 21:19:47] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-15 21:26:02] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-15 21:31:32] [INFO] [15/10/2024, 21:31:32] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:31:52] [INFO] [15/10/2024, 21:31:52] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:32:32] [INFO] [15/10/2024, 21:32:32] Comando executado: /add, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:32:42] [INFO] [15/10/2024, 21:32:42] Comando executado: /add, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:33:41] [INFO] [15/10/2024, 21:33:41] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:33:49] [INFO] [15/10/2024, 21:33:49] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:33:59] [INFO] [15/10/2024, 21:33:59] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:34:03] [INFO] [15/10/2024, 21:34:03] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:34:24] [INFO] [15/10/2024, 21:34:24] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:34:34] [INFO] [15/10/2024, 21:34:34] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-15 21:35:29] [INFO] [15/10/2024, 21:35:29] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-17 20:29:43] [INFO] Comando carregado: add
+[2024-10-17 20:29:43] [INFO] Comando carregado: apto
+[2024-10-17 20:29:43] [INFO] Comando carregado: aptos
+[2024-10-17 20:29:43] [INFO] Comando carregado: codigo
+[2024-10-17 20:29:43] [INFO] Comando carregado: del
+[2024-10-17 20:29:43] [INFO] Comando carregado: dividirpenas
+[2024-10-17 20:29:43] [INFO] Comando carregado: iniciarenquete
+[2024-10-17 20:29:43] [INFO] Comando carregado: jogadores
+[2024-10-17 20:29:43] [INFO] Comando carregado: justificarfalta
+[2024-10-17 20:29:43] [INFO] Comando carregado: listarjogadores
+[2024-10-17 20:29:43] [INFO] Comando carregado: listarpenas
+[2024-10-17 20:29:43] [INFO] Comando carregado: mvpmini
+[2024-10-17 20:29:43] [INFO] Comando carregado: pensamento
+[2024-10-17 20:29:43] [INFO] Comando carregado: presenca
+[2024-10-17 20:29:43] [INFO] Comando carregado: prioridade
+[2024-10-17 20:29:43] [INFO] Comando carregado: resetarpenas
+[2024-10-17 20:29:43] [WARN] O comando em 'C:\Users\leomr\Documentos\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\mutantdragon\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-17 20:29:43] [INFO] Comando carregado: task
+[2024-10-17 20:29:43] [INFO] Comando carregado: testthought
+[2024-10-17 20:29:44] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-17 20:29:44] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-17 20:29:44] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-17 20:29:44] [INFO] Carregando e agendando tarefas...
+[2024-10-17 20:29:44] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-17 20:29:45] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-17 20:29:45] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-19 19:08:12] [INFO] Comando carregado: add
+[2024-10-19 19:08:12] [INFO] Comando carregado: apto
+[2024-10-19 19:08:12] [INFO] Comando carregado: aptos
+[2024-10-19 19:08:12] [INFO] Comando carregado: codigo
+[2024-10-19 19:08:12] [INFO] Comando carregado: del
+[2024-10-19 19:08:12] [INFO] Comando carregado: dividirpenas
+[2024-10-19 19:08:12] [INFO] Comando carregado: iniciarenquete
+[2024-10-19 19:08:12] [INFO] Comando carregado: jogadores
+[2024-10-19 19:08:12] [INFO] Comando carregado: justificarfalta
+[2024-10-19 19:08:12] [INFO] Comando carregado: listarjogadores
+[2024-10-19 19:08:12] [INFO] Comando carregado: listarpenas
+[2024-10-19 19:08:12] [INFO] Comando carregado: mvpmini
+[2024-10-19 19:08:12] [INFO] Comando carregado: pensamento
+[2024-10-19 19:08:12] [INFO] Comando carregado: presenca
+[2024-10-19 19:08:12] [INFO] Comando carregado: prioridade
+[2024-10-19 19:08:12] [INFO] Comando carregado: resetarpenas
+[2024-10-19 19:08:12] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-19 19:08:12] [INFO] Comando carregado: task
+[2024-10-19 19:08:12] [INFO] Comando carregado: testthought
+[2024-10-19 19:08:13] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-19 19:08:13] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-19 19:08:13] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-19 19:08:13] [INFO] Carregando e agendando tarefas...
+[2024-10-19 19:08:13] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-19 19:08:13] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-19 19:08:13] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-19 19:45:50] [INFO] [19/10/2024, 19:45:50] Comando executado: /justificarfalta, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-19 21:15:13] [INFO] [19/10/2024, 21:15:13] Comando executado: /iniciarenquete, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-19 21:16:16] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-19 21:16:39] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-19 21:21:05] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-19 21:21:21] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-19 21:32:33] [INFO] [19/10/2024, 21:32:33] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-19 21:32:51] [INFO] [19/10/2024, 21:32:51] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-19 21:33:10] [INFO] [19/10/2024, 21:33:10] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-19 21:33:22] [INFO] [19/10/2024, 21:33:22] Comando executado: /add, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-19 21:33:34] [INFO] [19/10/2024, 21:33:34] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-19 21:33:50] [INFO] [19/10/2024, 21:33:50] Comando executado: /apto, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-19 21:34:27] [INFO] [19/10/2024, 21:34:27] Comando executado: /dividirpenas, Usuário: brunosg22 (ID: 488481018395885572)
+[2024-10-26 20:15:04] [INFO] Comando carregado: add
+[2024-10-26 20:15:04] [INFO] Comando carregado: apto
+[2024-10-26 20:15:04] [INFO] Comando carregado: aptos
+[2024-10-26 20:15:04] [INFO] Comando carregado: codigo
+[2024-10-26 20:15:04] [INFO] Comando carregado: del
+[2024-10-26 20:15:04] [INFO] Comando carregado: dividirpenas
+[2024-10-26 20:15:04] [INFO] Comando carregado: iniciarenquete
+[2024-10-26 20:15:04] [INFO] Comando carregado: jogadores
+[2024-10-26 20:15:04] [INFO] Comando carregado: justificarfalta
+[2024-10-26 20:15:04] [INFO] Comando carregado: listarjogadores
+[2024-10-26 20:15:04] [INFO] Comando carregado: listarpenas
+[2024-10-26 20:15:04] [INFO] Comando carregado: mvpmini
+[2024-10-26 20:15:04] [INFO] Comando carregado: pensamento
+[2024-10-26 20:15:04] [INFO] Comando carregado: presenca
+[2024-10-26 20:15:04] [INFO] Comando carregado: prioridade
+[2024-10-26 20:15:04] [INFO] Comando carregado: resetarpenas
+[2024-10-26 20:15:04] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-26 20:15:04] [INFO] Comando carregado: task
+[2024-10-26 20:15:04] [INFO] Comando carregado: testthought
+[2024-10-26 20:15:05] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-26 20:15:05] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-26 20:15:07] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-26 20:15:07] [INFO] Carregando e agendando tarefas...
+[2024-10-26 20:15:07] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-26 20:15:07] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-26 20:15:07] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-26 21:21:09] [INFO] Comando carregado: add
+[2024-10-26 21:21:09] [INFO] Comando carregado: apto
+[2024-10-26 21:21:09] [INFO] Comando carregado: aptos
+[2024-10-26 21:21:09] [INFO] Comando carregado: codigo
+[2024-10-26 21:21:09] [INFO] Comando carregado: del
+[2024-10-26 21:21:09] [INFO] Comando carregado: dividirpenas
+[2024-10-26 21:21:09] [INFO] Comando carregado: iniciarenquete
+[2024-10-26 21:21:09] [INFO] Comando carregado: jogadores
+[2024-10-26 21:21:09] [INFO] Comando carregado: justificarfalta
+[2024-10-26 21:21:09] [INFO] Comando carregado: listarjogadores
+[2024-10-26 21:21:09] [INFO] Comando carregado: listarpenas
+[2024-10-26 21:21:09] [INFO] Comando carregado: mvpmini
+[2024-10-26 21:21:09] [INFO] Comando carregado: pensamento
+[2024-10-26 21:21:09] [INFO] Comando carregado: presenca
+[2024-10-26 21:21:09] [INFO] Comando carregado: prioridade
+[2024-10-26 21:21:09] [INFO] Comando carregado: resetarpenas
+[2024-10-26 21:21:09] [WARN] O comando em 'C:\Users\Leonardo\Documents\Development\Workspace\Projetos_Pessoais\MotoboyDasPenas\currentdiscloud - Copia\commands\roleMonitor.js' está faltando a propriedade 'data' ou 'execute'.
+[2024-10-26 21:21:09] [INFO] Comando carregado: task
+[2024-10-26 21:21:09] [INFO] Comando carregado: testthought
+[2024-10-26 21:21:10] [INFO] Bot está online como InimigosDaCLT#4860
+[2024-10-26 21:21:10] [INFO] Atualizando comandos de barra (/) ...
+[2024-10-26 21:21:10] [INFO] Comandos registrados no servidor de desenvolvimento (Guild ID: 1273855868315635812).
+[2024-10-26 21:21:10] [INFO] Carregando e agendando tarefas...
+[2024-10-26 21:21:10] [INFO] Retomando o monitoramento dos bosses MVP/MINI...
+[2024-10-26 21:21:11] [INFO] Retomando o monitoramento do comando justificarfalta...
+[2024-10-26 21:21:11] [INFO] Retomando o monitoramento da lista de jogadores...
+[2024-10-26 21:21:12] [INFO] [26/10/2024, 21:21:12] Comando executado: /iniciarenquete, Usuário: leomrqs_ (ID: 535193958142312451)
+[2024-10-26 21:23:00] [ERROR] Erro não tratado: The reply to this interaction has already been sent or deferred.
+[2024-10-26 21:29:37] [INFO] [26/10/2024, 21:29:37] Comando executado: /dividirpenas, Usuário: leomrqs_ (ID: 535193958142312451)

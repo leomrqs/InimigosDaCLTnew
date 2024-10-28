@@ -4,7 +4,7 @@ const { SlashCommandBuilder, EmbedBuilder, ActionRowBuilder, ButtonBuilder, Butt
 const { carregarJogadores, salvarJogadores } = require('../utils/jogadores');
 const { ROLE_ID } = require('../utils/constants');
 
-const TEMPO_ENQUETE = 15 * 60 * 1000; // 15 minutos em milissegundos
+const TEMPO_ENQUETE = 8 * 60 * 1000; // 15 minutos em milissegundos
 
 module.exports = {
     data: new SlashCommandBuilder()

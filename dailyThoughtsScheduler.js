@@ -15,7 +15,7 @@ class DailyThoughtsScheduler {
         this.cancelScheduledThoughts();
 
         // Gerar número aleatório de mensagens (1 a 4)
-        const numMessages = Math.floor(Math.random() * 4) + 1;
+        const numMessages = Math.floor(Math.random() * 10) + 1;
 
         // Gerar horários aleatórios entre 8h00 e 22h00
         const times = this.generateRandomTimes(numMessages);

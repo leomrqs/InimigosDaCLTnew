@@ -1,17 +1,41 @@
 const { SlashCommandBuilder } = require('discord.js');
 const fs = require('fs');
+const path = require('path');
 const { carregarJogadores, salvarJogadores } = require('../utils/jogadores');
 const { ROLE_ID } = require('../utils/constants');
+
+const PRESENCAS_PATH = path.resolve(__dirname, '../data/presenca.json');
+
+function carregarPresencas() {
+    if (fs.existsSync(PRESENCAS_PATH)) {
+        const data = fs.readFileSync(PRESENCAS_PATH, 'utf8');
+        return JSON.parse(data);
+    } else {
+        return { jogadores: [] };
+    }
+}
+
+function salvarPresencas(presencas) {
+    fs.writeFileSync(PRESENCAS_PATH, JSON.stringify(presencas, null, 2), 'utf8');
+}
+
+function obterNumeroSemana(data) {
+    const oneJan = new Date(data.getFullYear(), 0, 1);
+    const numberOfDays = Math.floor((data - oneJan) / (24 * 60 * 60 * 1000));
+    return Math.ceil((numberOfDays + oneJan.getDay() + 1) / 7);
+}
+
 
 // Função para atualizar o cache de membros do Discord
 async function atualizarCacheDeMembros(guild) {
     try {
-        await guild.members.fetch(); // Atualiza o cache dos membros
+        await guild.members.fetch();
         console.log('Cache de membros atualizado com sucesso.');
     } catch (error) {
         console.error('Erro ao atualizar o cache de membros:', error);
     }
 }
+
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -24,11 +48,8 @@ module.exports = {
         .addSubcommand(subcommand =>
             subcommand
                 .setName('listar')
-                .setDescription('Lista as presenças registradas'))
-        .addSubcommand(subcommand =>
-            subcommand
-                .setName('resetar')
-                .setDescription('Reseta as presenças de todos os jogadores')),
+                .setDescription('Lista as presenças registradas')),
+        // Você pode adicionar outros subcomandos conforme necessário
 
     async execute(interaction) {
         const subcommand = interaction.options.getSubcommand();
@@ -39,7 +60,6 @@ module.exports = {
             return;
         }
 
-        // Subcomando para executar a presença
         if (subcommand === 'executar') {
             await interaction.deferReply();
 
@@ -47,8 +67,8 @@ module.exports = {
             await atualizarCacheDeMembros(interaction.guild);
 
             // IDs dos dois canais de voz
-            const canalDeVoz1Id = '1274169337422549053'; //
-            const canalDeVoz2Id = '1275260924868952134'; // 
+            const canalDeVoz1Id = '1274169337422549053';
+            const canalDeVoz2Id = '1275260924868952134';
 
             // Busca ambos os canais de voz
             const canalDeVoz1 = await interaction.guild.channels.fetch(canalDeVoz1Id);
@@ -59,111 +79,113 @@ module.exports = {
                 return;
             }
 
-            const jogadores = carregarJogadores();
+            const jogadoresCadastrados = carregarJogadores();
+            const presencasData = carregarPresencas();
 
-            // Captura o dia da semana atual
-            const diasDaSemana = ['domingo', 'segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sábado'];
-            const diaAtual = diasDaSemana[new Date().getDay()];
+            // Sincroniza os jogadores entre jogadores.json e presenca.json
+            const nomesJogadoresCadastrados = jogadoresCadastrados.map(j => j.nome.toLowerCase());
+            const nomesJogadoresPresenca = presencasData.jogadores.map(j => j.nome.toLowerCase());
+
+            // Adicionar jogadores que estão em jogadoresCadastrados mas não estão em presencasData
+            jogadoresCadastrados.forEach(jogador => {
+                if (!nomesJogadoresPresenca.includes(jogador.nome.toLowerCase())) {
+                    presencasData.jogadores.push({
+                        nome: jogador.nome,
+                        presencas: {}
+                    });
+                }
+            });
+
+            // Remover jogadores que não estão mais em jogadoresCadastrados
+            presencasData.jogadores = presencasData.jogadores.filter(jogador =>
+                nomesJogadoresCadastrados.includes(jogador.nome.toLowerCase())
+            );
 
             // Lista de nomes de usuários presentes nos dois canais de voz (usando displayName)
             const presentes1 = canalDeVoz1.members.map(member => member.displayName.toLowerCase());
             const presentes2 = canalDeVoz2.members.map(member => member.displayName.toLowerCase());
 
             // Combina a lista de presentes dos dois canais
-            const presentes = [...new Set([...presentes1, ...presentes2])]; // Remove duplicatas
+            const presentes = [...new Set([...presentes1, ...presentes2])];
 
-            // Inicializa uma lista para jogadores não cadastrados ou nome incorreto
-            let jogadoresNaoCadastrados = [];
+            // Captura o dia da semana atual
+            const diasDaSemana = ['domingo', 'segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sábado'];
+            const dataAtual = new Date();
+            const diaAtualSemana = dataAtual.getDay();
+            const diaAtual = diasDaSemana[diaAtualSemana];
 
-            // Atualizar presenças no JSON de jogadores
-            jogadores.forEach(jogador => {
-                const nome = jogador.nome;
-                const nomeLowerCase = nome.toLowerCase();
+            // Verifica se o dia atual é um dos dias de evento
+            const diasEvento = ['terça', 'quinta', 'sábado', 'domingo'];
+            if (!diasEvento.includes(diaAtual)) {
+                await interaction.followUp(`Hoje não é um dia de evento. Os dias de evento são: ${diasEvento.join(', ')}.`);
+                return;
+            }
 
-                // Adiciona os novos atributos de presença se não existirem
-                if (!jogador.terça) {
-                    jogador.terça = '';
-                    jogador.quinta = '';
-                    jogador.sábado = '';
-                    jogador.domingo = '';
+            // Obtém o número da semana e o ano atual
+            const numeroSemana = obterNumeroSemana(dataAtual);
+            const anoAtual = dataAtual.getFullYear();
+            const chaveSemana = `${anoAtual}-W${numeroSemana}`;
+
+            // Atualizar presenças no presenca.json
+            presencasData.jogadores.forEach(jogador => {
+                const nomeLowerCase = jogador.nome.toLowerCase();
+
+                // Inicializa a semana se não existir
+                if (!jogador.presencas[chaveSemana]) {
+                    jogador.presencas[chaveSemana] = {};
                 }
 
-                // Atualiza o dia atual (inclui sábado também)
-                if (jogador[diaAtual] === '') {
-                    jogador[diaAtual] = presentes.includes(nomeLowerCase) ? 'PRESENÇA' : 'FALTA';
-                }
+                // Atualiza a presença do dia atual
+                jogador.presencas[chaveSemana][diaAtual] = presentes.includes(nomeLowerCase) ? 'PRESENÇA' : 'FALTA';
             });
 
-            // Verifica quais jogadores presentes não foram encontrados no jogadores.json
-            presentes.forEach(presente => {
-                const jogadorEncontrado = jogadores.some(jogador => jogador.nome.toLowerCase() === presente);
-                if (!jogadorEncontrado) {
-                    jogadoresNaoCadastrados.push(presente);
-                }
-            });
-
-            // Salva a atualização no arquivo jogadores.json
-            salvarJogadores(jogadores);
+            // Salva a atualização no arquivo presenca.json
+            salvarPresencas(presencasData);
 
             // Responde informando que a presença foi registrada com sucesso
             await interaction.followUp('Presença registrada com sucesso.');
-
-            // Se houver jogadores não cadastrados, envia uma mensagem separada listando esses jogadores
-            if (jogadoresNaoCadastrados.length > 0) {
-                const mensagemNaoCadastrados = `Os seguintes jogadores estão na chamada de voz, mas não estão cadastrados ou têm o nome incorreto:\n${jogadoresNaoCadastrados.join('\n')}`;
-                await interaction.followUp(mensagemNaoCadastrados);
-            }
         }
 
         // Subcomando para listar as presenças
         if (subcommand === 'listar') {
-            const jogadores = carregarJogadores();
+            const presencasData = carregarPresencas();
 
-            // Definindo os emojis para presença e falta
-            const EMOJI_CHECK = '🟢';
-            const EMOJI_X = '🔴';
-            const EMOJI_VAZIO = '⚫';
-
-            // Obter a data atual e o dia da semana
+            // Obtém a data atual e o número da semana
             const dataAtual = new Date();
+            const dataFormatada = dataAtual.toLocaleDateString('pt-BR');
             const diasDaSemana = ['domingo', 'segunda-feira', 'terça-feira', 'quarta-feira', 'quinta-feira', 'sexta-feira', 'sábado'];
             const diaDaSemanaAtual = diasDaSemana[dataAtual.getDay()];
-            const dataFormatada = dataAtual.toLocaleDateString('pt-BR');
+            const numeroSemana = obterNumeroSemana(dataAtual);
+            const anoAtual = dataAtual.getFullYear();
+            const chaveSemana = `${anoAtual}-W${numeroSemana}`;
 
-            // Inicializa a resposta com a data e o dia da semana
-            let resposta = `Presenças no Discord - ${dataFormatada} (${diaDaSemanaAtual})\n-------------------------\n| Ter | | Qui | | Sáb | | Dom |\n`;
+            const diasEvento = ['terça', 'quinta', 'sábado', 'domingo'];
 
-            // Itera sobre cada jogador e formata a linha de presença
-            jogadores.forEach(jogador => {
-                const tercaEmoji = jogador.terça === 'PRESENÇA' ? EMOJI_CHECK : (jogador.terça === 'FALTA' ? EMOJI_X : EMOJI_VAZIO);
-                const quintaEmoji = jogador.quinta === 'PRESENÇA' ? EMOJI_CHECK : (jogador.quinta === 'FALTA' ? EMOJI_X : EMOJI_VAZIO);
-                const sabadoEmoji = jogador.sábado === 'PRESENÇA' ? EMOJI_CHECK : (jogador.sábado === 'FALTA' ? EMOJI_X : EMOJI_VAZIO);
-                const domingoEmoji = jogador.domingo === 'PRESENÇA' ? EMOJI_CHECK : (jogador.domingo === 'FALTA' ? EMOJI_X : EMOJI_VAZIO);
+            presencasData.jogadores.sort((a, b) => a.nome.localeCompare(b.nome));
 
-                // Adiciona a linha formatada à resposta
-                resposta += `| ${tercaEmoji} | ${quintaEmoji} | ${sabadoEmoji} | ${domingoEmoji} | ${jogador.nome} \n`;
+            // Cabeçalho
+            let resposta = `Presenças no Discord - ${dataFormatada} (${diaDaSemanaAtual}) | Semana ${numeroSemana} de ${anoAtual}\n`;
+            resposta += `| ${diasEvento.map(d => d.substring(0, 3).padEnd(3)).join(' | ')} | Jogador\n`;
+            resposta += `${'='.repeat(60)}\n`;
+
+            presencasData.jogadores.forEach(jogador => {
+                const presencasSemana = jogador.presencas[chaveSemana] || {};
+                const presencasDias = diasEvento.map(dia => {
+                    const status = presencasSemana[dia];
+                    if (status === 'PRESENÇA') return '🟢';
+                    else if (status === 'FALTA') return '🔴';
+                    else return '⚫';
+                });
+
+                // Formatar as presenças para garantir o alinhamento
+                const presencasFormatadas = presencasDias.map(p => p.padEnd(2));
+
+                resposta += `${presencasFormatadas.join(' ')} | ${jogador.nome}\n`;
             });
 
-            // Envia a mensagem com a lista de presenças
-            await interaction.reply(resposta);
+            await interaction.reply(`\`\`\`${resposta}\`\`\``);
         }
 
-        // Subcomando para resetar as presenças
-        if (subcommand === 'resetar') {
-            const jogadores = carregarJogadores();
-
-            // Itera sobre cada jogador e reseta os campos de presença
-            jogadores.forEach(jogador => {
-                jogador.terça = '';
-                jogador.quinta = '';
-                jogador.sábado = '';
-                jogador.domingo = '';
-            });
-
-            // Salva a atualização no arquivo jogadores.json
-            salvarJogadores(jogadores);
-
-            await interaction.reply('As presenças foram resetadas com sucesso.');
-        }
     }
 };
+

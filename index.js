@@ -76,7 +76,7 @@ client.once('ready', async () => {
     logger.info(`Bot está online como ${client.user.tag}`);
 
     client.user.setActivity({
-        name: "VOLTA XUREIA 😪",
+        name: "CÓDIGO: `kmart`",
         type: ActivityType.Playing,
     });
 

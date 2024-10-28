@@ -1,0 +1,737 @@
+{
+  "jogadores": [
+    {
+      "nome": "Valadão",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Raik",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "SahPequinha",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Funniie",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Beta",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "cals",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "InFiNiTi",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "NeshBlues",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Safira",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Arteira",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "DeathBringer",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Dr1co",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "lYoHl",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "HolyGoddess",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Calik",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Aizawa",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "ADEILTONBBR",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Namida",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Hypnos",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Chapuleta",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Arleen",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Ogum",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Gilgamesh",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Komine",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "BixoBruto",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "N i n j a",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Sparrow",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "wizkhalifa",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "FRONTDMG",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Telkuh",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Marques",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "PRESENÇA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "KmarT",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "SirBomba",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "BlackHammer",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Brunosalles",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "SunX",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "AREEEI",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "DedeBR",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Yuza",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Urso",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Omp",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Fii",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "PRESENÇA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Pableraaa",
+      "presencas": {
+        "2024-W39": {
+          "quinta": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Runa",
+      "presencas": {
+        "2024-W40": {
+          "terça": "FALTA",
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Xureia",
+      "presencas": {
+        "2024-W40": {
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Hardcore",
+      "presencas": {
+        "2024-W40": {
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    },
+    {
+      "nome": "Nath",
+      "presencas": {
+        "2024-W40": {
+          "sábado": "FALTA"
+        },
+        "2024-W41": {
+          "terça": "FALTA"
+        }
+      }
+    }
+  ]
+}
